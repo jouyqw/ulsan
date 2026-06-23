@@ -288,6 +288,16 @@ function articlePage(item, type) {
   const imageBlock = isCase && item.image
     ? `<figure class="article-proof-image"><img src="../${escapeHtml(item.image)}" alt="${escapeHtml(item.imageAlt || item.title)}"><figcaption>${escapeHtml(item.result || '성공사례')}</figcaption></figure>`
     : '';
+  const lawyerBlock = isCase
+    ? `<section class="article-lawyer-card">
+                    <div class="article-lawyer-photo"><img src="../assets/images/lawyer-card.png" alt="법무법인 우린 강성수 변호사"></div>
+                    <div class="article-lawyer-copy">
+                        <span>LAW FIRM WOORIN</span>
+                        <h2>강성수 변호사가 직접 상담합니다</h2>
+                        <p>사무장·상담실장을 거치지 않습니다. 사건 초기 검토부터 재판 대응 방향까지 변호사가 직접 사실관계와 증거자료를 확인합니다.</p>
+                    </div>
+                </section>`
+    : '';
 
   return `${pageHead({ title, description: item.description || item.summary || item.title, canonical, schema })}
 <body class="article-page">
@@ -308,6 +318,7 @@ function articlePage(item, type) {
         <section class="article-wrap">
             <article class="article-body">
                 ${imageBlock}
+                ${lawyerBlock}
                 ${markdownToHtml(item.body)}
                 <p class="article-disclaimer">이 글은 일반적인 법률 정보 제공을 위한 자료이며, 개별 사건의 결과를 보장하지 않습니다. 구체적인 대응은 사실관계와 증거에 따라 달라질 수 있습니다.</p>
             </article>
