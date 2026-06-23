@@ -73,6 +73,7 @@ function markdownToHtml(markdown) {
   let paragraph = [];
   let list = [];
   let raw = [];
+  let customBlock = null;
 
   const flushParagraph = () => {
     if (!paragraph.length) return;
@@ -94,8 +95,51 @@ function markdownToHtml(markdown) {
     raw = [];
   };
 
+  const renderCustomBlock = (block) => {
+    const content = block.lines.join('\n').trim();
+    if (!content) return;
+
+    if (block.type === 'summary') {
+      html.push(`<div class="article-summary-box">${markdownToHtml(content)}</div>`);
+      return;
+    }
+
+    if (block.type === 'highlight') {
+      html.push(`<div class="article-highlight-box">${markdownToHtml(content)}</div>`);
+      return;
+    }
+
+    if (block.type === 'cta') {
+      html.push(`<div class="article-cta-box">${markdownToHtml(content)}</div>`);
+      return;
+    }
+
+    if (block.type === 'table') {
+      const rows = block.lines
+        .map((line) => line.trim())
+        .filter(Boolean)
+        .map((line) => line.split('|').map((cell) => inlineMarkdown(cell.trim())));
+
+      html.push('<div class="article-table-wrap"><table class="article-table"><tbody>');
+      rows.forEach(([head, value]) => {
+        html.push(`<tr><th>${head || ''}</th><td>${value || ''}</td></tr>`);
+      });
+      html.push('</tbody></table></div>');
+    }
+  };
+
   lines.forEach((line) => {
     const trimmed = line.trim();
+    if (customBlock) {
+      if (trimmed === ':::') {
+        renderCustomBlock(customBlock);
+        customBlock = null;
+      } else {
+        customBlock.lines.push(line);
+      }
+      return;
+    }
+
     if (raw.length) {
       raw.push(line);
       if (/^<\/(div|table|section|blockquote)>/i.test(trimmed)) {
@@ -107,6 +151,13 @@ function markdownToHtml(markdown) {
     if (!trimmed) {
       flushParagraph();
       flushList();
+      return;
+    }
+
+    if (/^:::(summary|highlight|table|cta)$/.test(trimmed)) {
+      flushParagraph();
+      flushList();
+      customBlock = { type: trimmed.slice(3), lines: [] };
       return;
     }
 
@@ -140,6 +191,7 @@ function markdownToHtml(markdown) {
   flushParagraph();
   flushList();
   flushRaw();
+  if (customBlock) renderCustomBlock(customBlock);
   return html.join('\n');
 }
 

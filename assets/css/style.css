@@ -3890,7 +3890,8 @@ body {
 }
 
 .article-summary-box,
-.article-highlight-box {
+.article-highlight-box,
+.article-cta-box {
     margin: 28px 0;
     padding: 24px;
     border-radius: 8px;
@@ -3900,9 +3901,21 @@ body {
 
 .article-summary-box strong,
 .article-highlight-box strong,
+.article-cta-box strong,
 .article-underline {
     color: var(--primary-yellow);
     font-weight: 900;
+}
+
+.article-cta-box {
+    background:
+        linear-gradient(135deg, rgba(230, 0, 18, 0.16), rgba(245, 166, 35, 0.1)),
+        rgba(255, 255, 255, 0.045);
+    border-color: rgba(230, 0, 18, 0.38);
+}
+
+.article-cta-box p:last-child {
+    margin-bottom: 0;
 }
 
 .article-underline {
