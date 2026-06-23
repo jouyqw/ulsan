@@ -6,6 +6,29 @@ const ROOT = path.resolve(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content');
 const TODAY = new Date().toISOString().slice(0, 10);
 
+const STATIC_SUCCESS_IMAGES = [
+  'assets/images/success/case-drunk-driving-probation.jpg',
+  'assets/images/success/indecent-act-appeal-fine-reduced.png',
+  'assets/images/success/case-fraud-probation.jpg',
+  'assets/images/success/case-special-assault-fine.jpg',
+  'assets/images/success/case-quasi-rape-non-prosecution.jpg',
+  'assets/images/success/case-fraud-forgery.jpg',
+  'assets/images/success/additional/drunk-driving-4th-fine.jpg',
+  'assets/images/success/additional/military-forgery-probation.jpg',
+  'assets/images/success/additional/civil-appeal-reversal.png',
+  'assets/images/success/additional/civil-settlement-10m.png',
+  'assets/images/success/additional/drug-probation.jpg',
+  'assets/images/success/additional/fraud-20-probation.jpg',
+  'assets/images/success/additional/game-law-probation.png',
+  'assets/images/success/additional/telecom-fraud-probation.jpg',
+  'assets/images/success/additional/license-free-accident-fine.jpg',
+  'assets/images/success/additional/supreme-court-merge.jpg',
+  'assets/images/success/additional/insult-non-prosecution.jpg',
+  'assets/images/success/additional/drunk-driving-3rd-probation.jpg',
+  'assets/images/success/additional/settlement-content-proof.jpg',
+];
+
+
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
 }
@@ -412,10 +435,52 @@ function homepageColumnCards(items) {
                 </article>`).join('\n');
 }
 
-function homepageCaseCards(items) {
-  return items.slice(0, 18).map((item) => `<article class="result-card"><a href="cases/${item.slug}.html"><div class="result-media"><img src="${escapeHtml(item.image || 'assets/images/og.png')}" alt="${escapeHtml(item.imageAlt || item.title)}"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div><div class="result-body"><span class="result-type">${escapeHtml(item.category || '성공사례')}</span><h3>${escapeHtml(item.title)}</h3></div></a></article>`).join('\n                ');
+function resultFromCaseTitle(title) {
+  if (title.includes('불송치')) return '불송치';
+  if (title.includes('집행유예')) return '집행유예';
+  if (title.includes('벌금')) return '벌금형';
+  if (title.includes('감액')) return '감액';
+  if (title.includes('승소') || title.includes('역전')) return '승소';
+  if (title.includes('병합')) return '병합심리';
+  if (title.includes('조기 해결')) return '조기해결';
+  return '성공';
 }
 
+function additionalSuccessCases(items) {
+  const rows = [];
+  items.forEach((item) => {
+    const match = item.body.match(/## 수많은 사건 중 일부 성공사례[\s\S]*?:::table\r?\n([\s\S]*?)\r?\n:::/);
+    if (!match) return;
+    match[1].split(/\r?\n/).map((line) => line.trim()).filter(Boolean).forEach((line) => {
+      if (line.startsWith('분야 |')) return;
+      const [category, title] = line.split('|').map((cell) => cell.trim());
+      if (!category || !title) return;
+      rows.push({
+        category,
+        title,
+        result: resultFromCaseTitle(title),
+        image: STATIC_SUCCESS_IMAGES[rows.length] || 'assets/images/og.png',
+        imageAlt: `${title} 자료`,
+        href: 'cases/',
+      });
+    });
+  });
+  return rows;
+}
+
+function homepageCaseCards(items) {
+  const seen = new Set();
+  const combined = [
+    ...items.map((item) => ({ ...item, href: `cases/${item.slug}.html` })),
+    ...additionalSuccessCases(items),
+  ].filter((item) => {
+    if (seen.has(item.title)) return false;
+    seen.add(item.title);
+    return true;
+  });
+
+  return combined.slice(0, 20).map((item) => `<article class="result-card"><a href="${escapeHtml(item.href || 'cases/')}"><div class="result-media"><img src="${escapeHtml(item.image || 'assets/images/og.png')}" alt="${escapeHtml(item.imageAlt || item.title)}"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div><div class="result-body"><span class="result-type">${escapeHtml(item.category || '성공사례')}</span><h3>${escapeHtml(item.title)}</h3></div></a></article>`).join('\n                ');
+}
 function replaceHomepageSections(columns, cases) {
   const indexPath = path.join(ROOT, 'index.html');
   if (!fs.existsSync(indexPath)) return;
@@ -428,12 +493,15 @@ function replaceHomepageSections(columns, cases) {
     );
   }
 
-  if (cases.length) {
-    html = html.replace(
-      /(<section class="success-proof" id="proof">[\s\S]*?<div class="result-grid">)([\s\S]*?)(<\/div>\s*<\/div>\s*<\/section>)/,
-      `$1\n                ${homepageCaseCards(cases)}\n            $3`
-    );
-  }
+  html = html.replace(
+    /(<section class="success-proof" id="proof">[\s\S]*?<p class="section-subtitle">)([\s\S]*?)(<\/p>)/,
+    '$1사건별 핵심 결과를 한눈에 볼 수 있도록 정리했습니다.$3'
+  );
+
+  html = html.replace(
+    /(<section class="success-proof" id="proof">[\s\S]*?<div class="result-grid">)([\s\S]*?)(<\/div>\s*<\/div>\s*<\/section>)/,
+    `$1\n                ${homepageCaseCards(cases)}\n            $3`
+  );
 
   html = html.replace(/href="\.\.\/#consult"/g, 'href="https://naver.me/GEXyUXf6" target="_blank" rel="noopener noreferrer"');
   fs.writeFileSync(indexPath, html, 'utf8');
