@@ -3889,6 +3889,65 @@ body {
     border-top: 1px solid rgba(245, 166, 35, 0.22);
 }
 
+.article-summary-box,
+.article-highlight-box {
+    margin: 28px 0;
+    padding: 24px;
+    border-radius: 8px;
+    background: rgba(245, 166, 35, 0.1);
+    border: 1px solid rgba(245, 166, 35, 0.28);
+}
+
+.article-summary-box strong,
+.article-highlight-box strong,
+.article-underline {
+    color: var(--primary-yellow);
+    font-weight: 900;
+}
+
+.article-underline {
+    text-decoration: underline;
+    text-decoration-color: rgba(230, 0, 18, 0.82);
+    text-decoration-thickness: 3px;
+    text-underline-offset: 5px;
+}
+
+.article-table-wrap {
+    margin: 30px 0;
+    overflow-x: auto;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.article-table {
+    width: 100%;
+    min-width: 640px;
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.045);
+}
+
+.article-table th,
+.article-table td {
+    padding: 15px 16px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.78);
+    line-height: 1.7;
+    text-align: left;
+    vertical-align: top;
+}
+
+.article-table th {
+    width: 28%;
+    color: var(--primary-yellow);
+    font-weight: 900;
+    background: rgba(245, 166, 35, 0.08);
+}
+
+.article-table tr:last-child th,
+.article-table tr:last-child td {
+    border-bottom: 0;
+}
+
 .empty-state {
     grid-column: 1 / -1;
     padding: 42px 24px;

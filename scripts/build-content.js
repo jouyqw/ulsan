@@ -72,6 +72,7 @@ function markdownToHtml(markdown) {
   const html = [];
   let paragraph = [];
   let list = [];
+  let raw = [];
 
   const flushParagraph = () => {
     if (!paragraph.length) return;
@@ -87,11 +88,35 @@ function markdownToHtml(markdown) {
     list = [];
   };
 
+  const flushRaw = () => {
+    if (!raw.length) return;
+    html.push(raw.join('\n'));
+    raw = [];
+  };
+
   lines.forEach((line) => {
     const trimmed = line.trim();
+    if (raw.length) {
+      raw.push(line);
+      if (/^<\/(div|table|section|blockquote)>/i.test(trimmed)) {
+        flushRaw();
+      }
+      return;
+    }
+
     if (!trimmed) {
       flushParagraph();
       flushList();
+      return;
+    }
+
+    if (/^<(div|table|section|blockquote)\b/i.test(trimmed)) {
+      flushParagraph();
+      flushList();
+      raw.push(line);
+      if (/^<\/(div|table|section|blockquote)>/i.test(trimmed)) {
+        flushRaw();
+      }
       return;
     }
 
@@ -114,12 +139,14 @@ function markdownToHtml(markdown) {
 
   flushParagraph();
   flushList();
+  flushRaw();
   return html.join('\n');
 }
 
 function inlineMarkdown(text) {
   return escapeHtml(text)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/==(.+?)==/g, '<span class="article-underline">$1</span>')
     .replace(/`(.+?)`/g, '<code>$1</code>');
 }
 
