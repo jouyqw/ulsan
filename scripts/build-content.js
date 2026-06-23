@@ -114,6 +114,26 @@ function markdownToHtml(markdown) {
       return;
     }
 
+    if (block.type === 'crisis') {
+      html.push(`<div class="article-crisis-box">${markdownToHtml(content)}</div>`);
+      return;
+    }
+
+    if (block.type === 'quote') {
+      html.push(`<div class="article-quote-box">${markdownToHtml(content)}</div>`);
+      return;
+    }
+
+    if (block.type === 'strategy') {
+      html.push(`<div class="article-strategy-box">${markdownToHtml(content)}</div>`);
+      return;
+    }
+
+    if (block.type === 'verdict') {
+      html.push(`<div class="article-verdict-box">${markdownToHtml(content)}</div>`);
+      return;
+    }
+
     if (block.type === 'table') {
       const rows = block.lines
         .map((line) => line.trim())
@@ -154,7 +174,7 @@ function markdownToHtml(markdown) {
       return;
     }
 
-    if (/^:::(summary|highlight|table|cta)$/.test(trimmed)) {
+    if (/^:::(summary|highlight|table|cta|crisis|quote|strategy|verdict)$/.test(trimmed)) {
       flushParagraph();
       flushList();
       customBlock = { type: trimmed.slice(3), lines: [] };
@@ -215,7 +235,7 @@ function pageHead({ title, description, canonical, rootPrefix = '../', schema })
     <link rel="icon" type="image/png" href="${rootPrefix}assets/images/logo.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="${rootPrefix}assets/css/style.css">
     ${schema ? `<script type="application/ld+json">\n${JSON.stringify(schema, null, 2)}\n    </script>` : ''}
