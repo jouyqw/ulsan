@@ -285,7 +285,7 @@ function bottomBar(rootPrefix = '../') {
   return `<div class="bottom-consult-bar" aria-label="빠른 상담 메뉴">
         <a href="tel:010-7219-9112"><i class="fas fa-phone-alt"></i><span>전화상담</span></a>
         <a href="https://open.kakao.com/o/se2trwfh" target="_blank" rel="noopener noreferrer"><i class="fas fa-comment"></i><span>카카오톡</span></a>
-        <a href="https://naver.me/GEXyUXf6" target="_blank" rel="noopener noreferrer"><i class="fas fa-calendar-check"></i><span>네이버예약</span></a>
+        <a href="https://naver.me/F0zsrR8L" target="_blank" rel="noopener noreferrer"><i class="fas fa-calendar-check"></i><span>네이버예약</span></a>
     </div>`;
 }
 
@@ -308,8 +308,8 @@ function articlePage(item, type) {
     mainEntityOfPage: canonical,
   };
 
-  const imageBlock = isCase && item.image
-    ? `<figure class="article-proof-image"><img src="../${escapeHtml(item.image)}" alt="${escapeHtml(item.imageAlt || item.title)}"><figcaption>${escapeHtml(item.result || '성공사례')}</figcaption></figure>`
+  const imageBlock = item.image
+    ? `<figure class="article-proof-image"><img src="../${escapeHtml(item.image)}" alt="${escapeHtml(item.imageAlt || item.title)}"><figcaption>${escapeHtml(item.result || item.category || '성공사례')}</figcaption></figure>`
     : '';
   const lawyerBlock = isCase
     ? `<section class="article-lawyer-card">
@@ -503,7 +503,7 @@ function replaceHomepageSections(columns, cases) {
     `$1\n                ${homepageCaseCards(cases)}\n            $3`
   );
 
-  html = html.replace(/href="\.\.\/#consult"/g, 'href="https://naver.me/GEXyUXf6" target="_blank" rel="noopener noreferrer"');
+  html = html.replace(/href="\.\.\/#consult"/g, 'href="https://naver.me/F0zsrR8L" target="_blank" rel="noopener noreferrer"');
   fs.writeFileSync(indexPath, html, 'utf8');
 }
 

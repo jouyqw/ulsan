@@ -52,7 +52,7 @@ function validateAndSanitizeFormData(data) {
 // ===================================
 function scrollToConsult() {
   window.open(
-    "https://naver.me/GEXyUXf6",
+    "https://naver.me/F0zsrR8L",
     "_blank",
     "noopener,noreferrer"
   );
