@@ -6,6 +6,8 @@ date: "2026-06-24"
 slug: "special-obstruction-police-fine"
 image: "assets/images/success/special-obstruction-fine.png"
 imageAlt: "특수공무집행방해 벌금형 성공사례 판결문"
+consultImage: "assets/images/lawyer-direct-consultation.png"
+consultImageAlt: "강성수 변호사 직접 상담 안내"
 keywords: ["울산 형사전문변호사", "울산 공무집행방해 변호사", "특수공무집행방해", "공무집행방해 벌금형", "울산 형사 변호사"]
 summary: "경찰관과의 실랑이 중 물건이 얼굴에 맞아 특수공무집행방해 혐의를 받은 사건에서, 피해 회복과 진정성 있는 양형자료를 통해 벌금형으로 방어한 사례입니다."
 ---

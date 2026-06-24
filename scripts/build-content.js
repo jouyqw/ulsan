@@ -311,6 +311,9 @@ function articlePage(item, type) {
   const imageBlock = item.image
     ? `<figure class="article-proof-image"><img src="../${escapeHtml(item.image)}" alt="${escapeHtml(item.imageAlt || item.title)}"><figcaption>${escapeHtml(item.result || item.category || '성공사례')}</figcaption></figure>`
     : '';
+  const consultImageBlock = item.consultImage
+    ? `<figure class="article-consult-image"><img src="../${escapeHtml(item.consultImage)}" alt="${escapeHtml(item.consultImageAlt || '변호사 직접 상담 안내')}"></figure>`
+    : '';
   const lawyerBlock = isCase
     ? `<section class="article-lawyer-card">
                     <div class="article-lawyer-photo"><img src="../assets/images/lawyer-card.png" alt="법무법인 우린 강성수 변호사"></div>
@@ -343,6 +346,7 @@ function articlePage(item, type) {
                 ${imageBlock}
                 ${lawyerBlock}
                 ${markdownToHtml(item.body)}
+                ${consultImageBlock}
                 <p class="article-disclaimer">이 글은 일반적인 법률 정보 제공을 위한 자료이며, 개별 사건의 결과를 보장하지 않습니다. 구체적인 대응은 사실관계와 증거에 따라 달라질 수 있습니다.</p>
             </article>
             <aside class="article-side">

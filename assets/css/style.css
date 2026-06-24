@@ -4021,6 +4021,21 @@ body {
     line-height: 1.85;
 }
 
+.article-consult-image {
+    margin: 42px 0 28px;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid rgba(245, 166, 35, 0.34);
+    background: rgba(255, 255, 255, 0.04);
+    box-shadow: 0 24px 62px rgba(0, 0, 0, 0.32);
+}
+
+.article-consult-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 .article-summary-box,
 .article-highlight-box,
 .article-cta-box,
@@ -4284,5 +4299,10 @@ body {
 
     .article-lawyer-copy p {
         font-size: 14px;
+    }
+
+    .article-consult-image {
+        margin: 34px 0 22px;
+        border-radius: 12px;
     }
 }
