@@ -1,40 +1,49 @@
-# 홈페이지 콘텐츠 자동화 사용법
+# 칼럼 자동화 사용법
 
-이 폴더에 성공사례와 칼럼 원고를 Markdown 파일로 넣고 빌드하면 HTML 페이지, 목록, 사이트맵이 자동 생성됩니다.
+## 1. 기본 구조
 
-## 성공사례 추가
+칼럼 원고는 `content/columns`에 저장합니다.
 
-1. `content/cases/_template.md`를 복사합니다.
-2. 파일명을 영문 또는 한글 slug 기준으로 바꿉니다.
-3. 위쪽 `---` 안의 제목, 결과, 이미지, 설명을 채웁니다.
-4. 판결문 이미지는 `assets/images/success/` 아래에 넣고 `image` 경로에 적습니다.
+빌드를 실행하면 아래 항목이 자동으로 바뀝니다.
 
-예:
+- 칼럼 상세페이지 생성
+- 칼럼 목록 추가
+- 메인 최신 칼럼 반영
+- 사이트맵 추가
+- SEO 기본 메타 태그 생성
 
-```text
-content/cases/drunk-driving-third-probation.md
-assets/images/success/drunk-driving-third-probation.jpg
+## 2. 사건별 제목 앞 키워드
+
+`scripts/create-column.js`를 쓰면 사건 유형에 맞춰 제목 맨 앞에 키워드가 자동으로 붙습니다.
+
+| 유형 | 붙는 키워드 |
+| --- | --- |
+| `general` | 울산변호사 |
+| `criminal` | 울산형사변호사 |
+| `criminal-specialist` | 울산형사전문변호사 |
+| `sex` | 울산성범죄변호사 |
+| `divorce` | 울산이혼변호사 |
+| `civil` | 울산민사소송변호사 |
+| `traffic` | 울산교통사고변호사 |
+| `drunk` | 울산음주운전변호사 |
+| `drug` | 울산마약변호사 |
+
+## 3. 새 칼럼 생성 예시
+
+```powershell
+npm run new:column -- --type criminal-specialist --title "집행유예 중 무면허 사고 벌금형 성공사례" --body draft.txt --image proof.png --result "벌금 1,000만 원"
+npm run build
+git add .
+git commit -m "Add new column"
+git push
 ```
 
-## 칼럼 추가
+## 4. 추천 작업 방식
 
-1. `content/columns/_template.md`를 복사합니다.
-2. 제목, 설명, 카테고리, slug, 본문을 채웁니다.
+가장 쉬운 방식은 아래 3가지만 준비하는 것입니다.
 
-## 빌드 명령
+1. 칼럼 원고 텍스트
+2. 판결문 또는 결정서 이미지
+3. 사건 유형
 
-사이트 폴더에서 아래 명령을 실행합니다.
-
-```bash
-node scripts/build-content.js
-```
-
-생성되는 것:
-
-- `cases/index.html`
-- `cases/{slug}.html`
-- `columns/index.html`
-- `columns/{slug}.html`
-- `sitemap.xml`
-- 메인 페이지의 성공사례 카드 일부 자동 갱신
-- 메인 페이지의 칼럼 미리보기 일부 자동 갱신
+그 다음 Codex가 제목, 표, 문단, SEO 설명, 이미지 배치, 배포까지 처리합니다.
