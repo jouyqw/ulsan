@@ -4137,6 +4137,51 @@ body {
     margin-bottom: 0;
 }
 
+.article-related-box {
+    margin: 34px 0;
+    padding: 28px;
+    border-radius: 14px;
+    border: 1px solid rgba(245, 166, 35, 0.34);
+    background:
+        linear-gradient(135deg, rgba(245, 166, 35, 0.12), rgba(255, 255, 255, 0.035)),
+        rgba(255, 255, 255, 0.045);
+    box-shadow: 0 18px 44px rgba(0, 0, 0, 0.22);
+}
+
+.article-related-box h2 {
+    margin-top: 0;
+    margin-bottom: 18px;
+    color: var(--primary-yellow);
+}
+
+.article-related-box ul {
+    display: grid;
+    gap: 12px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.article-related-box li {
+    margin: 0;
+}
+
+.article-related-box a {
+    display: block;
+    padding: 16px 18px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 1.55;
+    background: rgba(0, 0, 0, 0.24);
+}
+
+.article-related-box a:hover {
+    border-color: rgba(245, 166, 35, 0.58);
+    color: var(--primary-yellow);
+}
+
 .article-underline {
     text-decoration: underline;
     text-decoration-color: rgba(230, 0, 18, 0.82);
