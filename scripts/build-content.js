@@ -344,9 +344,9 @@ function articlePage(item, type) {
         <section class="article-wrap">
             <article class="article-body">
                 ${imageBlock}
+                ${consultImageBlock}
                 ${lawyerBlock}
                 ${markdownToHtml(item.body)}
-                ${consultImageBlock}
                 <p class="article-disclaimer">이 글은 일반적인 법률 정보 제공을 위한 자료이며, 개별 사건의 결과를 보장하지 않습니다. 구체적인 대응은 사실관계와 증거에 따라 달라질 수 있습니다.</p>
             </article>
             <aside class="article-side">
