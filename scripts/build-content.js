@@ -50,7 +50,11 @@ function readMarkdownItems(type) {
         url: `/${type}/${slug}.html`,
       };
     })
-    .sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')));
+    .sort((a, b) => {
+      const dateCompare = String(b.date || '').localeCompare(String(a.date || ''));
+      if (dateCompare !== 0) return dateCompare;
+      return Number(b.order || 0) - Number(a.order || 0);
+    });
 }
 
 function parseFrontMatter(raw) {
