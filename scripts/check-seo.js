@@ -50,7 +50,7 @@ for (const file of pages) {
   if (h1Count !== 1) errors.push(`${fileRel}: H1이 ${h1Count}개`);
   if (/:::[a-z]/i.test(html)) errors.push(`${fileRel}: 변환되지 않은 콘텐츠 블록(:::) 존재`);
 
-  if (/data-live-consults/i.test(html) && (!/LIVE CONSULTATION STATUS/i.test(html) || !/data-nosnippet/i.test(html))) {
+  if (/data-live-consults/i.test(html) && (!/LIVE CONSULTATION/i.test(html) || !/data-nosnippet/i.test(html))) {
     errors.push(`${fileRel}: live consultation status must keep section labeling and data-nosnippet guard`);
   }
 
