@@ -1792,6 +1792,25 @@ body {
     line-height: 1.8;
 }
 
+.consult-demo-notice {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-top: 18px;
+    padding: 14px 16px;
+    border: 1px solid rgba(245, 166, 35, 0.38);
+    border-radius: 8px;
+    background: rgba(245, 166, 35, 0.1);
+    color: #334155;
+    font-size: 14px;
+    line-height: 1.65;
+}
+
+.consult-demo-notice strong {
+    flex: 0 0 auto;
+    color: #9a5c00;
+}
+
 .live-consult-section .consult-dashboard {
     margin-top: 0;
 }
@@ -2089,6 +2108,11 @@ body {
     .consult-row em {
         grid-column: 2;
         grid-row: 1 / span 2;
+    }
+
+    .consult-demo-notice {
+        flex-direction: column;
+        gap: 4px;
     }
 
     .checklist li,

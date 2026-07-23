@@ -148,8 +148,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="assets/css/style.css?v=20260723-2">
-    <link rel="stylesheet" href="assets/css/practice.css?v=20260723-2">
+    <link rel="stylesheet" href="assets/css/style.css?v=20260723-3">
+    <link rel="stylesheet" href="assets/css/practice.css?v=20260723-3">
 </head>
 <body>
     <!-- Header -->
@@ -298,28 +298,26 @@
         </div>
     </section>
 
-    <!-- Consultation Preparation Guide -->
+    <!-- Transparent automated consultation examples -->
     <section class="live-consult-section" id="live-consult">
         <div class="container">
             <div class="live-consult-head">
-                <span class="live-eyebrow">CONSULTATION GUIDE</span>
-                <h2>상담 전 준비하면 좋은 자료</h2>
-                <p>사건 분야마다 먼저 확인해야 할 자료가 다릅니다. 아래 내용을 미리 정리하면 상담에서 핵심 쟁점을 더 빠르게 확인할 수 있습니다.</p>
+                <span class="live-eyebrow">CONSULTATION EXAMPLES</span>
+                <h2>실시간 상담 문의 예시</h2>
+                <p>자주 문의하는 사건 분야와 상담 진행 흐름을 보기 쉽게 보여드립니다.</p>
+                <div class="consult-demo-notice" role="note">
+                    <strong>자동 예시 안내</strong>
+                    <span>실제 접수 내역이나 실제 의뢰인 정보가 아닙니다. 이름과 날짜는 화면 예시용으로 자동 생성됩니다.</span>
+                </div>
             </div>
 
             <div class="consult-dashboard">
-                <div class="consult-panel live-panel">
+                <div class="consult-panel live-panel" data-nosnippet>
                     <div class="panel-title-row">
-                        <h3>분야별 우선 확인사항</h3>
-                        <span class="live-badge">상담 준비표</span>
+                        <h3>상담 현황 화면 예시</h3>
+                        <span class="live-badge">자동 예시</span>
                     </div>
-                    <div class="consult-list">
-                        <div class="consult-row"><strong>형사사건</strong><span>출석 요구</span><span>고소장·대화 기록</span><em>첫 진술 전</em></div>
-                        <div class="consult-row"><strong>이혼·상간</strong><span>혼인 경위</span><span>재산·대화 자료</span><em>증거 보전</em></div>
-                        <div class="consult-row"><strong>민사·부동산</strong><span>계약 내용</span><span>계약서·입금 내역</span><em>기한 확인</em></div>
-                        <div class="consult-row"><strong>음주운전</strong><span>적발 경위</span><span>전력·측정 자료</span><em>양형 준비</em></div>
-                        <div class="consult-row"><strong>성범죄</strong><span>사건 동선</span><span>메시지·CCTV 위치</span><em>삭제 금지</em></div>
-                    </div>
+                    <div class="consult-list" data-live-consults role="list" aria-label="자동 생성된 상담 현황 화면 예시"></div>
                 </div>
 
                 <div class="consult-panel checklist">
@@ -1157,6 +1155,6 @@
     </footer>
 
     <!-- JavaScript -->
-    <script src="assets/js/main.js?v=20260623-liveconsult"></script>
+    <script src="assets/js/main.js?v=20260723-consult-examples"></script>
 </body>
 </html>

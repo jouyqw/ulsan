@@ -3,7 +3,7 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const SITE_URL = 'https://ulsanlawyer.kr';
-const ASSET_VERSION = '20260723-2';
+const ASSET_VERSION = '20260723-3';
 const DEFAULT_IMAGE = `${SITE_URL}/assets/images/og.png`;
 const PRACTICE_PATHS = new Set([
   '/criminal/',
