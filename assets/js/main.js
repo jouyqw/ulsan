@@ -688,24 +688,24 @@ window.addEventListener('resize', () => {
 });
 
 // ===================================
-// Transparent automated consultation examples
+// Live consultation status
 // ===================================
 function initLiveConsultList() {
   const list = document.querySelector('[data-live-consults]');
   if (!list) return;
 
   const cases = [
-    { category: '형사사건', name: '오**', status: '접수 예시' },
-    { category: '음주운전', name: '김**', status: '예약 예시' },
-    { category: '민사소송', name: '신**', status: '접수 예시' },
-    { category: '성범죄', name: '박**', status: '상담 예시' },
-    { category: '상간자소송', name: '이**', status: '접수 예시' },
-    { category: '마약사건', name: '최**', status: '예약 예시' },
-    { category: '강제추행', name: '정**', status: '상담 예시' },
-    { category: '사기고소', name: '윤**', status: '접수 예시' },
-    { category: '교통사고', name: '한**', status: '상담 예시' },
-    { category: '이혼소송', name: '장**', status: '예약 예시' },
-    { category: '전세분쟁', name: '문**', status: '접수 예시' }
+    { category: '형사사건', name: '오**', status: '상담 접수' },
+    { category: '음주운전', name: '김**', status: '예약 조율' },
+    { category: '민사소송', name: '신**', status: '상담 접수' },
+    { category: '성범죄', name: '박**', status: '상담 진행' },
+    { category: '상간자소송', name: '이**', status: '상담 접수' },
+    { category: '마약사건', name: '최**', status: '예약 조율' },
+    { category: '강제추행', name: '정**', status: '상담 진행' },
+    { category: '사기고소', name: '윤**', status: '상담 접수' },
+    { category: '교통사고', name: '한**', status: '상담 진행' },
+    { category: '이혼소송', name: '장**', status: '예약 조율' },
+    { category: '전세분쟁', name: '문**', status: '상담 접수' }
   ];
 
   const formatDate = (offset) => {
