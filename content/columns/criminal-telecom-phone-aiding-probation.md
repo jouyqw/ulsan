@@ -5,9 +5,9 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1002
 slug: "criminal-telecom-phone-aiding-probation"
-image: "assets/images/success/telecom-phone-aiding-probation-column.png"
+image: "assets/images/success/telecom-phone-aiding-probation-column.webp"
 imageAlt: "전기통신사업법위반 방조 집행유예 성공사례 판결문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "전기통신사업법위반", "대포폰 변호사", "선불유심 방조", "보이스피싱 연루 변호사"]
 summary: "지인의 부탁으로 선불 유심폰을 넘겨 전기통신사업법위반 방조 혐의를 받은 사건에서, 가담 정도와 교화 가능성을 정리해 집행유예를 이끌어낸 사례입니다."

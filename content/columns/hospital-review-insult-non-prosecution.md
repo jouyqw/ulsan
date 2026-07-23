@@ -7,7 +7,7 @@ order: 1007
 slug: "hospital-review-insult-non-prosecution"
 image: "assets/images/success/hospital-review-insult-non-prosecution-column.png"
 imageAlt: "병원 리뷰 모욕죄 불송치 성공사례 결정서"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "모욕죄변호사", "리뷰고소", "병원리뷰모욕죄", "불송치변호사"]
 summary: "병원 이용 후 남긴 온라인 리뷰로 모욕죄 고소를 당한 사건에서, 경찰 단계에서 혐의 없음 불송치 결정을 받은 사례입니다."

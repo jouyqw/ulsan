@@ -5,7 +5,7 @@ category: "마약사건 칼럼"
 date: "2026-06-24"
 order: 1013
 slug: "drug-first-offense-recidivism-risk-guide"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산마약변호사", "마약초범", "마약집행유예", "마약재범위험성", "마약사건변호사"]
 summary: "마약 사건은 초범이라도 방심하면 안 됩니다. 법원이 중요하게 보는 재범 위험성과 치료·재활 중심 선처자료를 정리했습니다."

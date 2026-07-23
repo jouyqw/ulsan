@@ -5,9 +5,9 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1003
 slug: "ulsan-lawyer-illegal-game-probation"
-image: "assets/images/success/illegal-game-probation-column.png"
+image: "assets/images/success/illegal-game-probation-column.webp"
 imageAlt: "불법 게임장 환전 집행유예 성공사례 판결문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산변호사", "울산 형사전문변호사", "게임산업진흥법위반", "불법게임장 변호사", "환전 집행유예"]
 summary: "불법 게임장 운영과 현금 환전, 장기간 범행이 문제 된 사건에서 재범 방지 자료와 양형자료를 정리해 집행유예를 이끌어낸 사례입니다."

@@ -5,9 +5,9 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1006
 slug: "criminal-trials-merge-supreme-court"
-image: "assets/images/success/criminal-trials-merge-supreme-court-column.png"
+image: "assets/images/success/criminal-trials-merge-supreme-court-column.webp"
 imageAlt: "대법원 형사재판 병합심리 결정 성공사례"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "형사재판병합", "대법원병합심리", "형사사건병합", "울산형사변호사"]
 summary: "두 지역 법원에서 따로 진행되던 형사재판을 대법원 병합심리 결정으로 하나의 재판으로 합친 사례입니다."

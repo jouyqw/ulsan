@@ -298,6 +298,13 @@ body.practice-page {
     margin-top: 8px;
 }
 
+.lawyer-page-photo {
+    display: block;
+    width: min(100%, 360px);
+    height: auto;
+    margin: 0 auto;
+}
+
 @media (max-width: 900px) {
     .practice-grid,
     .practice-link-grid,

@@ -5,7 +5,7 @@ category: "성범죄·강제추행"
 result: "벌금형"
 date: "2026-06-23"
 slug: "indecent-act-appeal-fine-reduced"
-image: "assets/images/success/indecent-act-appeal-fine-reduced.png"
+image: "assets/images/success/indecent-act-appeal-fine-reduced.webp"
 imageAlt: "강제추행 항소심 벌금형 성공사례 판결문"
 keywords: ["울산 성범죄 변호사", "울산 강제추행 변호사", "강제추행 항소심", "강제추행 벌금형", "울산 형사전문변호사"]
 summary: "1심 벌금형 이후 검찰이 항소하고 항소심에서도 실형 의견을 유지한 사건에서, 피해 회복과 합의 자료를 정리해 벌금형으로 방어한 사례입니다."

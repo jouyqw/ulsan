@@ -5,9 +5,9 @@ category: "마약 사건 칼럼"
 date: "2026-06-24"
 order: 1000
 slug: "ulsan-drug-lawyer-repeat-probation"
-image: "assets/images/success/ulsan-drug-lawyer-repeat-probation-column.png"
+image: "assets/images/success/ulsan-drug-lawyer-repeat-probation-column.webp"
 imageAlt: "울산 마약 재판 중 재범 집행유예 성공사례 판결문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산마약변호사", "울산 마약 사건", "마약 구속 집행유예", "마약 재범 집행유예", "마약류관리법 위반 변호사"]
 summary: "마약 재판을 받던 중 다시 마약을 해 구속된 사건에서, 변화 가능성과 치료 의지를 입증해 집행유예를 이끌어낸 사례입니다."

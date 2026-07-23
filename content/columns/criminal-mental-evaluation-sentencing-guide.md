@@ -5,7 +5,7 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1011
 slug: "criminal-mental-evaluation-sentencing-guide"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "정신감정", "형사재판양형", "심신미약", "형사전문변호사"]
 summary: "형사재판에서 정신감정이 책임능력과 양형에 어떤 영향을 줄 수 있는지, 언제 신청해야 하고 어떤 자료가 필요한지 정리한 칼럼입니다."

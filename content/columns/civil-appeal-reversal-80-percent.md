@@ -6,7 +6,7 @@ date: "2026-06-24"
 slug: "civil-appeal-reversal-80-percent"
 image: "assets/images/success/civil-appeal-reversal-column.png"
 imageAlt: "민사소송 항소심 역전 성공사례 판결문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산 민사소송 변호사", "민사 항소심 변호사", "1심 패소 항소", "민사소송 승소", "계약분쟁 변호사"]
 summary: "민사소송 1심에서 패소한 사건을 항소심에서 사실관계와 법리를 다시 구성해 청구금액 약 80% 인정이라는 결과로 뒤집은 사례입니다."

@@ -5,7 +5,7 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1016
 slug: "ulsan-lawyer-recommend-police-summons-guide"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산변호사추천", "울산형사전문변호사", "경찰출석요구", "경찰조사변호사", "형사사건상담", "울산형사변호사"]
 summary: "경찰 출석 요구를 받았다고 해서 모든 사건에 변호사 선임이 필요한 것은 아닙니다. 다만 성범죄, 사기·횡령·배임, 구속 위험 사건은 첫 조사 전 상담이 매우 중요합니다."

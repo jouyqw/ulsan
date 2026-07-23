@@ -5,9 +5,9 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1008
 slug: "drunk-driving-mitigation-guide"
-image: "assets/images/success/drunk-driving-mitigation-guide-hero.png"
+image: "assets/images/success/drunk-driving-mitigation-guide-hero.webp"
 imageAlt: "음주운전 감형 요소 법률 칼럼 대표 이미지"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "울산음주운전변호사", "음주운전 감형되는요소", "음주운전 재범", "음주운전 경찰조사"]
 summary: "축제나 모임 후 음주운전으로 적발된 경우, 실형 위험을 줄이기 위해 초기에 확인해야 할 감형 요소를 정리했습니다."

@@ -5,7 +5,7 @@ category: "성범죄 칼럼"
 date: "2026-06-24"
 order: 1012
 slug: "sex-crime-polygraph-strategy"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산성범죄전문변호사", "울산성범죄변호사", "거짓말탐지기", "성범죄경찰조사", "폴리그래프검사"]
 summary: "성범죄 사건에서 거짓말탐지기 조사를 제안받았을 때 무조건 응해야 하는지, 검사 결과가 어떤 의미를 갖는지 정리한 칼럼입니다."

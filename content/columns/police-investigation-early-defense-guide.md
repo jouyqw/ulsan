@@ -5,7 +5,7 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1014
 slug: "police-investigation-early-defense-guide"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "경찰조사변호사", "피의자신문조서", "형사사건초기대응", "경찰조사동행"]
 summary: "경찰 조사를 혼자 받은 뒤 변호사를 찾으면 이미 불리한 조서가 만들어져 있을 수 있습니다. 조사 전 준비해야 할 핵심 대응을 정리했습니다."

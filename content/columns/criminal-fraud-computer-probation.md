@@ -5,9 +5,9 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1001
 slug: "criminal-fraud-computer-probation"
-image: "assets/images/success/fraud-computer-probation-column.png"
+image: "assets/images/success/fraud-computer-probation-column.webp"
 imageAlt: "사기 컴퓨터등사용사기 집행유예 성공사례 판결문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "울산 사기 변호사", "컴퓨터등사용사기", "집행유예 중 사기", "사기 집행유예"]
 summary: "집행유예 기간 중 20회가 넘는 사기·컴퓨터등사용사기 혐의가 문제 된 사건에서, 경합범 법리와 피해 회복 전략으로 다시 집행유예를 이끌어낸 사례입니다."

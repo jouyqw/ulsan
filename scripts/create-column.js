@@ -4,7 +4,7 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content', 'columns');
 const IMAGE_DIR = path.join(ROOT, 'assets', 'images', 'success');
-const LAWYER_IMAGE = 'assets/images/lawyer-portrait-gray.png';
+const LAWYER_IMAGE = 'assets/images/lawyer-portrait-gray.webp';
 
 const PREFIX_BY_TYPE = {
   general: '울산변호사',

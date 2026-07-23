@@ -4,9 +4,9 @@ description: "울산 음주측정거부 사건에서 과거 음주운전 전과 
 category: "음주운전 칼럼"
 date: "2026-06-24"
 slug: "drunk-refusal-probation"
-image: "assets/images/success/drunk-refusal-probation.png"
+image: "assets/images/success/drunk-refusal-probation.webp"
 imageAlt: "음주측정거부 집행유예 성공사례 판결문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산 음주운전 변호사", "울산 음주측정거부 변호사", "음주측정거부 집행유예", "음주운전 3회", "울산 형사전문변호사"]
 summary: "음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다."

@@ -5,9 +5,9 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1004
 slug: "criminal-unlicensed-accident-probation-fine"
-image: "assets/images/success/unlicensed-accident-probation-fine-column.png"
+image: "assets/images/success/unlicensed-accident-probation-fine-column.webp"
 imageAlt: "무면허 교통사고 벌금형 성공사례 판결문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "울산교통사고변호사", "무면허운전변호사", "집행유예중무면허운전", "교통사고처리특례법치상"]
 summary: "음주운전 집행유예 기간 중 무면허 상태로 사고를 내 상해까지 발생한 사건에서, 실형 위험을 방어하고 벌금형으로 마무리한 사례입니다."

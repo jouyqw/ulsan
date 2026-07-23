@@ -5,7 +5,7 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1017
 slug: "ulsan-detention-center-lawyer-family-guide"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산구치소변호사", "울산형사전문변호사", "구속접견", "변호인접견", "구속사건변호사", "울산형사변호사"]
 summary: "가족이 갑자기 구속되면 일반 면회 예약보다 먼저 사건 방향을 잡아야 합니다. 일반 접견과 변호인 접견의 차이, 구속 초기 대응 순서를 정리했습니다."

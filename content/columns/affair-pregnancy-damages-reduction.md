@@ -6,7 +6,7 @@ date: "2026-06-24"
 slug: "affair-pregnancy-damages-reduction"
 image: "assets/images/success/affair-pregnancy-damages-reduction-column.png"
 imageAlt: "상간자 손해배상 감액 성공사례 화해권고결정문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산 상간자소송 변호사", "상간자 위자료 감액", "상간녀소송", "상간자 손해배상", "임신 중 외도 위자료"]
 summary: "임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다."

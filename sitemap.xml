@@ -2,302 +2,186 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ulsanlawyer.kr/</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/#success</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ulsanlawyer.kr/lawyer/</loc>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/#proof</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://ulsanlawyer.kr/criminal/</loc>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/#features</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ulsanlawyer.kr/divorce/</loc>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/#reviews</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ulsanlawyer.kr/sex-crime/</loc>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/#location</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ulsanlawyer.kr/real-estate/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ulsanlawyer.kr/civil/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ulsanlawyer.kr/affair-lawsuit/</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ulsanlawyer.kr/dui/</loc>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://ulsanlawyer.kr/columns/</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ulsanlawyer.kr/cases/</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ulsanlawyer.kr/criminal/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ulsanlawyer.kr/divorce/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ulsanlawyer.kr/sex-crime/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ulsanlawyer.kr/real-estate/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ulsanlawyer.kr/civil/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ulsanlawyer.kr/affair-lawsuit/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ulsanlawyer.kr/dui/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ulsanlawyer.kr/press/</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/sexual-assault-evidence-collection-defense-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/sexual-assault-evidence-collection-defense-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/ulsan-detention-center-lawyer-family-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/ulsan-detention-center-lawyer-family-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/ulsan-lawyer-recommend-police-summons-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/ulsan-lawyer-recommend-police-summons-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/embezzlement-breach-of-trust-defense-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/embezzlement-breach-of-trust-defense-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/police-investigation-early-defense-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/police-investigation-early-defense-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/drug-first-offense-recidivism-risk-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/drug-first-offense-recidivism-risk-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/sex-crime-polygraph-strategy.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/sex-crime-polygraph-strategy</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/criminal-mental-evaluation-sentencing-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/criminal-mental-evaluation-sentencing-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/sex-crime-false-accusation-evidence-preservation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/sex-crime-false-accusation-evidence-preservation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/minor-prostitution-solicitation-chat-risk.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/minor-prostitution-solicitation-chat-risk</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/drunk-driving-mitigation-guide.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/drunk-driving-mitigation-guide</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/hospital-review-insult-non-prosecution.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/hospital-review-insult-non-prosecution</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/criminal-trials-merge-supreme-court.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/criminal-trials-merge-supreme-court</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/criminal-unlicensed-accident-probation-fine.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/criminal-unlicensed-accident-probation-fine</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/ulsan-lawyer-illegal-game-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/ulsan-lawyer-illegal-game-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/criminal-telecom-phone-aiding-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/criminal-telecom-phone-aiding-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/criminal-fraud-computer-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/criminal-fraud-computer-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/drunk-refusal-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/drunk-refusal-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/fraud-denial-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/fraud-denial-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/lease-contract-forgery-loan-fraud-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/lease-contract-forgery-loan-fraud-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/military-forgery-harassment-probation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/military-forgery-harassment-probation</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/quasi-rape-non-prosecution.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/quasi-rape-non-prosecution</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/special-obstruction-police-fine.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/special-obstruction-police-fine</loc>
     <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/direct-consultation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/direct-consultation</loc>
     <lastmod>2026-06-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/indecent-act-appeal-strategy.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/indecent-act-appeal-strategy</loc>
     <lastmod>2026-06-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/lease-deposit.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/lease-deposit</loc>
     <lastmod>2026-06-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/columns/police-investigation.html</loc>
+    <loc>https://ulsanlawyer.kr/columns/police-investigation</loc>
     <lastmod>2026-06-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ulsanlawyer.kr/cases/indecent-act-appeal-fine-reduced.html</loc>
+    <loc>https://ulsanlawyer.kr/cases/indecent-act-appeal-fine-reduced</loc>
     <lastmod>2026-06-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>

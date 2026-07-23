@@ -7,7 +7,7 @@ order: 1005
 slug: "lease-deposit-provisional-seizure-success"
 image: "assets/images/success/lease-deposit-provisional-seizure-column.png"
 imageAlt: "임대차보증금 채권가압류 성공사례 결정문"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산변호사", "울산민사소송변호사", "임대차보증금가압류", "채권가압류", "돈받는방법"]
 summary: "상대방 명의 부동산이 없어 막막했던 채권 회수 사건에서, 임대차보증금 반환채권을 신속히 가압류해 돈을 받을 기반을 마련한 사례입니다."

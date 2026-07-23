@@ -5,7 +5,7 @@ category: "성범죄 칼럼"
 date: "2026-06-24"
 order: 1009
 slug: "minor-prostitution-solicitation-chat-risk"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산성범죄전문변호사", "울산성범죄변호사", "아청법변호사", "랜덤채팅아청법", "조건만남권유"]
 summary: "랜덤채팅이나 SNS에서 미성년자에게 조건을 제안했다는 이유로 아청법 위반 조사를 받게 된 경우, 실제 만남이 없었더라도 문제될 수 있는 쟁점과 초기 대응 방법을 정리했습니다."

@@ -5,7 +5,7 @@ category: "성범죄 칼럼"
 date: "2026-06-24"
 order: 1018
 slug: "sexual-assault-evidence-collection-defense-guide"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산형사전문변호사", "울산성범죄변호사", "성폭행무혐의", "성범죄증거", "증거보전신청", "성폭행변호사"]
 summary: "억울한 성폭행 혐의에서는 말뿐인 해명보다 사건 전후의 객관적 정황 증거가 중요합니다. CCTV, 메시지, 통화기록, 증거 제출 순서를 정리했습니다."

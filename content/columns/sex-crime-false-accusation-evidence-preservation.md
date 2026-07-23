@@ -5,7 +5,7 @@ category: "성범죄 칼럼"
 date: "2026-06-24"
 order: 1010
 slug: "sex-crime-false-accusation-evidence-preservation"
-consultImage: "assets/images/lawyer-portrait-gray.png"
+consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
 keywords: ["울산성범죄전문변호사", "울산성범죄변호사", "성범죄무고", "증거보전청구", "강제추행무고"]
 summary: "성범죄 무고를 주장하는 사건에서 카톡이 지워졌거나 녹음이 없는 경우, CCTV와 주변 자료를 사라지기 전에 확보하는 초기 대응이 중요합니다."
@@ -157,7 +157,7 @@ CCTV | 모텔, 엘리베이터, 거리, 건물 출입구 영상
   <h2>관련 성범죄 칼럼</h2>
   <ul>
     <li><a href="../columns/quasi-rape-non-prosecution.html">성범죄 준강간 고소에도 불송치 결정을 받아낸 성공 사례</a></li>
-    <li><a href="../columns/indecent-act-appeal-fine-reduced.html">강제추행 항소심, 검찰 실형 구형에도 벌금형 성공 사례</a></li>
+    <li><a href="../cases/indecent-act-appeal-fine-reduced.html">강제추행 항소심, 검찰 실형 구형에도 벌금형 성공 사례</a></li>
     <li><a href="../columns/minor-prostitution-solicitation-chat-risk.html">랜덤채팅 조건 제안, 아청법 위반으로 경찰 연락을 받았다면</a></li>
   </ul>
 </div>
