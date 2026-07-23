@@ -24,6 +24,7 @@
 }
 
 .lawyer-profile-photo {
+    min-width: 0;
     min-height: 420px;
     display: flex;
     align-items: flex-end;
@@ -36,6 +37,7 @@
 
 .lawyer-profile-photo img {
     width: min(100%, 330px);
+    max-width: 100%;
     height: auto;
     object-fit: contain;
 }

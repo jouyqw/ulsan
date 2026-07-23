@@ -3,6 +3,7 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const SITE_URL = 'https://ulsanlawyer.kr';
+const ASSET_VERSION = '20260723-2';
 const DEFAULT_IMAGE = `${SITE_URL}/assets/images/og.png`;
 const PRACTICE_PATHS = new Set([
   '/criminal/',
@@ -194,6 +195,12 @@ function normalizeInternalLinks(html) {
   });
 }
 
+function versionLocalStylesheets(html) {
+  return html.replace(/href=(['"])(?!https?:|\/\/)([^'"]+\.css)(?:\?[^'"]*)?\1/gi, (_full, quote, href) => (
+    `href=${quote}${href}?v=${ASSET_VERSION}${quote}`
+  ));
+}
+
 const htmlFiles = walk(ROOT).filter((file) => file.endsWith('.html'));
 let changed = 0;
 
@@ -203,6 +210,7 @@ htmlFiles.forEach((file) => {
   let html = normalizeHead(original);
   html = normalizeNavigation(html);
   html = normalizeInternalLinks(html);
+  html = versionLocalStylesheets(html);
   html = normalizeImages(html, file);
   html = html.replace(/[ \t]+(?=\r?\n)/g, '');
   if (html !== original) {
