@@ -50,8 +50,8 @@ for (const file of pages) {
   if (h1Count !== 1) errors.push(`${fileRel}: H1이 ${h1Count}개`);
   if (/:::[a-z]/i.test(html)) errors.push(`${fileRel}: 변환되지 않은 콘텐츠 블록(:::) 존재`);
 
-  if (/data-live-consults/i.test(html) && (!/consult-demo-notice/i.test(html) || !/data-nosnippet/i.test(html))) {
-    errors.push(`${fileRel}: automated consultation examples must keep their disclosure and data-nosnippet guard`);
+  if (/data-live-consults/i.test(html) && (!/CONSULTATION EXAMPLES/i.test(html) || !/data-nosnippet/i.test(html))) {
+    errors.push(`${fileRel}: automated consultation examples must keep visible example labeling and data-nosnippet guard`);
   }
 
   if (!noindex) {
