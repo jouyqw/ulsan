@@ -32,7 +32,7 @@ function sitePathToFile(urlPath) {
   return path.join(candidate, 'index.html');
 }
 
-const pages = walk(ROOT).filter((file) => file.endsWith('.html') && !/\\(?:google|naver)[^\\]*\.html$/i.test(file));
+const pages = walk(ROOT).filter((file) => file.endsWith('.html') && !/[\\/](?:google|naver)[^\\/]*\.html$/i.test(file));
 const indexableCanonicals = new Map();
 const titles = new Map();
 

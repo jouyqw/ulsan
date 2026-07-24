@@ -32,6 +32,25 @@ const STATIC_SUCCESS_IMAGES = [
 ];
 
 
+const COLUMN_CATEGORIES = [
+  { key: 'criminal', label: '형사', test: /형사/ },
+  { key: 'sex', label: '성범죄', test: /성범죄|추행|강간|성폭력/ },
+  { key: 'drug', label: '마약', test: /마약/ },
+  { key: 'dui', label: '음주운전', test: /음주/ },
+  { key: 'fraud', label: '사기', test: /사기/ },
+  { key: 'affair', label: '상간소송', test: /상간|부정행위/ },
+  { key: 'civil', label: '민사·임대차', test: /민사|임대차|부동산|보증금|대여금/ },
+  { key: 'info', label: '상담·안내', test: /상담|안내/ },
+];
+
+function categoryGroup(raw) {
+  const value = String(raw || '');
+  for (const group of COLUMN_CATEGORIES) {
+    if (group.test.test(value)) return group;
+  }
+  return { key: 'etc', label: '기타' };
+}
+
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
 }
@@ -467,50 +486,76 @@ function articlePage(item, type) {
 `;
 }
 
-function listingPage(type, items) {
+const COLUMN_FILTER_SCRIPT = `(function(){
+  var grid = document.getElementById('columnGrid');
+  if(!grid){return;}
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.column-card'));
+  var search = document.getElementById('columnSearch');
+  var clearBtn = document.getElementById('columnSearchClear');
+  var chips = Array.prototype.slice.call(document.querySelectorAll('.column-chip'));
+  var countEl = document.getElementById('columnCount');
+  var emptyEl = document.getElementById('columnEmpty');
+  var activeCat = 'all';
+  function norm(value){return (value||'').toString().toLowerCase().replace(/\\s+/g,'');}
+  function apply(){
+    var q = norm(search ? search.value : '');
+    var shown = 0;
+    cards.forEach(function(card){
+      var cat = card.getAttribute('data-cat') || '';
+      var text = card.getAttribute('data-text') || '';
+      var okCat = activeCat === 'all' || cat === activeCat;
+      var okQuery = !q || text.indexOf(q) !== -1;
+      var show = okCat && okQuery;
+      card.style.display = show ? '' : 'none';
+      if(show){shown++;}
+    });
+    if(countEl){countEl.textContent = q || activeCat !== 'all' ? (shown + '개 칼럼') : ('전체 ' + cards.length + '개 칼럼');}
+    if(emptyEl){emptyEl.hidden = shown !== 0;}
+    if(clearBtn){clearBtn.hidden = !(search && search.value);}
+  }
+  if(search){search.addEventListener('input', apply);}
+  if(clearBtn){clearBtn.addEventListener('click', function(){search.value=''; search.focus(); apply();});}
+  chips.forEach(function(chip){
+    chip.addEventListener('click', function(){
+      chips.forEach(function(other){other.classList.remove('is-active'); other.setAttribute('aria-selected','false');});
+      chip.classList.add('is-active');
+      chip.setAttribute('aria-selected','true');
+      activeCat = chip.getAttribute('data-filter') || 'all';
+      apply();
+    });
+  });
+  apply();
+})();`;
+
+function listingPage(type, items, cases) {
   const isCase = type === 'cases';
   const title = isCase ? '성공사례 | 울산변호사 강성수' : '법률 칼럼 | 울산변호사 강성수';
   const description = isCase
     ? '울산변호사 강성수 변호사가 직접 수행한 형사·민사·가사 사건의 쟁점, 대응 과정과 결과를 성공사례로 정리했습니다.'
-    : '울산 형사, 민사, 임대차, 법률상담 쟁점을 강성수 변호사가 쉽게 정리한 법률 칼럼입니다.';
+    : '울산 형사·성범죄·마약·음주운전·사기·민사 사건을 강성수 변호사가 쉽게 정리한 법률 칼럼입니다. 검색과 분야별 분류로 원하는 칼럼을 빠르게 찾아보세요.';
   const eyebrow = isCase ? 'Success Cases' : 'Legal Column';
   const h1 = isCase ? '강성수 변호사의 성공사례' : '강성수 변호사의 법률 칼럼';
   const lead = isCase
     ? '실제 결과를 중심으로 사건의 쟁점과 대응 방향을 정리합니다.'
-    : '형사·민사 사건에서 의뢰인들이 자주 묻는 질문을 쉽게 정리합니다.';
-  const cardClass = isCase ? 'result-card' : 'column-card';
-  const gridClass = isCase ? 'result-grid' : 'column-grid';
+    : '형사·민사 사건에서 의뢰인들이 자주 묻는 질문을 분야별로 정리했습니다. 키워드로 검색하거나 분야를 선택해 보세요.';
 
-  const cards = items.map((item) => {
-    if (isCase) {
-      return `<article class="${cardClass}">
+  if (isCase) {
+    const cards = items.map((item) => `<article class="result-card">
                     <a href="${item.slug}">
                         <div class="result-media"><img src="../${escapeHtml(item.image || 'assets/images/og.png')}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div>
                         <div class="result-body"><span class="result-type">${escapeHtml(item.category || '성공사례')}</span><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.summary || item.description || '')}</p></div>
                     </a>
-                </article>`;
-    }
-    return `<article class="${cardClass}">
-                    <a href="${item.slug}">
-                        <span class="column-category">${escapeHtml(item.category || '법률 칼럼')}</span>
-                        <h3>${escapeHtml(item.title)}</h3>
-                        <p>${escapeHtml(item.summary || item.description || '')}</p>
-                        <span class="column-more">칼럼 읽기</span>
-                    </a>
-                </article>`;
-  }).join('\n');
-
-  const schema = {
-    '@context': 'https://schema.org',
-    '@type': isCase ? 'CollectionPage' : 'Blog',
-    name: h1,
-    url: `${SITE_URL}/${type}/`,
-    publisher: { '@type': 'LegalService', name: '법무법인 우린' },
-  };
-
-  return `${pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })}
+                </article>`).join('\n');
+    const schema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: h1,
+      url: `${SITE_URL}/${type}/`,
+      publisher: { '@type': 'LegalService', name: '법무법인 우린' },
+    };
+    return `${pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })}
 <body class="columns-page">
-    ${siteHeader(isCase ? 'cases' : 'columns')}
+    ${siteHeader('cases')}
     <main>
         <section class="columns-hero">
             <div class="columns-hero-inner">
@@ -520,13 +565,129 @@ function listingPage(type, items) {
             </div>
         </section>
         <section class="columns-content">
-            <div class="${gridClass}">
+            <div class="result-grid">
                 ${cards || '<p class="empty-state">등록된 글이 없습니다.</p>'}
             </div>
         </section>
     </main>
     ${bottomBar()}
     <script src="../assets/js/main.js?v=20260623-auto"></script>
+</body>
+</html>
+`;
+  }
+
+  // ----- 칼럼 목록 페이지 -----
+  const counts = {};
+  items.forEach((item) => {
+    const key = categoryGroup(item.category).key;
+    counts[key] = (counts[key] || 0) + 1;
+  });
+  const chipDefs = [{ key: 'all', label: '전체' }];
+  COLUMN_CATEGORIES.forEach((group) => {
+    if (counts[group.key]) chipDefs.push({ key: group.key, label: group.label });
+  });
+  if (counts.etc) chipDefs.push({ key: 'etc', label: '기타' });
+
+  const chips = chipDefs.map((chip, index) => `<button type="button" class="column-chip${index === 0 ? ' is-active' : ''}" data-filter="${chip.key}" role="tab" aria-selected="${index === 0 ? 'true' : 'false'}">${escapeHtml(chip.label)}${chip.key === 'all' ? '' : ` <span class="column-chip-count">${counts[chip.key]}</span>`}</button>`).join('\n                    ');
+
+  const cards = items.map((item) => {
+    const group = categoryGroup(item.category);
+    const searchText = [item.title, item.summary, item.description, Array.isArray(item.keywords) ? item.keywords.join(' ') : item.keywords, group.label, item.category]
+      .filter(Boolean).join(' ').toLowerCase().replace(/\s+/g, '');
+    return `<article class="column-card" data-cat="${group.key}" data-text="${escapeHtml(searchText)}">
+                    <a href="${item.slug}">
+                        <span class="column-category">${escapeHtml(group.label)}</span>
+                        <h3>${escapeHtml(item.title)}</h3>
+                        <p>${escapeHtml(item.summary || item.description || '')}</p>
+                        <span class="column-more">칼럼 읽기</span>
+                    </a>
+                </article>`;
+  }).join('\n');
+
+  const successItems = columnSuccessCards(items, cases);
+  const successCards = successItems.map((item) => `<article class="result-card">
+                    <a href="${escapeHtml(item.href)}">
+                        <div class="result-media"><img src="../${escapeHtml(item.image)}" alt="${escapeHtml(item.imageAlt)}" loading="lazy" decoding="async"><span class="result-stamp">${escapeHtml(item.result)}</span></div>
+                        <div class="result-body"><span class="result-type">${escapeHtml(item.category)}</span><h3>${escapeHtml(item.title)}</h3></div>
+                    </a>
+                </article>`).join('\n                ');
+  const successSection = successItems.length ? `<section class="column-success">
+            <div class="column-success-inner">
+                <div class="column-success-head">
+                    <span class="column-eyebrow">Success Cases</span>
+                    <h2>대표 성공사례</h2>
+                    <p>강성수 변호사가 직접 이끌어낸 실제 사건 결과입니다.</p>
+                </div>
+                <div class="result-grid">
+                ${successCards}
+                </div>
+                <div class="column-success-action"><a href="../#success" class="column-list-button">전체 성공사례 보기</a></div>
+            </div>
+        </section>` : '';
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Blog',
+        '@id': `${SITE_URL}/columns/#blog`,
+        name: h1,
+        url: `${SITE_URL}/columns/`,
+        description,
+        inLanguage: 'ko-KR',
+        publisher: { '@type': 'LegalService', name: '법무법인 우린', url: `${SITE_URL}/` },
+        blogPost: items.slice(0, 20).map((item) => ({
+          '@type': 'BlogPosting',
+          headline: item.title,
+          url: `${SITE_URL}/columns/${item.slug}`,
+          datePublished: item.date || TODAY,
+          author: { '@type': 'Person', name: '강성수' },
+        })),
+      },
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: '홈', item: `${SITE_URL}/` },
+          { '@type': 'ListItem', position: 2, name: '법률 칼럼', item: `${SITE_URL}/columns/` },
+        ],
+      },
+    ],
+  };
+
+  return `${pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })}
+<body class="columns-page">
+    ${siteHeader('columns')}
+    <main>
+        <section class="columns-hero">
+            <div class="columns-hero-inner">
+                <span class="column-eyebrow">${eyebrow}</span>
+                <h1>${h1}</h1>
+                <p>${lead}</p>
+            </div>
+        </section>
+        ${successSection}
+        <section class="columns-content">
+            <div class="column-toolbar">
+                <div class="column-search">
+                    <svg class="column-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20l-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+                    <input type="search" id="columnSearch" class="column-search-input" placeholder="키워드로 검색 (예: 음주운전, 불송치, 상간)" aria-label="칼럼 검색" autocomplete="off">
+                    <button type="button" id="columnSearchClear" class="column-search-clear" aria-label="검색어 지우기" hidden>&times;</button>
+                </div>
+                <div class="column-filters" role="tablist" aria-label="칼럼 분야">
+                    ${chips}
+                </div>
+            </div>
+            <p class="column-count" id="columnCount" aria-live="polite">전체 ${items.length}개 칼럼</p>
+            <div class="column-grid" id="columnGrid">
+                ${cards || '<p class="empty-state">등록된 글이 없습니다.</p>'}
+            </div>
+            <p class="empty-state" id="columnEmpty" hidden>검색 결과가 없습니다. 다른 키워드로 검색하거나 분야를 바꿔보세요.</p>
+        </section>
+    </main>
+    ${bottomBar()}
+    <script src="../assets/js/main.js?v=20260623-auto"></script>
+    <script>${COLUMN_FILTER_SCRIPT}</script>
 </body>
 </html>
 `;
@@ -545,13 +706,49 @@ function homepageColumnCards(items) {
 
 function resultFromCaseTitle(title) {
   if (title.includes('불송치')) return '불송치';
+  if (title.includes('불기소') || title.includes('무혐의') || title.includes('혐의없음')) return '무혐의';
   if (title.includes('집행유예')) return '집행유예';
   if (title.includes('벌금')) return '벌금형';
-  if (title.includes('감액')) return '감액';
-  if (title.includes('승소') || title.includes('역전')) return '승소';
+  if (title.includes('감액') || title.includes('감형')) return '감액';
+  if (title.includes('승소') || title.includes('역전') || title.includes('인정')) return '승소';
+  if (title.includes('가압류') || title.includes('묶어')) return '가압류';
   if (title.includes('병합')) return '병합심리';
   if (title.includes('조기 해결')) return '조기해결';
   return '성공';
+}
+
+function columnSuccessCards(columns, cases) {
+  const seen = new Set();
+  const fromCases = (cases || [])
+    .filter((item) => item.image)
+    .map((item) => ({
+      title: item.title,
+      image: item.image,
+      imageAlt: item.imageAlt || item.title,
+      result: item.result || resultFromCaseTitle(item.title),
+      category: categoryGroup(item.category).label,
+      href: `../cases/${item.slug}`,
+      date: item.date || '',
+    }));
+  const fromColumns = (columns || [])
+    .filter((item) => item.image && !/guide/i.test(item.slug))
+    .map((item) => ({
+      title: item.title,
+      image: item.image,
+      imageAlt: item.imageAlt || item.title,
+      result: resultFromCaseTitle(item.title),
+      category: categoryGroup(item.category).label,
+      href: item.slug,
+      date: item.date || '',
+    }));
+  return [...fromCases, ...fromColumns]
+    .filter((item) => {
+      if (seen.has(item.title)) return false;
+      seen.add(item.title);
+      return true;
+    })
+    .sort((a, b) => String(b.date).localeCompare(String(a.date)))
+    .slice(0, 8);
 }
 
 function additionalSuccessCases(items) {
@@ -705,7 +902,7 @@ function build() {
   columns.forEach((item) => fs.writeFileSync(path.join(ROOT, 'columns', `${item.slug}.html`), articlePage(item, 'columns'), 'utf8'));
   cases.forEach((item) => fs.writeFileSync(path.join(ROOT, 'cases', `${item.slug}.html`), articlePage(item, 'cases'), 'utf8'));
 
-  fs.writeFileSync(path.join(ROOT, 'columns', 'index.html'), listingPage('columns', columns), 'utf8');
+  fs.writeFileSync(path.join(ROOT, 'columns', 'index.html'), listingPage('columns', columns, cases), 'utf8');
   fs.writeFileSync(path.join(ROOT, 'cases', 'index.html'), listingPage('cases', cases), 'utf8');
 
   replaceHomepageSections(columns, cases);
