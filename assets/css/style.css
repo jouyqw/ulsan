@@ -4714,3 +4714,93 @@ body {
         padding-top: 52px;
     }
 }
+
+/* ===== 개별 칼럼: 브레드크럼 · 관련 칼럼 · 분야 링크 (2026-07-24) ===== */
+.article-breadcrumb {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 110px 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.article-breadcrumb a {
+    color: rgba(255, 255, 255, 0.72);
+    text-decoration: none;
+}
+
+.article-breadcrumb a:hover {
+    color: var(--primary-yellow);
+}
+
+.article-breadcrumb span[aria-hidden] {
+    color: rgba(255, 255, 255, 0.32);
+}
+
+.article-breadcrumb-current {
+    color: rgba(255, 255, 255, 0.5);
+    max-width: 460px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.article-page .article-hero {
+    padding-top: 28px;
+}
+
+.article-practice-link {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 14px;
+    padding: 11px 18px;
+    border-radius: 8px;
+    border: 1px solid rgba(245, 166, 35, 0.5);
+    background: rgba(245, 166, 35, 0.1);
+    color: var(--primary-yellow);
+    font-size: 14px;
+    font-weight: 800;
+    text-decoration: none;
+    transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.article-practice-link:hover {
+    background: rgba(245, 166, 35, 0.2);
+    border-color: rgba(245, 166, 35, 0.8);
+}
+
+.article-related {
+    background: #0b0b0b;
+    border-top: 1px solid rgba(255, 255, 255, 0.07);
+    padding: 64px 20px 80px;
+}
+
+.article-related-inner {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.article-related-inner h2 {
+    color: var(--white);
+    font-size: clamp(24px, 3vw, 32px);
+    letter-spacing: -0.03em;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+    .article-breadcrumb {
+        padding-top: 96px;
+    }
+
+    .article-breadcrumb-current {
+        max-width: 200px;
+    }
+
+    .article-related {
+        padding: 52px 20px 64px;
+    }
+}

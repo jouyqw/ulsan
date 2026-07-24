@@ -51,6 +51,25 @@ function categoryGroup(raw) {
   return { key: 'etc', label: '기타' };
 }
 
+// 분야 그룹 -> 실제 상담(분야) 페이지 + 키워드 앵커 텍스트
+const PRACTICE_LINKS = {
+  criminal: { url: '../criminal/', label: '울산 형사 변호사' },
+  sex: { url: '../sex-crime/', label: '울산 성범죄 변호사' },
+  drug: { url: '../criminal/', label: '울산 마약 변호사' },
+  dui: { url: '../dui/', label: '울산 음주운전 변호사' },
+  fraud: { url: '../criminal/', label: '울산 사기 변호사' },
+  affair: { url: '../affair-lawsuit/', label: '울산 상간소송 변호사' },
+  civil: { url: '../civil/', label: '울산 민사소송 변호사' },
+};
+
+function relatedColumns(item, all) {
+  const key = categoryGroup(item.category).key;
+  const others = all.filter((entry) => entry.slug !== item.slug);
+  const sameGroup = others.filter((entry) => categoryGroup(entry.category).key === key);
+  const rest = others.filter((entry) => categoryGroup(entry.category).key !== key);
+  return [...sameGroup, ...rest].slice(0, 3);
+}
+
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
 }
@@ -344,7 +363,7 @@ function bottomBar(rootPrefix = '../') {
     </div>`;
 }
 
-function articlePage(item, type) {
+function articlePage(item, type, all = []) {
   const isCase = type === 'cases';
   const canonical = `${SITE_URL}/${type}/${item.slug}`;
   const title = isCase
@@ -448,10 +467,34 @@ function articlePage(item, type) {
                 </section>`
     : '';
 
+  const group = categoryGroup(item.category);
+  const practice = !isCase ? PRACTICE_LINKS[group.key] : null;
+  const breadcrumbNav = `<nav class="article-breadcrumb" aria-label="현재 위치">
+            <a href="../">홈</a><span aria-hidden="true">›</span><a href="../${type}/">${isCase ? '성공사례' : '법률 칼럼'}</a><span aria-hidden="true">›</span><span class="article-breadcrumb-current">${escapeHtml(item.title)}</span>
+        </nav>`;
+  const related = isCase ? [] : relatedColumns(item, all);
+  const relatedSection = related.length ? `<section class="article-related">
+            <div class="article-related-inner">
+                <h2>같은 분야의 다른 칼럼</h2>
+                <div class="column-grid">
+                    ${related.map((rel) => `<article class="column-card">
+                        <a href="${escapeHtml(rel.slug)}">
+                            <span class="column-category">${escapeHtml(categoryGroup(rel.category).label)}</span>
+                            <h3>${escapeHtml(rel.title)}</h3>
+                            <p>${escapeHtml(rel.summary || rel.description || '')}</p>
+                            <span class="column-more">칼럼 읽기</span>
+                        </a>
+                    </article>`).join('\n                    ')}
+                </div>
+            </div>
+        </section>` : '';
+  const practiceBlock = practice ? `<a class="article-practice-link" href="${practice.url}">${escapeHtml(practice.label)} 상담 &rarr;</a>` : '';
+
   return `${pageHead({ title, description: item.description || item.summary || item.title, canonical, schema, ogType: 'article', published, modified })}
 <body class="article-page">
     ${siteHeader(isCase ? 'cases' : 'columns')}
     <main>
+        ${breadcrumbNav}
         <section class="article-hero">
             <div class="article-hero-inner">
                 <span class="article-eyebrow">${escapeHtml(item.category || (isCase ? '성공사례' : '법률 칼럼'))}</span>
@@ -476,8 +519,10 @@ function articlePage(item, type) {
                 <h3>${isCase ? '비슷한 사건 상담' : '상담 안내'}</h3>
                 <p>사무장·상담실장 없이 변호사가 직접 상담합니다. 사건 자료를 정리해 오시면 더 빠르게 쟁점을 확인할 수 있습니다.</p>
                 <a href="tel:010-7219-9112">전화 상담하기</a>
+                ${practiceBlock}
             </aside>
         </section>
+        ${relatedSection}
     </main>
     ${bottomBar()}
     <script src="../assets/js/main.js?v=20260623-auto"></script>
@@ -899,7 +944,7 @@ function build() {
   ensureDir(path.join(ROOT, 'columns'));
   ensureDir(path.join(ROOT, 'cases'));
 
-  columns.forEach((item) => fs.writeFileSync(path.join(ROOT, 'columns', `${item.slug}.html`), articlePage(item, 'columns'), 'utf8'));
+  columns.forEach((item) => fs.writeFileSync(path.join(ROOT, 'columns', `${item.slug}.html`), articlePage(item, 'columns', columns), 'utf8'));
   cases.forEach((item) => fs.writeFileSync(path.join(ROOT, 'cases', `${item.slug}.html`), articlePage(item, 'cases'), 'utf8'));
 
   fs.writeFileSync(path.join(ROOT, 'columns', 'index.html'), listingPage('columns', columns, cases), 'utf8');
