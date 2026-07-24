@@ -4804,3 +4804,85 @@ body {
         padding: 52px 20px 64px;
     }
 }
+
+/* ===== 분야별 칼럼 랜딩 페이지 · 분야 링크 (2026-07-24) ===== */
+.category-page .columns-hero {
+    padding-top: 34px;
+}
+
+.category-hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 26px;
+}
+
+.category-all-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 11px 18px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 14px;
+    font-weight: 800;
+    text-decoration: none;
+    transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.category-all-link:hover {
+    border-color: rgba(245, 166, 35, 0.6);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.column-cat-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-top: 44px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.column-cat-links-label {
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 14px;
+    font-weight: 800;
+    margin-right: 4px;
+}
+
+.column-cat-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 8px 14px;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.04);
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
+}
+
+.column-cat-links a:hover {
+    border-color: rgba(245, 166, 35, 0.55);
+    color: var(--white);
+    background: rgba(245, 166, 35, 0.08);
+}
+
+.column-cat-links a span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 5px;
+    border-radius: 999px;
+    background: rgba(245, 166, 35, 0.18);
+    color: var(--primary-yellow);
+    font-size: 11px;
+    font-weight: 800;
+}

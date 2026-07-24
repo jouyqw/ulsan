@@ -62,6 +62,28 @@ const PRACTICE_LINKS = {
   civil: { url: '../civil/', label: '울산 민사소송 변호사' },
 };
 
+// 분야 그룹 -> 실제 상담 페이지 디렉터리 (분야별 랜딩 페이지에서 사용)
+const PRACTICE_DIR = {
+  criminal: 'criminal',
+  sex: 'sex-crime',
+  drug: 'criminal',
+  dui: 'dui',
+  fraud: 'criminal',
+  affair: 'affair-lawsuit',
+  civil: 'civil',
+};
+
+// 분야별 칼럼 랜딩 페이지 (독립 URL로 색인, "울산○○변호사 칼럼" 키워드 타깃)
+const CATEGORY_PAGES = {
+  criminal: { label: '형사', kw: '울산형사변호사', h1: '울산 형사 변호사 칼럼', desc: '울산 형사사건(사기·횡령·폭행·공무집행방해 등)의 수사 단계 대응부터 재판 전략까지, 강성수 변호사가 실제 사건 경험을 바탕으로 정리한 형사 칼럼 모음입니다.' },
+  sex: { label: '성범죄', kw: '울산성범죄변호사', h1: '울산 성범죄 변호사 칼럼', desc: '울산 성범죄(강제추행·준강간·통신매체이용음란·무고 등) 사건의 초기 대응과 증거 확보 전략을 강성수 변호사가 정리한 성범죄 칼럼 모음입니다.' },
+  drug: { label: '마약', kw: '울산마약변호사', h1: '울산 마약 변호사 칼럼', desc: '울산 마약 사건(투약·매매·재범 등)의 구속 대응과 양형 전략을 강성수 변호사가 실제 사례 중심으로 정리한 마약 칼럼 모음입니다.' },
+  dui: { label: '음주운전', kw: '울산음주운전변호사', h1: '울산 음주운전 변호사 칼럼', desc: '울산 음주운전·음주측정거부 사건의 감경 요소와 실형을 피하는 대응 전략을 강성수 변호사가 정리한 음주운전 칼럼 모음입니다.' },
+  fraud: { label: '사기', kw: '울산사기변호사', h1: '울산 사기 변호사 칼럼', desc: '울산 사기·사문서위조 등 재산범죄 사건에서 혐의를 다투고 실형을 피한 대응 전략을 강성수 변호사가 정리한 사기 칼럼 모음입니다.' },
+  affair: { label: '상간소송', kw: '울산상간소송변호사', h1: '울산 상간소송 변호사 칼럼', desc: '울산 상간자 소송·부정행위 손해배상 사건의 청구와 감액 전략을 강성수 변호사가 실제 사례 중심으로 정리한 상간소송 칼럼 모음입니다.' },
+  civil: { label: '민사·임대차', kw: '울산민사변호사', h1: '울산 민사·임대차 변호사 칼럼', desc: '울산 민사소송·임대차보증금·손해배상·가압류 사건의 쟁점과 회수 전략을 강성수 변호사가 정리한 민사 칼럼 모음입니다.' },
+};
+
 function relatedColumns(item, all) {
   const key = categoryGroup(item.category).key;
   const others = all.filter((entry) => entry.slug !== item.slug);
@@ -469,8 +491,9 @@ function articlePage(item, type, all = []) {
 
   const group = categoryGroup(item.category);
   const practice = !isCase ? PRACTICE_LINKS[group.key] : null;
+  const catPageKey = (!isCase && CATEGORY_PAGES[group.key]) ? group.key : null;
   const breadcrumbNav = `<nav class="article-breadcrumb" aria-label="현재 위치">
-            <a href="../">홈</a><span aria-hidden="true">›</span><a href="../${type}/">${isCase ? '성공사례' : '법률 칼럼'}</a><span aria-hidden="true">›</span><span class="article-breadcrumb-current">${escapeHtml(item.title)}</span>
+            <a href="../">홈</a><span aria-hidden="true">›</span><a href="../${type}/">${isCase ? '성공사례' : '법률 칼럼'}</a>${catPageKey ? `<span aria-hidden="true">›</span><a href="${catPageKey}/">${escapeHtml(group.label)}</a>` : ''}<span aria-hidden="true">›</span><span class="article-breadcrumb-current">${escapeHtml(item.title)}</span>
         </nav>`;
   const related = isCase ? [] : relatedColumns(item, all);
   const relatedSection = related.length ? `<section class="article-related">
@@ -671,6 +694,15 @@ function listingPage(type, items, cases) {
             </div>
         </section>` : '';
 
+  const catLinkItems = Object.keys(CATEGORY_PAGES)
+    .filter((ckey) => counts[ckey])
+    .map((ckey) => `<a href="${ckey}/">${escapeHtml(CATEGORY_PAGES[ckey].label)} 칼럼 <span>${counts[ckey]}</span></a>`)
+    .join('\n                ');
+  const catLinksNav = catLinkItems ? `<nav class="column-cat-links" aria-label="분야별 칼럼 모아보기">
+                <span class="column-cat-links-label">분야별 모아보기</span>
+                ${catLinkItems}
+            </nav>` : '';
+
   const schema = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -728,11 +760,94 @@ function listingPage(type, items, cases) {
                 ${cards || '<p class="empty-state">등록된 글이 없습니다.</p>'}
             </div>
             <p class="empty-state" id="columnEmpty" hidden>검색 결과가 없습니다. 다른 키워드로 검색하거나 분야를 바꿔보세요.</p>
+            ${catLinksNav}
         </section>
     </main>
     ${bottomBar()}
     <script src="../assets/js/main.js?v=20260623-auto"></script>
     <script>${COLUMN_FILTER_SCRIPT}</script>
+</body>
+</html>
+`;
+}
+
+function categoryPage(key, meta, items) {
+  const rootPrefix = '../../';
+  const canonical = `${SITE_URL}/columns/${key}/`;
+  const title = `${meta.kw} 칼럼 | 강성수 변호사`;
+  const description = meta.desc;
+  const dir = PRACTICE_DIR[key];
+  const practiceHref = dir ? `${rootPrefix}${dir}/` : rootPrefix;
+
+  const cards = items.map((item) => `<article class="column-card">
+                    <a href="../${escapeHtml(item.slug)}">
+                        <span class="column-category">${escapeHtml(categoryGroup(item.category).label)}</span>
+                        <h3>${escapeHtml(item.title)}</h3>
+                        <p>${escapeHtml(item.summary || item.description || '')}</p>
+                        <span class="column-more">칼럼 읽기</span>
+                    </a>
+                </article>`).join('\n                ');
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'CollectionPage',
+        '@id': `${canonical}#collection`,
+        name: meta.h1,
+        url: canonical,
+        description,
+        inLanguage: 'ko-KR',
+        isPartOf: { '@id': `${SITE_URL}/columns/#blog` },
+        publisher: { '@type': 'LegalService', name: '법무법인 우린', url: `${SITE_URL}/` },
+      },
+      {
+        '@type': 'ItemList',
+        itemListElement: items.map((item, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          url: `${SITE_URL}/columns/${item.slug}`,
+          name: item.title,
+        })),
+      },
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: '홈', item: `${SITE_URL}/` },
+          { '@type': 'ListItem', position: 2, name: '법률 칼럼', item: `${SITE_URL}/columns/` },
+          { '@type': 'ListItem', position: 3, name: meta.h1, item: canonical },
+        ],
+      },
+    ],
+  };
+
+  return `${pageHead({ title, description, canonical, rootPrefix, schema })}
+<body class="columns-page category-page">
+    ${siteHeader('columns', rootPrefix)}
+    <main>
+        <nav class="article-breadcrumb" aria-label="현재 위치">
+            <a href="${rootPrefix}">홈</a><span aria-hidden="true">›</span><a href="../">법률 칼럼</a><span aria-hidden="true">›</span><span class="article-breadcrumb-current">${escapeHtml(meta.label)}</span>
+        </nav>
+        <section class="columns-hero">
+            <div class="columns-hero-inner">
+                <span class="column-eyebrow">Legal Column</span>
+                <h1>${escapeHtml(meta.h1)}</h1>
+                <p>${escapeHtml(description)}</p>
+                <div class="category-hero-actions">
+                    <a class="article-practice-link" href="${practiceHref}">${escapeHtml(meta.kw)} 상담 &rarr;</a>
+                    <a class="category-all-link" href="../">전체 칼럼 보기 &rarr;</a>
+                </div>
+            </div>
+        </section>
+        <section class="columns-content">
+            <p class="column-count">${escapeHtml(meta.label)} 분야 칼럼 ${items.length}개</p>
+            <div class="column-grid">
+                ${cards}
+            </div>
+        </section>
+    </main>
+    ${bottomBar(rootPrefix)}
+    <script src="${rootPrefix}assets/js/main.js?v=20260623-auto"></script>
 </body>
 </html>
 `;
@@ -878,6 +993,12 @@ function buildSitemap(columns, cases) {
   ];
 
   const urls = staticUrls.map(([url, lastmod]) => ({ loc: `${SITE_URL}${url}`, lastmod }));
+  Object.keys(CATEGORY_PAGES).forEach((key) => {
+    const catItems = columns.filter((item) => categoryGroup(item.category).key === key);
+    if (!catItems.length) return;
+    const lastmod = catItems.map((item) => item.modified || item.date || SITE_UPDATED).sort().pop();
+    urls.push({ loc: `${SITE_URL}/columns/${key}/`, lastmod });
+  });
   columns.forEach((item) => urls.push({ loc: `${SITE_URL}/columns/${item.slug}`, lastmod: item.modified || item.date || SITE_UPDATED }));
   cases.forEach((item) => urls.push({ loc: `${SITE_URL}/cases/${item.slug}`, lastmod: item.modified || item.date || SITE_UPDATED }));
 
@@ -950,11 +1071,20 @@ function build() {
   fs.writeFileSync(path.join(ROOT, 'columns', 'index.html'), listingPage('columns', columns, cases), 'utf8');
   fs.writeFileSync(path.join(ROOT, 'cases', 'index.html'), listingPage('cases', cases), 'utf8');
 
+  let categoryPageCount = 0;
+  Object.keys(CATEGORY_PAGES).forEach((key) => {
+    const catItems = columns.filter((item) => categoryGroup(item.category).key === key);
+    if (!catItems.length) return;
+    ensureDir(path.join(ROOT, 'columns', key));
+    fs.writeFileSync(path.join(ROOT, 'columns', key, 'index.html'), categoryPage(key, CATEGORY_PAGES[key], catItems), 'utf8');
+    categoryPageCount += 1;
+  });
+
   replaceHomepageSections(columns, cases);
   buildSitemap(columns, cases);
   buildRss(columns, cases);
 
-  console.log(`Built ${columns.length} columns and ${cases.length} success cases.`);
+  console.log(`Built ${columns.length} columns, ${cases.length} success cases, ${categoryPageCount} category pages.`);
 }
 
 build();
