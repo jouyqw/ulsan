@@ -312,6 +312,58 @@ function inlineMarkdown(text) {
     .replace(/`(.+?)`/g, '<code>$1</code>');
 }
 
+// 스키마용 순수 텍스트 (마크다운/HTML 마커 제거)
+function plainText(value = '') {
+  return String(value)
+    .replace(/\*\*(.+?)\*\*/g, '$1')
+    .replace(/==(.+?)==/g, '$1')
+    .replace(/`(.+?)`/g, '$1')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// 본문의 ":::table" 블록 중 "질문 | 답변" 형식을 FAQ 항목으로 추출
+function extractFaqPairs(body = '') {
+  const pairs = [];
+  const seen = new Set();
+  const tableRegex = /:::table\r?\n([\s\S]*?)\r?\n:::/g;
+  let match;
+  while ((match = tableRegex.exec(body)) !== null) {
+    const rows = match[1].split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
+    if (rows.length < 2) continue;
+    const header = rows[0].split('|').map((cell) => cell.trim());
+    if (header.length !== 2 || !/질문/.test(header[0]) || !/답/.test(header[1])) continue;
+    rows.slice(1).forEach((row) => {
+      const cells = row.split('|').map((cell) => cell.trim());
+      if (cells.length < 2) return;
+      const question = plainText(cells[0]);
+      const answer = plainText(cells.slice(1).join(' | '));
+      if (!question || !answer || question.length < 3 || answer.length < 3) return;
+      if (seen.has(question)) return;
+      seen.add(question);
+      pairs.push({ question, answer });
+    });
+  }
+  return pairs;
+}
+
+function faqSchema(canonical, pairs) {
+  if (!pairs.length) return null;
+  return {
+    '@type': 'FAQPage',
+    '@id': `${canonical}#faq`,
+    mainEntity: pairs.map((pair) => ({
+      '@type': 'Question',
+      name: pair.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: pair.answer,
+      },
+    })),
+  };
+}
+
 function pageHead({
   title,
   description,
@@ -471,6 +523,12 @@ function articlePage(item, type, all = []) {
       },
     ],
   };
+
+  // 칼럼 본문에 Q&A 표가 있으면 FAQPage 구조화 데이터를 추가 (AI/검색 답변 노출용)
+  if (!isCase) {
+    const faq = faqSchema(canonical, extractFaqPairs(item.body));
+    if (faq) schema['@graph'].push(faq);
+  }
 
   const imageBlock = item.image
     ? `<figure class="article-proof-image"><img src="../${escapeHtml(item.image)}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async"><figcaption>${escapeHtml(item.result || item.category || '성공사례')}</figcaption></figure>`
