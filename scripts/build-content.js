@@ -11,6 +11,8 @@ const CONTENT_DIR = path.join(ROOT, 'content');
 const TODAY = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
 // 예약 발행분까지 포함해 미리 빌드하고 싶을 때: PUBLISH_ALL=1 npm run build
 const PUBLISH_ALL = process.env.PUBLISH_ALL === '1';
+// :::table 을 3열 이상으로 쓴 행을 모아 빌드 끝에 경고로 출력한다.
+const tableWarnings = [];
 
 const STATIC_SUCCESS_IMAGES = [
   'assets/images/success/case-drunk-driving-probation.jpg',
@@ -256,8 +258,15 @@ function markdownToHtml(markdown) {
         .map((line) => line.split('|').map((cell) => inlineMarkdown(cell.trim())));
 
       html.push('<div class="article-table-wrap"><table class="article-table"><tbody>');
-      rows.forEach(([head, value]) => {
-        html.push(`<tr><th>${head || ''}</th><td>${value || ''}</td></tr>`);
+      rows.forEach((cells) => {
+        // 표는 2열로만 렌더링된다. 3열 이상으로 쓰면 예전에는 뒤쪽 열이 조용히 사라졌으므로
+        // 남은 칸을 합쳐 내용 손실을 막고, 작성자가 고칠 수 있도록 경고를 남긴다.
+        if (cells.length > 2) {
+          tableWarnings.push(cells.join(' | '));
+        }
+        const head = cells[0] || '';
+        const value = cells.slice(1).filter(Boolean).join(' / ');
+        html.push(`<tr><th>${head}</th><td>${value}</td></tr>`);
       });
       html.push('</tbody></table></div>');
     }
@@ -1202,6 +1211,12 @@ function build() {
   buildRss(columns, cases);
 
   console.log(`Built ${columns.length} columns, ${cases.length} success cases, ${categoryPageCount} category pages.`);
+
+  if (tableWarnings.length) {
+    console.warn(`\n경고: :::table 은 2열까지만 표시됩니다. 3열 이상으로 작성된 행 ${tableWarnings.length}개를 합쳐서 출력했습니다.`);
+    tableWarnings.forEach((row) => console.warn(`  - ${row}`));
+    console.warn('표를 2열로 나누면 모바일에서도 읽기 편합니다.\n');
+  }
 }
 
 build();
