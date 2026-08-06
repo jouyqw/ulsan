@@ -7,7 +7,10 @@ const SITE_UPDATED = '2026-07-23';
 const DEFAULT_SOCIAL_IMAGE = `${SITE_URL}/assets/images/og.png`;
 const ROOT = path.resolve(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content');
-const TODAY = new Date().toISOString().slice(0, 10);
+// 한국 시간(UTC+9) 기준 오늘. GitHub Actions(UTC)와 로컬 어디서 돌려도 같은 날짜가 나오게 한다.
+const TODAY = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+// 예약 발행분까지 포함해 미리 빌드하고 싶을 때: PUBLISH_ALL=1 npm run build
+const PUBLISH_ALL = process.env.PUBLISH_ALL === '1';
 
 const STATIC_SUCCESS_IMAGES = [
   'assets/images/success/case-drunk-driving-probation.jpg',
@@ -39,6 +42,7 @@ const COLUMN_CATEGORIES = [
   { key: 'dui', label: '음주운전', test: /음주/ },
   { key: 'fraud', label: '사기', test: /사기/ },
   { key: 'affair', label: '상간소송', test: /상간|부정행위/ },
+  { key: 'divorce', label: '이혼', test: /이혼|재산분할|양육권|위자료|혼인/ },
   { key: 'civil', label: '민사·임대차', test: /민사|임대차|부동산|보증금|대여금/ },
   { key: 'info', label: '상담·안내', test: /상담|안내/ },
 ];
@@ -59,6 +63,7 @@ const PRACTICE_LINKS = {
   dui: { url: '../dui/', label: '울산 음주운전 변호사' },
   fraud: { url: '../criminal/', label: '울산 사기 변호사' },
   affair: { url: '../affair-lawsuit/', label: '울산 상간소송 변호사' },
+  divorce: { url: '../divorce/', label: '울산 이혼 변호사' },
   civil: { url: '../civil/', label: '울산 민사소송 변호사' },
 };
 
@@ -70,6 +75,7 @@ const PRACTICE_DIR = {
   dui: 'dui',
   fraud: 'criminal',
   affair: 'affair-lawsuit',
+  divorce: 'divorce',
   civil: 'civil',
 };
 
@@ -81,6 +87,7 @@ const CATEGORY_PAGES = {
   dui: { label: '음주운전', kw: '울산음주운전변호사', h1: '울산 음주운전 변호사 칼럼', desc: '울산 음주운전·음주측정거부 사건의 감경 요소와 실형을 피하는 대응 전략을 강성수 변호사가 정리한 음주운전 칼럼 모음입니다.' },
   fraud: { label: '사기', kw: '울산사기변호사', h1: '울산 사기 변호사 칼럼', desc: '울산 사기·사문서위조 등 재산범죄 사건에서 혐의를 다투고 실형을 피한 대응 전략을 강성수 변호사가 정리한 사기 칼럼 모음입니다.' },
   affair: { label: '상간소송', kw: '울산상간소송변호사', h1: '울산 상간소송 변호사 칼럼', desc: '울산 상간자 소송·부정행위 손해배상 사건의 청구와 감액 전략을 강성수 변호사가 실제 사례 중심으로 정리한 상간소송 칼럼 모음입니다.' },
+  divorce: { label: '이혼', kw: '울산이혼변호사', h1: '울산 이혼 변호사 칼럼', desc: '울산 이혼소송·재산분할·양육권·위자료 사건의 준비 절차와 쟁점별 대응 전략을 강성수 변호사가 실제 상담 경험을 바탕으로 정리한 이혼 칼럼 모음입니다.' },
   civil: { label: '민사·임대차', kw: '울산민사변호사', h1: '울산 민사·임대차 변호사 칼럼', desc: '울산 민사소송·임대차보증금·손해배상·가압류 사건의 쟁점과 회수 전략을 강성수 변호사가 정리한 민사 칼럼 모음입니다.' },
 };
 
@@ -100,7 +107,9 @@ function readMarkdownItems(type) {
   const dir = path.join(CONTENT_DIR, type);
   if (!fs.existsSync(dir)) return [];
 
-  return fs.readdirSync(dir)
+  const scheduled = [];
+
+  const items = fs.readdirSync(dir)
     .filter((file) => file.endsWith('.md') && !file.startsWith('_'))
     .map((file) => {
       const raw = fs.readFileSync(path.join(dir, file), 'utf8');
@@ -113,11 +122,27 @@ function readMarkdownItems(type) {
         url: `/${type}/${slug}`,
       };
     })
+    // 예약 발행: frontmatter date가 오늘 이후인 글은 발행일이 될 때까지 빌드에서 제외한다.
+    // PUBLISH_ALL=1 로 실행하면 예약분까지 모두 미리 빌드해 검수할 수 있다.
+    .filter((item) => {
+      if (PUBLISH_ALL) return true;
+      const date = String(item.date || '').slice(0, 10);
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return true;
+      if (date <= TODAY) return true;
+      scheduled.push(`${date} ${item.slug}`);
+      return false;
+    })
     .sort((a, b) => {
       const dateCompare = String(b.date || '').localeCompare(String(a.date || ''));
       if (dateCompare !== 0) return dateCompare;
       return Number(b.order || 0) - Number(a.order || 0);
     });
+
+  if (scheduled.length) {
+    console.log(`Scheduled (${type}), not published yet: ${scheduled.sort().join(', ')}`);
+  }
+
+  return items;
 }
 
 function parseFrontMatter(raw) {
@@ -1116,6 +1141,32 @@ ${items.map((item) => {
   fs.writeFileSync(path.join(ROOT, 'rss.xml'), rss, 'utf8');
 }
 
+function removeIfExists(filePath) {
+  if (fs.existsSync(filePath)) fs.unlinkSync(filePath);
+}
+
+// 발행된 글에 대응하지 않는 상세페이지 HTML을 제거한다 (index.html과 카테고리 디렉터리는 제외).
+function pruneOrphanPages(type, items) {
+  const dir = path.join(ROOT, type);
+  if (!fs.existsSync(dir)) return [];
+
+  const published = new Set(items.map((item) => item.slug));
+  const removed = [];
+
+  fs.readdirSync(dir, { withFileTypes: true }).forEach((entry) => {
+    if (!entry.isFile() || !entry.name.endsWith('.html')) return;
+    const slug = path.basename(entry.name, '.html');
+    if (slug === 'index' || published.has(slug)) return;
+    fs.unlinkSync(path.join(dir, entry.name));
+    removed.push(slug);
+  });
+
+  if (removed.length) {
+    console.log(`Removed ${removed.length} unpublished page(s) from /${type}: ${removed.sort().join(', ')}`);
+  }
+  return removed;
+}
+
 function build() {
   const columns = readMarkdownItems('columns');
   const cases = readMarkdownItems('cases');
@@ -1132,11 +1183,19 @@ function build() {
   let categoryPageCount = 0;
   Object.keys(CATEGORY_PAGES).forEach((key) => {
     const catItems = columns.filter((item) => categoryGroup(item.category).key === key);
-    if (!catItems.length) return;
+    if (!catItems.length) {
+      removeIfExists(path.join(ROOT, 'columns', key, 'index.html'));
+      return;
+    }
     ensureDir(path.join(ROOT, 'columns', key));
     fs.writeFileSync(path.join(ROOT, 'columns', key, 'index.html'), categoryPage(key, CATEGORY_PAGES[key], catItems), 'utf8');
     categoryPageCount += 1;
   });
+
+  // 발행 대상에서 빠진 글의 HTML이 남아 있으면 sitemap과 어긋나 SEO 검사에 걸린다.
+  // 예약 발행분을 미리 빌드했다가 되돌린 경우가 대표적이므로 매 빌드마다 정리한다.
+  pruneOrphanPages('columns', columns);
+  pruneOrphanPages('cases', cases);
 
   replaceHomepageSections(columns, cases);
   buildSitemap(columns, cases);

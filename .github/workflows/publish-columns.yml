@@ -1,0 +1,83 @@
+name: 예약 칼럼 자동 발행
+
+# content/columns/*.md 의 frontmatter date 가 오늘(KST)에 도달하면
+# 빌드에 포함되어 상세페이지·목록·카테고리·사이트맵·RSS가 자동 생성된다.
+# 변경분이 있을 때만 커밋하며, 커밋이 푸시되면 Cloudflare Pages 가 배포한다.
+
+on:
+  schedule:
+    # UTC 00:00 = KST 09:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      publish_all:
+        description: '예약분까지 전부 발행 (검수용, 되도록 사용하지 말 것)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-columns
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 빌드 및 SEO 검사
+        env:
+          PUBLISH_ALL: ${{ inputs.publish_all && '1' || '' }}
+        run: npm run build
+
+      - name: 변경분 확인
+        id: diff
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "발행할 변경분이 있습니다."
+            git status --short
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "오늘 발행할 칼럼이 없습니다."
+          fi
+
+      - name: 커밋 및 푸시
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "칼럼 자동 발행 $(TZ=Asia/Seoul date +%Y-%m-%d)"
+          git push
+
+      - name: 발행 요약
+        run: |
+          {
+            echo "### 발행 결과 ($(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M') KST)"
+            echo ""
+            if [ "${{ steps.diff.outputs.changed }}" = "true" ]; then
+              echo "변경분을 커밋했습니다. Cloudflare Pages 배포가 시작됩니다."
+            else
+              echo "발행 대상이 없어 커밋하지 않았습니다."
+            fi
+            echo ""
+            echo "남은 예약 칼럼:"
+            echo ""
+            echo '```'
+            grep -h '^date:' content/columns/*.md \
+              | tr -d '"' | awk '{print $2}' \
+              | awk -v today="$(TZ=Asia/Seoul date +%F)" '$1 > today' \
+              | sort | uniq -c | awk '{print $2" — "$1"편"}'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
