@@ -2,7 +2,7 @@
 title: "울산민사변호사 승소했는데 돈이 안 들어올 때, 집행 순서"
 description: "판결을 받고도 회수하지 못할 때 사용하는 재산명시와 재산조회, 채무불이행자명부, 압류와 추심의 순서를 정리했습니다."
 category: "민사소송 칼럼"
-date: "2026-08-15"
+date: "2026-08-14"
 order: 1045
 slug: "ulsan-civil-judgment-enforcement-order"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

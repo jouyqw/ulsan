@@ -2,7 +2,7 @@
 title: "울산형사전문변호사 1심 판결 후 7일, 항소를 결정하는 기준"
 description: "형사 항소기간 7일의 계산 방법과 항소이유서 제출 기한, 항소가 실익 있는 경우와 불이익변경금지 원칙까지 정리했습니다."
 category: "형사사건 칼럼"
-date: "2026-08-16"
+date: "2026-08-15"
 order: 1047
 slug: "ulsan-criminal-appeal-decision-deadline"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

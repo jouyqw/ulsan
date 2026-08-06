@@ -2,7 +2,7 @@
 title: "울산형사전문변호사 구속영장 심사, 48시간 안에 준비할 것"
 description: "구속영장이 청구되면 영장실질심사까지 시간이 매우 짧습니다. 법원이 보는 구속 사유와 그 짧은 시간에 준비해야 할 자료를 정리했습니다."
 category: "형사사건 칼럼"
-date: "2026-08-15"
+date: "2026-08-14"
 order: 1043
 slug: "ulsan-criminal-arrest-warrant-review"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

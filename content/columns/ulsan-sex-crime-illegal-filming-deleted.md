@@ -2,7 +2,7 @@
 title: "울산성범죄전문변호사 불법촬영, 삭제했으면 끝날까"
 description: "카메라등이용촬영 사건에서 파일을 지워도 포렌식으로 복원되는 이유와, 미수·소지·유포의 구별, 초기 대응 방법을 Q&A로 정리했습니다."
 category: "성범죄 칼럼"
-date: "2026-08-12"
+date: "2026-08-11"
 order: 1035
 slug: "ulsan-sex-crime-illegal-filming-deleted"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

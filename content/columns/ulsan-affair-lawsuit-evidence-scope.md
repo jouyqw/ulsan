@@ -2,7 +2,7 @@
 title: "울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까"
 description: "상간자 소송에서 어떤 증거가 부정행위로 인정되는지, 성관계 증거가 없어도 청구가 가능한지, 위법하게 수집한 자료의 위험까지 Q&A로 정리했습니다."
 category: "상간자소송 칼럼"
-date: "2026-08-07"
+date: "2026-08-06"
 order: 1020
 slug: "ulsan-affair-lawsuit-evidence-scope"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

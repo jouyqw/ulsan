@@ -2,7 +2,7 @@
 title: "울산민사변호사 차용증 없이 빌려준 돈, 받을 수 있을까"
 description: "차용증이 없어도 계좌이체와 대화 내용으로 대여금을 청구할 수 있습니다. 증여와의 구별, 지급명령과 소송의 선택, 소멸시효까지 Q&A로 정리했습니다."
 category: "민사소송 칼럼"
-date: "2026-08-07"
+date: "2026-08-06"
 order: 1021
 slug: "ulsan-civil-loan-recovery-lawsuit"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

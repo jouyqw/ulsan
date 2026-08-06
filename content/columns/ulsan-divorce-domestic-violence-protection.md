@@ -2,7 +2,7 @@
 title: "울산이혼변호사 가정폭력 이혼, 접근금지부터 신변 보호까지"
 description: "가정폭력 상황에서 이혼을 준비할 때 필요한 임시조치와 피해자보호명령, 접근금지의 차이와 증거 확보 방법을 순서대로 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-14"
+date: "2026-08-13"
 order: 1040
 slug: "ulsan-divorce-domestic-violence-protection"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

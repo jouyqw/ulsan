@@ -2,7 +2,7 @@
 title: "울산이혼변호사 퇴직금·연금도 재산분할 대상일까"
 description: "아직 받지 않은 퇴직금과 국민연금, 공무원연금이 재산분할에서 어떻게 다뤄지는지, 분할연금 요건과 청구 기한까지 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-12"
+date: "2026-08-11"
 order: 1034
 slug: "ulsan-divorce-retirement-pension-division"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

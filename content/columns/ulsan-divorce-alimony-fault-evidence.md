@@ -2,7 +2,7 @@
 title: "울산이혼변호사 이혼 위자료, 유책배우자 입증 자료 정리"
 description: "이혼 위자료는 혼인 파탄의 책임이 누구에게 있는지로 결정됩니다. 유책사유별 입증 자료와 액수를 좌우하는 요소, 청구 기한까지 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-10"
+date: "2026-08-09"
 order: 1028
 slug: "ulsan-divorce-alimony-fault-evidence"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

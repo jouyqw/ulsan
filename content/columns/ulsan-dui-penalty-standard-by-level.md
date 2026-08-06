@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서"
 description: "0.03%부터 0.2% 이상까지 수치별 형사처벌과 면허 행정처분이 어떻게 달라지는지, 측정거부와 재범 가중까지 Q&A로 정리했습니다."
 category: "음주운전 칼럼"
-date: "2026-08-08"
+date: "2026-08-07"
 order: 1024
 slug: "ulsan-dui-penalty-standard-by-level"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

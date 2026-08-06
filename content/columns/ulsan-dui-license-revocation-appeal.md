@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 면허취소 구제, 이의신청과 행정심판"
 description: "음주운전 면허취소에 대한 이의신청과 행정심판의 차이, 생계형 운전자 구제 요건과 기한, 형사절차와의 관계를 Q&A로 정리했습니다."
 category: "음주운전 칼럼"
-date: "2026-08-12"
+date: "2026-08-11"
 order: 1036
 slug: "ulsan-dui-license-revocation-appeal"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

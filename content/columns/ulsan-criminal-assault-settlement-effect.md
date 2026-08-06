@@ -2,7 +2,7 @@
 title: "울산형사전문변호사 폭행·상해 합의, 어디까지 효과가 있을까"
 description: "폭행은 합의하면 처벌할 수 없지만 상해는 다릅니다. 반의사불벌죄의 범위와 합의 시점, 합의서 작성 시 반드시 넣어야 할 문구를 정리했습니다."
 category: "형사사건 칼럼"
-date: "2026-08-16"
+date: "2026-08-15"
 order: 1046
 slug: "ulsan-criminal-assault-settlement-effect"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

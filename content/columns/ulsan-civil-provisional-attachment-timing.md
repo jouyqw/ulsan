@@ -2,7 +2,7 @@
 title: "울산민사변호사 가압류가 먼저일까 소송이 먼저일까"
 description: "승소해도 상대방 재산이 없으면 회수가 어렵습니다. 가압류를 먼저 해야 하는 상황과 절차, 담보 제공과 부당 가압류 위험까지 정리했습니다."
 category: "민사소송 칼럼"
-date: "2026-08-09"
+date: "2026-08-08"
 order: 1027
 slug: "ulsan-civil-provisional-attachment-timing"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

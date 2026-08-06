@@ -2,7 +2,7 @@
 title: "울산상간소송변호사 상간자 소송 시효 3년, 언제부터 계산할까"
 description: "상간자 위자료 청구의 3년 소멸시효가 언제부터 시작되는지, 부정행위가 계속된 경우와 뒤늦게 알게 된 경우를 나눠 정리했습니다."
 category: "상간자소송 칼럼"
-date: "2026-08-13"
+date: "2026-08-12"
 order: 1038
 slug: "ulsan-affair-lawsuit-statute-limitation"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

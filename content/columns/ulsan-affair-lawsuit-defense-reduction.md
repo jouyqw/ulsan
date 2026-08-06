@@ -2,7 +2,7 @@
 title: "울산상간소송변호사 상간자 소송을 당했다면, 감액 방어 전략"
 description: "상간자 소송 소장을 받았을 때 확인해야 할 파탄 시점과 인식 여부, 답변서 작성 방향, 감액이 인정되는 사정을 Q&A로 정리했습니다."
 category: "상간자소송 칼럼"
-date: "2026-08-11"
+date: "2026-08-10"
 order: 1032
 slug: "ulsan-affair-lawsuit-defense-reduction"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

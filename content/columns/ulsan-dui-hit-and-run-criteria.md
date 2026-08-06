@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준"
 description: "사고 후 현장을 벗어났을 때 도주치상이 성립하는 기준과 구호조치의 범위, 음주운전과 병합될 때의 처벌 수위를 정리했습니다."
 category: "음주운전 칼럼"
-date: "2026-08-16"
+date: "2026-08-15"
 order: 1048
 slug: "ulsan-dui-hit-and-run-criteria"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

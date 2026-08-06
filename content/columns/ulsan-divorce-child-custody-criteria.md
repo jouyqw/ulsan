@@ -2,7 +2,7 @@
 title: "울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준"
 description: "양육권은 경제력만으로 정해지지 않습니다. 법원이 중시하는 주 양육자 여부와 양육환경의 연속성, 자녀 의사의 반영 정도를 Q&A로 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-08"
+date: "2026-08-07"
 order: 1022
 slug: "ulsan-divorce-child-custody-criteria"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

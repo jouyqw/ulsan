@@ -2,7 +2,7 @@
 title: "울산이혼변호사 이혼 전 재산 빼돌리기, 어떻게 막을까"
 description: "배우자가 재산을 처분하거나 명의를 옮길 때 사용할 수 있는 가압류와 처분금지가처분, 재산명시와 조회 절차를 순서대로 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-13"
+date: "2026-08-12"
 order: 1037
 slug: "ulsan-divorce-asset-concealment-preservation"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

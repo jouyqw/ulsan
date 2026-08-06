@@ -2,7 +2,7 @@
 title: "울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액"
 description: "양육비는 부부 합산 소득과 자녀 나이로 정해집니다. 산정기준표를 실제 사건에 적용하는 법, 가산·감산 요소, 미지급 시 이행확보 절차를 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-09"
+date: "2026-08-08"
 order: 1025
 slug: "ulsan-divorce-child-support-calculation"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

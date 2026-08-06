@@ -2,7 +2,7 @@
 title: "울산마약변호사 모발검사가 음성인데 왜 기소될까"
 description: "마약 사건에서 모발검사 음성이 무혐의를 뜻하지 않는 이유와, 진술·디지털 자료가 어떻게 증거가 되는지, 검사 결과를 다투는 방법을 정리했습니다."
 category: "마약사건 칼럼"
-date: "2026-08-10"
+date: "2026-08-09"
 order: 1030
 slug: "ulsan-drug-hair-test-negative-prosecution"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

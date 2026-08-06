@@ -2,7 +2,7 @@
 title: "울산성범죄전문변호사 성범죄 합의, 언제 어떻게 해야 인정될까"
 description: "성범죄 사건에서 합의가 양형에 반영되는 시점과 방식, 합의금 산정, 처벌불원 의사표시의 의미와 위험한 접촉 방법을 정리했습니다."
 category: "성범죄 칼럼"
-date: "2026-08-14"
+date: "2026-08-13"
 order: 1041
 slug: "ulsan-sex-crime-settlement-timing"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

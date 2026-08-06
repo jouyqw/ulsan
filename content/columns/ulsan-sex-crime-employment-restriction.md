@@ -2,7 +2,7 @@
 title: "울산성범죄전문변호사 취업제한명령, 직장을 잃지 않으려면"
 description: "성범죄 유죄 판결에 따르는 취업제한명령의 대상 기관과 기간, 면제 판단 요소, 재판 단계에서 다투는 방법을 Q&A로 정리했습니다."
 category: "성범죄 칼럼"
-date: "2026-08-10"
+date: "2026-08-09"
 order: 1029
 slug: "ulsan-sex-crime-employment-restriction"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

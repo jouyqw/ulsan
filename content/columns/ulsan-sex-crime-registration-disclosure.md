@@ -2,7 +2,7 @@
 title: "울산성범죄전문변호사 신상정보 등록·공개, 유죄여도 피할 수 있을까"
 description: "성범죄 유죄 판결에 따라붙는 신상정보 등록과 공개·고지명령의 차이, 면제 판단 요소, 재판 단계에서 다퉈야 하는 이유를 Q&A로 정리했습니다."
 category: "성범죄 칼럼"
-date: "2026-08-08"
+date: "2026-08-07"
 order: 1023
 slug: "ulsan-sex-crime-registration-disclosure"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

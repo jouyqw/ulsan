@@ -2,7 +2,7 @@
 title: "울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까"
 description: "마약 초범이 검토할 수 있는 치료조건부·교육조건부 기소유예의 요건과 절차, 준수사항을 지키지 못했을 때의 결과를 정리했습니다."
 category: "마약사건 칼럼"
-date: "2026-08-14"
+date: "2026-08-13"
 order: 1042
 slug: "ulsan-drug-treatment-conditional-suspension"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

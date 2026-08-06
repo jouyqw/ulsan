@@ -2,7 +2,7 @@
 title: "울산민사변호사 임차권등기명령, 이사 가기 전에 해야 하는 이유"
 description: "보증금을 못 받은 채 이사하면 대항력과 우선변제권을 잃습니다. 임차권등기명령의 효과와 신청 시점, 이후 회수 절차까지 정리했습니다."
 category: "민사소송 칼럼"
-date: "2026-08-11"
+date: "2026-08-10"
 order: 1033
 slug: "ulsan-civil-lease-registration-order"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

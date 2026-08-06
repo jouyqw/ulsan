@@ -2,7 +2,7 @@
 title: "울산이혼변호사 협의이혼과 재판이혼, 무엇을 택해야 할까"
 description: "협의이혼 숙려기간과 절차, 재판상 이혼으로 가야 하는 경우, 협의서에 반드시 넣어야 할 조건까지 Q&A로 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-11"
+date: "2026-08-10"
 order: 1031
 slug: "ulsan-divorce-agreement-vs-lawsuit"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

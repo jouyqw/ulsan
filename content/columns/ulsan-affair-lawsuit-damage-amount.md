@@ -2,7 +2,7 @@
 title: "울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까"
 description: "상간자 위자료가 통상 어느 범위에서 정해지는지, 금액을 올리고 내리는 요소는 무엇인지, 배우자와 상간자의 책임 관계까지 Q&A로 정리했습니다."
 category: "상간자소송 칼럼"
-date: "2026-08-09"
+date: "2026-08-08"
 order: 1026
 slug: "ulsan-affair-lawsuit-damage-amount"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

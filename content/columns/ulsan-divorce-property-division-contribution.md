@@ -2,7 +2,7 @@
 title: "울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까"
 description: "전업주부의 가사노동도 재산분할 기여도로 인정됩니다. 분할 비율을 정하는 기준, 특유재산과 채무 처리, 이혼한 날부터 2년의 제척기간까지 Q&A로 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-08-07"
+date: "2026-08-06"
 order: 1019
 slug: "ulsan-divorce-property-division-contribution"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

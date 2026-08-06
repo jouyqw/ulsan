@@ -2,7 +2,7 @@
 title: "울산상간소송변호사 배우자 휴대폰 몰래 보기, 증거일까 범죄일까"
 description: "배우자의 휴대전화나 계정을 열어 확보한 자료가 소송에서 어떻게 다뤄지는지, 어떤 행위가 별도의 형사 문제가 되는지 정리했습니다."
 category: "상간자소송 칼럼"
-date: "2026-08-15"
+date: "2026-08-14"
 order: 1044
 slug: "ulsan-affair-lawsuit-phone-evidence-risk"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

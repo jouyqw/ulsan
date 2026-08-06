@@ -2,7 +2,7 @@
 title: "울산민사변호사 공사대금과 하자보수, 대금 청구 전 확인할 것"
 description: "공사대금 청구에 상대방이 하자를 주장할 때 어떻게 정리해야 하는지, 계약서가 부실할 때의 입증 방법과 유치권·공사대금채권까지 정리했습니다."
 category: "민사소송 칼럼"
-date: "2026-08-13"
+date: "2026-08-12"
 order: 1039
 slug: "ulsan-civil-construction-payment-defect"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
