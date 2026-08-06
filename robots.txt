@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ulsanlawyer.kr/sitemap.xml
+
+# AI 검색 크롤러용 사이트 요약
+# https://ulsanlawyer.kr/llms.txt

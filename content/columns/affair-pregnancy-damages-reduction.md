@@ -4,7 +4,7 @@ description: "임신 중 부정행위와 애정표현 문자 증거가 있었던
 category: "상간자소송 칼럼"
 date: "2026-06-24"
 slug: "affair-pregnancy-damages-reduction"
-image: "assets/images/success/affair-pregnancy-damages-reduction-column.png"
+image: "assets/images/success/affair-pregnancy-damages-reduction-column.webp"
 imageAlt: "상간자 손해배상 감액 성공사례 화해권고결정문"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
@@ -149,6 +149,18 @@ summary: "임신 중 부정행위와 애정표현 문자라는 불리한 증거�
 중요한 것은 어떤 증거가 있고, 그 증거가 실제로 어느 정도 위자료에 영향을 주는지 분석하는 것입니다.
 
 청구금액이 높다고 해서 그대로 인정되는 것은 아닙니다.
+
+## 자주 묻는 질문
+
+:::table
+질문 | 답변
+상간자 위자료는 보통 얼마인가요? | 사안에 따라 다르지만 1천만 원대에서 3천만 원 전후로 정해지는 경우가 많습니다.
+임신 사실이 있으면 금액이 올라가나요? | 중대한 결과로 평가되어 금액이 높아지는 요인이 될 수 있습니다.
+청구액을 높이면 더 받나요? | 아닙니다. 인지대만 늘고 인용액은 입증 정도에 따라 정해집니다.
+감액이 인정되는 사정은 무엇인가요? | 관계 기간이 짧거나, 알게 된 직후 관계를 끊었거나, 이미 혼인이 파탄된 경우입니다.
+소장을 받으면 무엇부터 해야 하나요? | 답변 기한을 확인하고 기한 안에 답변서를 제출해야 합니다.
+언제까지 청구할 수 있나요? | 안 날부터 3년, 행위가 있은 날부터 10년입니다.
+:::
 
 ## 결론
 

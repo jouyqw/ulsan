@@ -5,7 +5,7 @@ category: "민사소송 칼럼"
 date: "2026-06-24"
 order: 1005
 slug: "lease-deposit-provisional-seizure-success"
-image: "assets/images/success/lease-deposit-provisional-seizure-column.png"
+image: "assets/images/success/lease-deposit-provisional-seizure-column.webp"
 imageAlt: "임대차보증금 채권가압류 성공사례 결정문"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"
@@ -163,6 +163,18 @@ summary: "상대방 명의 부동산이 없어 막막했던 채권 회수 사건
 :::
 
 ==가압류는 돈을 받기 위한 준비 단계가 아니라, 실제 회수 가능성을 좌우하는 첫 결정타입니다.==
+
+## 자주 묻는 질문
+
+:::table
+질문 | 답변
+가압류는 언제 해야 하나요? | 임대인의 재산 처분이 우려되면 소송보다 먼저 하는 것이 좋습니다.
+임대인 동의가 필요한가요? | 필요하지 않으며 법원 결정으로 진행됩니다.
+무엇을 가압류할 수 있나요? | 부동산, 예금, 임대차보증금, 매출채권 등이 대상입니다.
+가압류하면 돈을 바로 받나요? | 아닙니다. 처분을 막는 것이고 회수는 본안 판결 후 집행으로 합니다.
+담보가 필요한가요? | 대부분 담보 제공 명령이 있으며 보증보험으로 대신할 수 있습니다.
+이사를 먼저 가도 되나요? | 임차권등기명령 전에 이사하면 대항력을 잃을 수 있어 위험합니다.
+:::
 
 ## 결론
 

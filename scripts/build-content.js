@@ -15,25 +15,25 @@ const PUBLISH_ALL = process.env.PUBLISH_ALL === '1';
 const tableWarnings = [];
 
 const STATIC_SUCCESS_IMAGES = [
-  'assets/images/success/case-drunk-driving-probation.jpg',
+  'assets/images/success/case-drunk-driving-probation.webp',
   'assets/images/success/indecent-act-appeal-fine-reduced.webp',
-  'assets/images/success/case-fraud-probation.jpg',
-  'assets/images/success/case-special-assault-fine.jpg',
-  'assets/images/success/case-quasi-rape-non-prosecution.jpg',
-  'assets/images/success/case-fraud-forgery.jpg',
-  'assets/images/success/additional/drunk-driving-4th-fine.jpg',
-  'assets/images/success/additional/military-forgery-probation.jpg',
-  'assets/images/success/additional/civil-appeal-reversal.png',
-  'assets/images/success/additional/civil-settlement-10m.png',
-  'assets/images/success/additional/drug-probation.jpg',
-  'assets/images/success/additional/fraud-20-probation.jpg',
+  'assets/images/success/case-fraud-probation.webp',
+  'assets/images/success/case-special-assault-fine.webp',
+  'assets/images/success/case-quasi-rape-non-prosecution.webp',
+  'assets/images/success/case-fraud-forgery.webp',
+  'assets/images/success/additional/drunk-driving-4th-fine.webp',
+  'assets/images/success/additional/military-forgery-probation.webp',
+  'assets/images/success/additional/civil-appeal-reversal.webp',
+  'assets/images/success/additional/civil-settlement-10m.webp',
+  'assets/images/success/additional/drug-probation.webp',
+  'assets/images/success/additional/fraud-20-probation.webp',
   'assets/images/success/additional/game-law-probation.webp',
-  'assets/images/success/additional/telecom-fraud-probation.jpg',
-  'assets/images/success/additional/license-free-accident-fine.jpg',
-  'assets/images/success/additional/supreme-court-merge.jpg',
-  'assets/images/success/additional/insult-non-prosecution.jpg',
-  'assets/images/success/additional/drunk-driving-3rd-probation.jpg',
-  'assets/images/success/additional/settlement-content-proof.jpg',
+  'assets/images/success/additional/telecom-fraud-probation.webp',
+  'assets/images/success/additional/license-free-accident-fine.webp',
+  'assets/images/success/additional/supreme-court-merge.webp',
+  'assets/images/success/additional/insult-non-prosecution.webp',
+  'assets/images/success/additional/drunk-driving-3rd-probation.webp',
+  'assets/images/success/additional/settlement-content-proof.webp',
 ];
 
 
@@ -572,7 +572,7 @@ function articlePage(item, type, all = []) {
     : '';
   const lawyerBlock = isCase
     ? `<section class="article-lawyer-card">
-                    <div class="article-lawyer-photo"><a href="../lawyer/"><img src="../assets/images/lawyer-card.png" alt="법무법인 우린 강성수 변호사" loading="lazy" decoding="async"></a></div>
+                    <div class="article-lawyer-photo"><a href="../lawyer/"><img src="../assets/images/lawyer-card.webp" alt="법무법인 우린 강성수 변호사" loading="lazy" decoding="async"></a></div>
                     <div class="article-lawyer-copy">
                         <span>LAW FIRM WOORIN</span>
                         <h2><a href="../lawyer/">강성수 변호사가 직접 상담합니다</a></h2>

@@ -4,6 +4,20 @@
   X-Frame-Options: SAMEORIGIN
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
+# 이미지와 폰트는 파일명이 바뀌지 않으면 내용도 바뀌지 않으므로 길게 캐시한다.
+/assets/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# CSS·JS 는 ?v= 버전 쿼리가 붙어 있어 갱신 시 주소가 바뀐다.
+/assets/css/*
+  Cache-Control: public, max-age=31536000
+
+/assets/js/*
+  Cache-Control: public, max-age=31536000
+
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
 

@@ -5,7 +5,7 @@ category: "형사사건 칼럼"
 date: "2026-06-24"
 order: 1007
 slug: "hospital-review-insult-non-prosecution"
-image: "assets/images/success/hospital-review-insult-non-prosecution-column.png"
+image: "assets/images/success/hospital-review-insult-non-prosecution-column.webp"
 imageAlt: "병원 리뷰 모욕죄 불송치 성공사례 결정서"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

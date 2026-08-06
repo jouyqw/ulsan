@@ -195,6 +195,92 @@ function normalizeInternalLinks(html) {
   });
 }
 
+// 외부 CDN 에서 오는 CSS(구글 폰트, Font Awesome)는 첫 화면 렌더링을 막는다.
+// 본문 글자가 먼저 보이도록 비동기 로딩 패턴으로 바꾸고 JS 없는 환경용 noscript 를 붙인다.
+// 이미 media 속성이 있거나 noscript 안에 있는 링크는 건드리지 않는다.
+const DEFERRABLE_CSS = /(?:fonts\.googleapis\.com|font-awesome)/i;
+
+function deferBlockingStylesheets(html) {
+  // noscript 블록은 그대로 두어야 하므로 잠시 빼놓는다.
+  const stash = [];
+  let work = html.replace(/<noscript>[\s\S]*?<\/noscript>/gi, (block) => {
+    stash.push(block);
+    return `__NOSCRIPT_${stash.length - 1}__`;
+  });
+
+  work = work.replace(/<link\b[^>]*>/gi, (tag) => {
+    if (!/rel=["']stylesheet["']/i.test(tag)) return tag;
+    if (/\bmedia=/i.test(tag)) return tag;
+    const href = (tag.match(/href=["']([^"']+)["']/i) || [])[1];
+    if (!href || !/^https?:/i.test(href) || !DEFERRABLE_CSS.test(href)) return tag;
+
+    const origin = new URL(href).origin;
+    return `<link rel="preconnect" href="${origin}" crossorigin>`
+      + `<link rel="stylesheet" href="${href}" media="print" onload="this.media='all'">`
+      + `<noscript><link rel="stylesheet" href="${href}"></noscript>`;
+  });
+
+  return work.replace(/__NOSCRIPT_(\d+)__/g, (_m, i) => stash[Number(i)]);
+}
+
+// 화면에 보이는 "자주 묻는 질문" 블록에서 FAQPage 구조화 데이터를 만들어 넣는다.
+// 본문을 고치면 스키마도 같이 바뀌므로 손으로 관리할 필요가 없다.
+// 구글 리치결과와 AI 검색 인용의 근거가 되는 부분이다.
+function plainText(value = '') {
+  return String(value)
+    .replace(/<[^>]+>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function extractVisibleFaq(html) {
+  const grid = html.match(/<div class="practice-faq-grid">([\s\S]*?)<\/div>\s*<\/section>/i);
+  if (!grid) return [];
+
+  const pairs = [];
+  const seen = new Set();
+  const itemRegex = /<article>\s*<h3>([\s\S]*?)<\/h3>\s*<p>([\s\S]*?)<\/p>\s*<\/article>/gi;
+  let match;
+  while ((match = itemRegex.exec(grid[1])) !== null) {
+    const question = plainText(match[1]);
+    const answer = plainText(match[2]);
+    if (!question || !answer || seen.has(question)) continue;
+    seen.add(question);
+    pairs.push({ question, answer });
+  }
+  return pairs;
+}
+
+function injectFaqSchema(html) {
+  if (/"FAQPage"/.test(html)) return html;
+
+  const pairs = extractVisibleFaq(html);
+  if (!pairs.length) return html;
+
+  const canonical = (html.match(/<link rel="canonical" href="([^"]*)"/i) || [])[1];
+  if (!canonical) return html;
+
+  const faq = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    '@id': `${canonical}#faq`,
+    mainEntity: pairs.map((pair) => ({
+      '@type': 'Question',
+      name: pair.question,
+      acceptedAnswer: { '@type': 'Answer', text: pair.answer },
+    })),
+  };
+
+  const script = `<script type="application/ld+json">\n${JSON.stringify(faq, null, 4)}\n</script>\n</head>`;
+  return html.replace(/<\/head>/i, script);
+}
+
 function versionLocalStylesheets(html) {
   return html.replace(/href=(['"])(?!https?:|\/\/)([^'"]+\.css)(?:\?[^'"]*)?\1/gi, (_full, quote, href) => (
     `href=${quote}${href}?v=${ASSET_VERSION}${quote}`
@@ -211,6 +297,8 @@ htmlFiles.forEach((file) => {
   html = normalizeNavigation(html);
   html = normalizeInternalLinks(html);
   html = versionLocalStylesheets(html);
+  html = injectFaqSchema(html);
+  html = deferBlockingStylesheets(html);
   html = normalizeImages(html, file);
   html = html.replace(/[ \t]+(?=\r?\n)/g, '');
   if (html !== original) {
