@@ -5,8 +5,32 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 06 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산민사변호사 가압류가 먼저일까 소송이 먼저일까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing</guid>
+      <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
+      <category>민사소송 칼럼</category>
+      <description>승소해도 상대방 재산이 없으면 회수가 어렵습니다. 가압류를 먼저 해야 하는 상황과 절차, 담보 제공과 부당 가압류 위험까지 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount</guid>
+      <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
+      <category>상간자소송 칼럼</category>
+      <description>상간자 위자료가 통상 어느 범위에서 정해지는지, 금액을 올리고 내리는 요소는 무엇인지, 배우자와 상간자의 책임 관계까지 Q&amp;A로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation</guid>
+      <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>양육비는 부부 합산 소득과 자녀 나이로 정해집니다. 산정기준표를 실제 사건에 적용하는 법, 가산·감산 요소, 미지급 시 이행확보 절차를 정리했습니다.</description>
+    </item>
     <item>
       <title>울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level</link>
@@ -222,30 +246,6 @@
       <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
       <category>민사소송 칼럼</category>
       <description>민사소송 1심에서 전면 패소한 뒤 항소심에서 계약서와 증거를 재구성해 청구금액 약 80%를 인정받고 상대방 반소를 기각시킨 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산변호사 재판 중 다시 마약을 한 경우, 집행유예를 이끌어낸 변호인의 전략</title>
-      <link>https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>마약 사건 칼럼</category>
-      <description>울산 마약 사건에서 이미 마약 투약 혐의로 재판 중 다시 마약을 해 구속된 불리한 상황에서도, 사건 병합과 치료 의지 자료를 통해 징역 1년 6월 집행유예 3년을 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례</title>
-      <link>https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>음주운전 전력 4회와 다른 재판 진행 중 재범이라는 불리한 조건에서도, 재범 방지 구조와 양형자료를 정리해 벌금 400만 원을 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례</title>
-      <link>https://ulsanlawyer.kr/columns/drunk-refusal-probation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/drunk-refusal-probation</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>울산 음주측정거부 사건에서 과거 음주운전 전과 3회와 실형 전력이 있었지만, 재범 방지 구조와 양형자료를 정리해 징역 1년 집행유예 3년을 받은 성공사례입니다.</description>
     </item>
   </channel>
 </rss>
