@@ -5,8 +5,32 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 07 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산마약변호사 모발검사가 음성인데 왜 기소될까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-drug-hair-test-negative-prosecution</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-drug-hair-test-negative-prosecution</guid>
+      <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
+      <category>마약사건 칼럼</category>
+      <description>마약 사건에서 모발검사 음성이 무혐의를 뜻하지 않는 이유와, 진술·디지털 자료가 어떻게 증거가 되는지, 검사 결과를 다투는 방법을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산성범죄전문변호사 취업제한명령, 직장을 잃지 않으려면</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-sex-crime-employment-restriction</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-sex-crime-employment-restriction</guid>
+      <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
+      <category>성범죄 칼럼</category>
+      <description>성범죄 유죄 판결에 따르는 취업제한명령의 대상 기관과 기간, 면제 판단 요소, 재판 단계에서 다투는 방법을 Q&amp;A로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산이혼변호사 이혼 위자료, 유책배우자 입증 자료 정리</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-divorce-alimony-fault-evidence</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-divorce-alimony-fault-evidence</guid>
+      <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>이혼 위자료는 혼인 파탄의 책임이 누구에게 있는지로 결정됩니다. 유책사유별 입증 자료와 액수를 좌우하는 요소, 청구 기한까지 정리했습니다.</description>
+    </item>
     <item>
       <title>울산민사변호사 가압류가 먼저일까 소송이 먼저일까</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing</link>
@@ -222,30 +246,6 @@
       <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
       <category>형사사건 칼럼</category>
       <description>울산 사기·컴퓨터등사용사기 사건에서 집행유예 기간 중 20회 넘는 범행이 문제 되었지만, 경합범 법리와 피해 회복 전략으로 징역 6월 집행유예 2년을 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산마약변호사 재판 중 또 마약을 한 구속 사건, 집행유예로 뒤집은 사례</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>마약 사건 칼럼</category>
-      <description>울산 마약 사건에서 재판 중 다시 마약을 해 구속된 불리한 상황에서도 사건 병합, 치료 자료, 재범 방지 계획을 통해 징역 1년 6월 집행유예 3년을 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례</title>
-      <link>https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>상간자소송 칼럼</category>
-      <description>임신 중 부정행위와 애정표현 문자 증거가 있었던 상간자 손해배상 소송에서, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원 화해권고로 방어한 사례입니다.</description>
-    </item>
-    <item>
-      <title>1심 패소에서 항소심 역전까지, 청구금액 80%를 인정받은 민사소송 사례</title>
-      <link>https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>민사소송 칼럼</category>
-      <description>민사소송 1심에서 전면 패소한 뒤 항소심에서 계약서와 증거를 재구성해 청구금액 약 80%를 인정받고 상대방 반소를 기각시킨 성공사례입니다.</description>
     </item>
   </channel>
 </rss>
