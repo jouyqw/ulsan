@@ -5,8 +5,32 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산음주운전변호사 면허취소 구제, 이의신청과 행정심판</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
+      <category>음주운전 칼럼</category>
+      <description>음주운전 면허취소에 대한 이의신청과 행정심판의 차이, 생계형 운전자 구제 요건과 기한, 형사절차와의 관계를 Q&amp;A로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산성범죄전문변호사 불법촬영, 삭제했으면 끝날까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-sex-crime-illegal-filming-deleted</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-sex-crime-illegal-filming-deleted</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
+      <category>성범죄 칼럼</category>
+      <description>카메라등이용촬영 사건에서 파일을 지워도 포렌식으로 복원되는 이유와, 미수·소지·유포의 구별, 초기 대응 방법을 Q&amp;A로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산이혼변호사 퇴직금·연금도 재산분할 대상일까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-divorce-retirement-pension-division</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-divorce-retirement-pension-division</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>아직 받지 않은 퇴직금과 국민연금, 공무원연금이 재산분할에서 어떻게 다뤄지는지, 분할연금 요건과 청구 기한까지 정리했습니다.</description>
+    </item>
     <item>
       <title>울산민사변호사 임차권등기명령, 이사 가기 전에 해야 하는 이유</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-civil-lease-registration-order</link>
@@ -222,30 +246,6 @@
       <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
       <category>형사사건 칼럼</category>
       <description>병원 이용 후 남긴 온라인 리뷰 때문에 모욕죄로 고소된 사건에서, 소비자의 정당한 평가와 모욕 고의가 없다는 점을 정리해 경찰 단계 불송치를 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 두 법원에서 따로 진행되던 형사재판, 대법원 결정으로 병합심리한 사례</title>
-      <link>https://ulsanlawyer.kr/columns/criminal-trials-merge-supreme-court</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-trials-merge-supreme-court</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>서로 다른 법원에서 따로 진행되던 형사재판을 대법원에 병합심리 신청해 하나의 법원에서 심리하도록 만든 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산변호사 임대차보증금 가압류, 떼일 뻔한 돈을 묶어낸 성공사례</title>
-      <link>https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>민사소송 칼럼</category>
-      <description>상대방 명의 부동산이 없어 돈을 받기 어려워 보였던 사건에서, 임대차보증금 반환채권을 가압류해 채권 회수 기반을 마련한 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 음주 집행유예 중 무면허 사고, 실형 위기에서 벌금형으로 끝낸 사례</title>
-      <link>https://ulsanlawyer.kr/columns/criminal-unlicensed-accident-probation-fine</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-unlicensed-accident-probation-fine</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>음주운전 집행유예 기간 중 무면허운전으로 교통사고를 내고 상해까지 발생한 사건에서, 피해 회복과 재범 방지 자료를 치밀하게 정리해 벌금 1,000만 원을 받은 성공사례입니다.</description>
     </item>
   </channel>
 </rss>
