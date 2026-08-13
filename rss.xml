@@ -5,8 +5,32 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 11 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension</guid>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 GMT</pubDate>
+      <category>마약사건 칼럼</category>
+      <description>마약 초범이 검토할 수 있는 치료조건부·교육조건부 기소유예의 요건과 절차, 준수사항을 지키지 못했을 때의 결과를 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산성범죄전문변호사 성범죄 합의, 언제 어떻게 해야 인정될까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-sex-crime-settlement-timing</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-sex-crime-settlement-timing</guid>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 GMT</pubDate>
+      <category>성범죄 칼럼</category>
+      <description>성범죄 사건에서 합의가 양형에 반영되는 시점과 방식, 합의금 산정, 처벌불원 의사표시의 의미와 위험한 접촉 방법을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산이혼변호사 가정폭력 이혼, 접근금지부터 신변 보호까지</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-divorce-domestic-violence-protection</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-divorce-domestic-violence-protection</guid>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>가정폭력 상황에서 이혼을 준비할 때 필요한 임시조치와 피해자보호명령, 접근금지의 차이와 증거 확보 방법을 순서대로 정리했습니다.</description>
+    </item>
     <item>
       <title>울산민사변호사 공사대금과 하자보수, 대금 청구 전 확인할 것</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-civil-construction-payment-defect</link>
@@ -222,30 +246,6 @@
       <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
       <category>마약사건 칼럼</category>
       <description>마약 초범이라도 실형 위험이 있는 이유와 법원이 보는 재범 위험성, 치료·상담·가족 보호계획 등 선처자료 준비 방법을 Q&amp;A로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 성범죄 거짓말탐지기, 무조건 받는 게 유리할까?</title>
-      <link>https://ulsanlawyer.kr/columns/sex-crime-polygraph-strategy</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-polygraph-strategy</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>성범죄 사건에서 경찰이 거짓말탐지기 조사를 제안했을 때 법적 효력, 수사상 영향, 응할지 여부를 어떻게 판단해야 하는지 Q&amp;A로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 형사재판 정신감정, 무조건 유리할까?</title>
-      <link>https://ulsanlawyer.kr/columns/criminal-mental-evaluation-sentencing-guide</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-mental-evaluation-sentencing-guide</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>형사재판에서 정신감정이 필요한 경우와 오히려 불리해질 수 있는 경우를 Q&amp;A, 상담 예시, 체크리스트 형식으로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 성범죄 무고, 카톡이 지워졌다면 증거보전부터 확인해야 합니다</title>
-      <link>https://ulsanlawyer.kr/columns/sex-crime-false-accusation-evidence-preservation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-false-accusation-evidence-preservation</guid>
-      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>합의하에 만난 뒤 강제추행·강간 고소를 당한 성범죄 무고 사건에서 카카오톡, CCTV, 블랙박스 등 증거가 사라지기 전 확인해야 할 초기 대응과 증거보전청구를 정리했습니다.</description>
     </item>
   </channel>
 </rss>
