@@ -28,6 +28,100 @@
 - [사이트맵](https://ulsanlawyer.kr/sitemap.xml)
 - [RSS](https://ulsanlawyer.kr/rss.xml)
 
+## 분야별 칼럼
+
+### 민사·임대차
+
+- [울산민사변호사 승소했는데 돈이 안 들어올 때, 집행 순서](https://ulsanlawyer.kr/columns/ulsan-civil-judgment-enforcement-order) (2026-08-14): 판결문은 회수의 시작입니다. 실제로 돈을 받는 절차를 순서대로 정리했습니다.
+- [울산민사변호사 공사대금과 하자보수, 대금 청구 전 확인할 것](https://ulsanlawyer.kr/columns/ulsan-civil-construction-payment-defect) (2026-08-12): 공사대금 분쟁은 대부분 하자 주장과 함께 옵니다. 무엇을 먼저 정리해야 하는지 짚었습니다.
+- [울산민사변호사 임차권등기명령, 이사 가기 전에 해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-civil-lease-registration-order) (2026-08-10): 보증금을 받기 전에 짐부터 빼면 순위를 잃습니다. 임차권등기명령이 왜 먼저인지 정리했습니다.
+- [울산민사변호사 가압류가 먼저일까 소송이 먼저일까](https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing) (2026-08-08): 소송에서 이기고도 돈을 못 받는 이유는 대부분 순서 때문입니다. 가압류를 언제 해야 하는지 정리했습니다.
+- [울산민사변호사 차용증 없이 빌려준 돈, 받을 수 있을까](https://ulsanlawyer.kr/columns/ulsan-civil-loan-recovery-lawsuit) (2026-08-06): 차용증이 없다는 이유로 포기할 필요는 없습니다. 계좌이체 내역과 대화만으로 대여금을 인정받는 방법과 절차 선택 기준을 정리했습니다.
+- [울산변호사 임대차보증금 가압류, 떼일 뻔한 돈을 묶어낸 성공사례](https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success) (2026-06-24): 상대방 명의 부동산이 없어 막막했던 채권 회수 사건에서, 임대차보증금 반환채권을 신속히 가압류해 돈을 받을 기반을 마련한 사례입니다.
+- [1심 패소에서 항소심 역전까지, 청구금액 80%를 인정받은 민사소송 사례](https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent) (2026-06-24): 민사소송 1심에서 패소한 사건을 항소심에서 사실관계와 법리를 다시 구성해 청구금액 약 80% 인정이라는 결과로 뒤집은 사례입니다.
+- [보증금을 돌려받지 못할 때 가능한 절차](https://ulsanlawyer.kr/columns/lease-deposit) (2026-06-23): 내용증명, 지급명령, 보증금 반환소송을 상황별로 나누어 설명합니다.
+
+### 상간소송
+
+- [울산상간소송변호사 배우자 휴대폰 몰래 보기, 증거일까 범죄일까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-phone-evidence-risk) (2026-08-14): 민사에서 증거로 쓰이는 것과 형사 문제가 되지 않는 것은 다릅니다. 선을 정리했습니다.
+- [울산상간소송변호사 상간자 소송 시효 3년, 언제부터 계산할까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-statute-limitation) (2026-08-12): 3년이라는 기간은 알고 나면 짧습니다. 시효가 언제부터 시작되는지 정확히 알아야 합니다.
+- [울산상간소송변호사 상간자 소송을 당했다면, 감액 방어 전략](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-defense-reduction) (2026-08-10): 소장을 받고 무시하면 그대로 확정됩니다. 감액이 인정되는 사정과 답변서 작성 방향을 정리했습니다.
+- [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
+- [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
+- [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
+
+### 형사
+
+- [울산형사전문변호사 구속영장 심사, 48시간 안에 준비할 것](https://ulsanlawyer.kr/columns/ulsan-criminal-arrest-warrant-review) (2026-08-14): 구속 여부는 하루 만에 결정됩니다. 그 하루에 무엇을 준비하느냐가 전부입니다.
+- [울산구치소변호사 가족의 갑작스러운 구속, 일반 면회보다 변호인 접견이 먼저인 이유](https://ulsanlawyer.kr/columns/ulsan-detention-center-lawyer-family-guide) (2026-06-24): 가족이 갑자기 구속되면 일반 면회 예약보다 먼저 사건 방향을 잡아야 합니다. 일반 접견과 변호인 접견의 차이, 구속 초기 대응 순서를 정리했습니다.
+- [울산변호사추천 경찰 출석 전, 혼자 가도 되는 사건과 변호사 상담이 필요한 사건](https://ulsanlawyer.kr/columns/ulsan-lawyer-recommend-police-summons-guide) (2026-06-24): 경찰 출석 요구를 받았다고 해서 모든 사건에 변호사 선임이 필요한 것은 아닙니다. 다만 성범죄, 사기·횡령·배임, 구속 위험 사건은 첫 조사 전 상담이 매우 중요합니다.
+- [울산형사전문변호사 업무상횡령·배임 혐의, 경찰 조사 전 반드시 확인할 쟁점](https://ulsanlawyer.kr/columns/embezzlement-breach-of-trust-defense-guide) (2026-06-24): 회사 자금, 모임 회비, 법인카드 사용 문제로 횡령·배임 혐의를 받는 경우 핵심은 감정적인 억울함이 아니라 자금 흐름과 고의성 부재를 객관 자료로 설명하는 것입니다.
+- [울산형사전문변호사 경찰 조사 전 변호사를 만나야 하는 이유](https://ulsanlawyer.kr/columns/police-investigation-early-defense-guide) (2026-06-24): 경찰 조사를 혼자 받은 뒤 변호사를 찾으면 이미 불리한 조서가 만들어져 있을 수 있습니다. 조사 전 준비해야 할 핵심 대응을 정리했습니다.
+- [울산형사전문변호사 형사재판 정신감정, 무조건 유리할까?](https://ulsanlawyer.kr/columns/criminal-mental-evaluation-sentencing-guide) (2026-06-24): 형사재판에서 정신감정이 책임능력과 양형에 어떤 영향을 줄 수 있는지, 언제 신청해야 하고 어떤 자료가 필요한지 정리한 칼럼입니다.
+- [울산형사전문변호사 음주운전 감형되는요소, 축제 후 적발됐다면 반드시 확인할 것](https://ulsanlawyer.kr/columns/drunk-driving-mitigation-guide) (2026-06-24): 축제나 모임 후 음주운전으로 적발된 경우, 실형 위험을 줄이기 위해 초기에 확인해야 할 감형 요소를 정리했습니다.
+- [울산형사전문변호사 병원 리뷰 모욕죄 고소, 경찰 단계에서 불송치로 끝낸 사례](https://ulsanlawyer.kr/columns/hospital-review-insult-non-prosecution) (2026-06-24): 병원 이용 후 남긴 온라인 리뷰로 모욕죄 고소를 당한 사건에서, 경찰 단계에서 혐의 없음 불송치 결정을 받은 사례입니다.
+- [울산형사전문변호사 두 법원에서 따로 진행되던 형사재판, 대법원 결정으로 병합심리한 사례](https://ulsanlawyer.kr/columns/criminal-trials-merge-supreme-court) (2026-06-24): 두 지역 법원에서 따로 진행되던 형사재판을 대법원 병합심리 결정으로 하나의 재판으로 합친 사례입니다.
+- [울산형사전문변호사 음주 집행유예 중 무면허 사고, 실형 위기에서 벌금형으로 끝낸 사례](https://ulsanlawyer.kr/columns/criminal-unlicensed-accident-probation-fine) (2026-06-24): 음주운전 집행유예 기간 중 무면허 상태로 사고를 내 상해까지 발생한 사건에서, 실형 위험을 방어하고 벌금형으로 마무리한 사례입니다.
+- [울산변호사 불법 환전·등급미필게임물 제공, 실형 위기에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/ulsan-lawyer-illegal-game-probation) (2026-06-24): 불법 게임장 운영과 현금 환전, 장기간 범행이 문제 된 사건에서 재범 방지 자료와 양형자료를 정리해 집행유예를 이끌어낸 사례입니다.
+- [울산형사전문변호사 대포폰 중개·전기통신사업법위반 방조, 집행유예로 마무리된 사례](https://ulsanlawyer.kr/columns/criminal-telecom-phone-aiding-probation) (2026-06-24): 지인의 부탁으로 선불 유심폰을 넘겨 전기통신사업법위반 방조 혐의를 받은 사건에서, 가담 정도와 교화 가능성을 정리해 집행유예를 이끌어낸 사례입니다.
+- [울산형사전문변호사 집행유예 중 20회 넘는 사기 혐의에도 다시 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/criminal-fraud-computer-probation) (2026-06-24): 집행유예 기간 중 20회가 넘는 사기·컴퓨터등사용사기 혐의가 문제 된 사건에서, 경합범 법리와 피해 회복 전략으로 다시 집행유예를 이끌어낸 사례입니다.
+- [군대 외출증 위조·가혹행위, 다수 피해자 사건에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/military-forgery-harassment-probation) (2026-06-24): 군 복무 중 외출증 위조와 다수 피해자에 대한 가혹행위가 문제 된 사건에서, 피해 회복 노력과 객관적 반성자료를 정리해 집행유예를 이끌어낸 사례입니다.
+- [특수공무집행방해 실형 위기, 벌금형으로 방어한 사례](https://ulsanlawyer.kr/columns/special-obstruction-police-fine) (2026-06-24): 경찰관과의 실랑이 중 물건이 얼굴에 맞아 특수공무집행방해 혐의를 받은 사건에서, 피해 회복과 진정성 있는 양형자료를 통해 벌금형으로 방어한 사례입니다.
+- [경찰 출석 요구를 받았다면 먼저 확인할 것](https://ulsanlawyer.kr/columns/police-investigation) (2026-06-23): 첫 조사 전 준비해야 할 자료, 진술 과정에서 주의할 점, 변호사 상담이 필요한 시점을 정리했습니다.
+
+### 음주운전
+
+- [울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/dui-accident-injury-probation) (2026-08-14): 혈중알코올농도 0.059%, 피해자 16주 진단, 구속 상태에서 시작한 사건에서 징역 8월 집행유예 2년을 받아 일상으로 돌아간 사례입니다.
+- [울산음주운전변호사 면허취소 구제, 이의신청과 행정심판](https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal) (2026-08-11): 형사 사건이 끝나기를 기다리면 구제 기한을 놓칩니다. 면허 절차는 따로 움직입니다.
+- [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
+- [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
+- [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
+
+### 마약
+
+- [울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까](https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension) (2026-08-13): 재판까지 가지 않고 끝나는 길이 있습니다. 다만 조건을 지켜야 유지됩니다.
+- [울산마약변호사 모발검사가 음성인데 왜 기소될까](https://ulsanlawyer.kr/columns/ulsan-drug-hair-test-negative-prosecution) (2026-08-09): 검사 결과가 음성이어도 기소되는 경우가 있습니다. 마약 사건에서 실제로 무엇이 증거가 되는지 정리했습니다.
+- [울산마약변호사 마약 초범도 실형이 나올 수 있을까? 재범 위험성과 선처자료 정리](https://ulsanlawyer.kr/columns/drug-first-offense-recidivism-risk-guide) (2026-06-24): 마약 사건은 초범이라도 방심하면 안 됩니다. 법원이 중요하게 보는 재범 위험성과 치료·재활 중심 선처자료를 정리했습니다.
+- [울산마약변호사 재판 중 또 마약을 한 구속 사건, 집행유예로 뒤집은 사례](https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation) (2026-06-24): 마약 재판을 받던 중 다시 마약을 해 구속된 사건에서, 변화 가능성과 치료 의지를 입증해 집행유예를 이끌어낸 사례입니다.
+- [울산변호사 재판 중 다시 마약을 한 경우, 집행유예를 이끌어낸 변호인의 전략](https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation) (2026-06-24): 마약 투약 혐의로 재판을 받던 중 다시 마약을 해 구속된 사건에서, 치료 의지와 재범 방지 구조를 입증해 집행유예를 받은 사례입니다.
+
+### 성범죄
+
+- [울산성범죄전문변호사 성범죄 합의, 언제 어떻게 해야 인정될까](https://ulsanlawyer.kr/columns/ulsan-sex-crime-settlement-timing) (2026-08-13): 직접 연락하는 순간 합의는 어려워집니다. 합의의 시점과 방법을 정리했습니다.
+- [울산성범죄전문변호사 불법촬영, 삭제했으면 끝날까](https://ulsanlawyer.kr/columns/ulsan-sex-crime-illegal-filming-deleted) (2026-08-11): 지운 파일은 대부분 복원됩니다. 삭제보다 위험한 것은 삭제했다는 사실 자체입니다.
+- [울산성범죄전문변호사 취업제한명령, 직장을 잃지 않으려면](https://ulsanlawyer.kr/columns/ulsan-sex-crime-employment-restriction) (2026-08-09): 교사, 의료인, 체육지도자라면 형량보다 취업제한이 더 큰 문제입니다. 면제를 받으려면 재판 중에 다퉈야 합니다.
+- [울산성범죄전문변호사 신상정보 등록·공개, 유죄여도 피할 수 있을까](https://ulsanlawyer.kr/columns/ulsan-sex-crime-registration-disclosure) (2026-08-07): 성범죄 사건에서 형량만 보면 안 됩니다. 신상정보 등록과 공개명령은 생활을 바꾸는 처분이며, 재판 중에 다퉈야 합니다.
+- [울산형사전문변호사 억울한 성폭행 혐의, 무혐의를 위한 증거 수집 Q&A](https://ulsanlawyer.kr/columns/sexual-assault-evidence-collection-defense-guide) (2026-06-24): 억울한 성폭행 혐의에서는 말뿐인 해명보다 사건 전후의 객관적 정황 증거가 중요합니다. CCTV, 메시지, 통화기록, 증거 제출 순서를 정리했습니다.
+- [울산성범죄전문변호사 성범죄 거짓말탐지기, 무조건 받는 게 유리할까?](https://ulsanlawyer.kr/columns/sex-crime-polygraph-strategy) (2026-06-24): 성범죄 사건에서 거짓말탐지기 조사를 제안받았을 때 무조건 응해야 하는지, 검사 결과가 어떤 의미를 갖는지 정리한 칼럼입니다.
+- [울산성범죄전문변호사 성범죄 무고, 카톡이 지워졌다면 증거보전부터 확인해야 합니다](https://ulsanlawyer.kr/columns/sex-crime-false-accusation-evidence-preservation) (2026-06-24): 성범죄 무고를 주장하는 사건에서 카톡이 지워졌거나 녹음이 없는 경우, CCTV와 주변 자료를 사라지기 전에 확보하는 초기 대응이 중요합니다.
+- [울산성범죄전문변호사 랜덤채팅 조건 제안, 아청법 위반으로 경찰 연락을 받았다면](https://ulsanlawyer.kr/columns/minor-prostitution-solicitation-chat-risk) (2026-06-24): 랜덤채팅이나 SNS에서 미성년자에게 조건을 제안했다는 이유로 아청법 위반 조사를 받게 된 경우, 실제 만남이 없었더라도 문제될 수 있는 쟁점과 초기 대응 방법을 정리했습니다.
+- [준강간 고소, 카카오톡 대화가 삭제된 상황에서도 불송치를 받은 사례](https://ulsanlawyer.kr/columns/quasi-rape-non-prosecution) (2026-06-24): 고소인이 항거불능을 주장하고 카카오톡 대화까지 삭제된 준강간 사건에서, CCTV와 동선 분석으로 불송치 결정을 이끌어낸 사례입니다.
+- [강제추행 항소심에서 검찰 실형 구형이 나왔을 때 대응 전략](https://ulsanlawyer.kr/columns/indecent-act-appeal-strategy) (2026-06-23): 1심에서 벌금형이 나왔더라도 검찰이 항소하면 항소심 결과는 달라질 수 있습니다. 강제추행 항소심에서 실제로 중요한 쟁점과 대응 방향을 정리했습니다.
+
+### 이혼
+
+- [울산이혼변호사 가정폭력 이혼, 접근금지부터 신변 보호까지](https://ulsanlawyer.kr/columns/ulsan-divorce-domestic-violence-protection) (2026-08-13): 안전이 먼저입니다. 이혼 절차보다 앞서 사용할 수 있는 보호 수단을 정리했습니다.
+- [울산이혼변호사 이혼 전 재산 빼돌리기, 어떻게 막을까](https://ulsanlawyer.kr/columns/ulsan-divorce-asset-concealment-preservation) (2026-08-12): 이혼 소송 중에 재산이 사라지면 판결은 의미가 없습니다. 막는 방법과 순서를 정리했습니다.
+- [울산이혼변호사 퇴직금·연금도 재산분할 대상일까](https://ulsanlawyer.kr/columns/ulsan-divorce-retirement-pension-division) (2026-08-11): 부동산과 예금만 나누는 것이 아닙니다. 실무에서 가장 많이 빠뜨리는 퇴직금과 연금을 정리했습니다.
+- [울산이혼변호사 협의이혼과 재판이혼, 무엇을 택해야 할까](https://ulsanlawyer.kr/columns/ulsan-divorce-agreement-vs-lawsuit) (2026-08-10): 빨리 끝내려다 더 오래 걸리는 경우가 많습니다. 두 절차의 차이와 선택 기준을 정리했습니다.
+- [울산이혼변호사 이혼 위자료, 유책배우자 입증 자료 정리](https://ulsanlawyer.kr/columns/ulsan-divorce-alimony-fault-evidence) (2026-08-09): 위자료는 재산분할과 전혀 다른 제도입니다. 파탄의 책임을 어떤 자료로 보여줘야 하는지 정리했습니다.
+- [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
+- [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
+- [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
+
+### 사기
+
+- [사기 혐의 부인하다 실형 위기, 집행유예로 끝난 사건](https://ulsanlawyer.kr/columns/fraud-denial-probation) (2026-06-24): 사기 혐의를 계속 부인하다 실형 위험이 커진 사건에서, 증거 구조를 분석하고 피해 회복과 합의를 진행해 집행유예로 마무리한 사례입니다.
+- [전세계약서 위조 대출사기, 사기·사문서위조 혐의에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/lease-contract-forgery-loan-fraud-probation) (2026-06-24): 가짜 전세계약서를 이용한 대출사기 사건에서 사기, 사문서위조, 위조사문서행사 혐의가 함께 적용되었지만 집행유예를 이끌어낸 사례입니다.
+
+### 상담·안내
+
+- [사무장·상담실장 없는 직접 상담이 중요한 이유](https://ulsanlawyer.kr/columns/direct-consultation) (2026-06-23): 초기 법률 판단을 누가 하느냐에 따라 대응 방향이 달라질 수 있습니다.
+
+### 성공사례 페이지
+
+- [강제추행 항소심, 검찰 실형 구형에도 벌금형으로 방어한 사례](https://ulsanlawyer.kr/cases/indecent-act-appeal-fine-reduced) (2026-06-23)
+
 ## 인용 시 유의사항
 
 사이트의 칼럼은 일반적인 법률 정보이며 개별 사건에 대한 법률 의견이 아닙니다.

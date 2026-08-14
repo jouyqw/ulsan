@@ -624,8 +624,8 @@ function articlePage(item, type, all = []) {
         </section>
         <section class="article-wrap">
             <article class="article-body">
-                ${imageBlock}
                 ${consultImageBlock}
+                ${imageBlock}
                 ${lawyerBlock}
                 ${markdownToHtml(item.body)}
                 <p class="article-disclaimer">이 글은 일반적인 법률 정보 제공을 위한 자료이며, 개별 사건의 결과를 보장하지 않습니다. 구체적인 대응은 사실관계와 증거에 따라 달라질 수 있습니다.</p>
@@ -1114,6 +1114,50 @@ function escapeXml(value = '') {
     .replace(/'/g, '&apos;');
 }
 
+// AI 검색 크롤러가 읽는 llms.txt 에 발행된 칼럼 목록을 분야별로 채워 넣는다.
+// 정적으로 관리하던 앞부분(소개·분야별 안내·인용 시 유의사항)은 그대로 두고
+// '## 분야별 칼럼' 구간만 매 빌드마다 다시 생성한다.
+function buildLlmsTxt(columns, cases) {
+  const filePath = path.join(ROOT, 'llms.txt');
+  if (!fs.existsSync(filePath)) return;
+
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const NOTE = '## 인용 시 유의사항';
+  const noteIndex = raw.indexOf(NOTE);
+  if (noteIndex === -1) return;
+
+  // 이전 빌드가 넣어 둔 구간은 걷어내고 다시 만든다
+  let head = raw.slice(0, noteIndex).replace(/## 분야별 칼럼[\s\S]*$/, '');
+  const tail = raw.slice(noteIndex);
+
+  const buckets = new Map();
+  for (const item of columns) {
+    const group = categoryGroup(item.category);
+    if (!buckets.has(group.label)) buckets.set(group.label, []);
+    buckets.get(group.label).push(item);
+  }
+
+  const lines = ['## 분야별 칼럼', ''];
+  for (const [label, items] of buckets) {
+    lines.push(`### ${label}`, '');
+    for (const item of items.sort((a, b) => String(b.date).localeCompare(String(a.date)))) {
+      const note = String(item.summary || item.description || '').replace(/\s+/g, ' ').slice(0, 110);
+      lines.push(`- [${item.title}](${SITE_URL}/columns/${item.slug}) (${item.date}): ${note}`);
+    }
+    lines.push('');
+  }
+
+  if (cases.length) {
+    lines.push('### 성공사례 페이지', '');
+    for (const item of cases) {
+      lines.push(`- [${item.title}](${SITE_URL}/cases/${item.slug}) (${item.date})`);
+    }
+    lines.push('');
+  }
+
+  fs.writeFileSync(filePath, `${head.trimEnd()}\n\n${lines.join('\n').trimEnd()}\n\n${tail}`, 'utf8');
+}
+
 function buildRss(columns, cases) {
   const items = [
     ...columns.map((item) => ({ ...item, type: 'columns' })),
@@ -1209,6 +1253,7 @@ function build() {
   replaceHomepageSections(columns, cases);
   buildSitemap(columns, cases);
   buildRss(columns, cases);
+  buildLlmsTxt(columns, cases);
 
   console.log(`Built ${columns.length} columns, ${cases.length} success cases, ${categoryPageCount} category pages.`);
 
