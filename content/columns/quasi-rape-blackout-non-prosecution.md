@@ -2,7 +2,7 @@
 title: "울산성범죄전문변호사 준강간 불송치, 블랙아웃과 항거불능은 다릅니다"
 description: "술에 취해 기억이 나지 않는다는 진술만으로 준강간이 성립하지는 않습니다. 대법원이 정리한 블랙아웃 법리와 대화 기록을 근거로 경찰 단계에서 혐의없음 불송치를 받은 성공사례입니다."
 category: "성범죄 칼럼"
-date: "2026-08-20"
+date: "2026-08-18"
 slug: "quasi-rape-blackout-non-prosecution"
 image: "assets/images/success/quasi-rape-blackout-non-prosecution-column.webp"
 imageAlt: "울산 준강간 혐의없음 불송치 수사결과 통지서"

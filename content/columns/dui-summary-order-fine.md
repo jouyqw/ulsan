@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 음주운전 약식명령, 정식재판을 청구해야 할까"
 description: "혈중알코올농도 0.132%로 약 20km를 운전해 벌금 800만 원 약식명령을 받은 사건입니다. 약식명령을 받았을 때 정식재판 청구 여부를 판단하는 기준을 정리했습니다."
 category: "음주운전 칼럼"
-date: "2026-08-30"
+date: "2026-08-23"
 slug: "dui-summary-order-fine"
 image: "assets/images/success/dui-summary-order-fine-column.webp"
 imageAlt: "울산 음주운전 벌금 약식명령"

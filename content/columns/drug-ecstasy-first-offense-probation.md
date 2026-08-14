@@ -2,7 +2,7 @@
 title: "울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령"
 description: "텔레그램으로 엑스터시를 여러 차례 매수하고 투약해 구속된 초범 사건입니다. 처벌만이 아니라 치료가 필요하다는 구조를 만들어 징역 1년 6월에 집행유예 3년을 받은 성공사례입니다."
 category: "마약사건 칼럼"
-date: "2026-08-22"
+date: "2026-08-19"
 slug: "drug-ecstasy-first-offense-probation"
 image: "assets/images/success/drug-ecstasy-first-offense-probation-column.webp"
 imageAlt: "울산 마약류관리법위반 향정 집행유예 판결문"

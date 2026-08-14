@@ -2,7 +2,7 @@
 title: "울산민사변호사 빚을 다 갚았는데 경매가 들어왔다면, 청구이의로 막은 사례"
 description: "판결금 전액을 갚으려 했지만 상대가 수령을 거부하고 강제경매를 신청한 사건입니다. 변제공탁과 청구이의의 소로 강제집행 불허 판결을 받아 아파트를 지켜낸 성공사례입니다."
 category: "민사소송 칼럼"
-date: "2026-08-18"
+date: "2026-08-17"
 slug: "claim-objection-deposit"
 image: "assets/images/success/claim-objection-deposit-column.webp"
 imageAlt: "울산 청구이의의 소 강제집행 불허 판결문"
