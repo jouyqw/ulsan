@@ -2,7 +2,7 @@
 title: "울산이혼변호사 상대가 먼저 낸 이혼소송, 반소로 뒤집은 사례"
 description: "남편이 먼저 이혼소송을 제기했지만 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사건입니다. 통화 내역만으로 부정행위를 입증한 성공사례입니다."
 category: "이혼소송 칼럼"
-date: "2026-08-31"
+date: "2026-08-26"
 slug: "divorce-counterclaim-alimony"
 image: "assets/images/success/divorce-counterclaim-alimony-column.webp"
 imageAlt: "울산 이혼 반소 인용 위자료 판결문"

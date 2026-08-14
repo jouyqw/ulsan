@@ -2,7 +2,7 @@
 title: "울산형사전문변호사 동업자 횡령 고소 5억, 불송치로 끝낸 사례"
 description: "동업 청산 과정에서 인출한 5억 원을 두고 특정경제범죄가중처벌등에관한법률위반(횡령)으로 고소당한 사건입니다. 청산 합의를 녹취로 입증해 경찰 단계에서 혐의없음 불송치를 받은 성공사례입니다."
 category: "형사사건 칼럼"
-date: "2026-08-19"
+date: "2026-08-16"
 slug: "embezzlement-settlement-non-prosecution"
 image: "assets/images/success/embezzlement-settlement-non-prosecution-column.webp"
 imageAlt: "울산 특정경제범죄가중처벌법 횡령 혐의없음 불송치 결정서"

@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례"
 description: "혈중알코올농도 0.059%로 교차로에서 이륜차와 충돌해 피해자가 16주 진단을 받은 사건입니다. 구속 상태에서 시작했지만 피해 회복과 양형자료를 정리해 징역 8월 집행유예 2년을 받은 성공사례입니다."
 category: "음주운전 칼럼"
-date: "2026-08-17"
+date: "2026-08-14"
 slug: "dui-accident-injury-probation"
 image: "assets/images/success/dui-accident-injury-probation-column.webp"
 imageAlt: "울산 음주 교통사고 치상 집행유예 판결문"
