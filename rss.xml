@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 14 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산형사전문변호사 동업자 횡령 고소 5억, 불송치로 끝낸 사례</title>
+      <link>https://ulsanlawyer.kr/columns/embezzlement-settlement-non-prosecution</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/embezzlement-settlement-non-prosecution</guid>
+      <pubDate>Sat, 15 Aug 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>동업 청산 과정에서 인출한 5억 원을 두고 특정경제범죄가중처벌등에관한법률위반(횡령)으로 고소당한 사건입니다. 청산 합의를 녹취로 입증해 경찰 단계에서 혐의없음 불송치를 받은 성공사례입니다.</description>
+    </item>
     <item>
       <title>울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-dui-hit-and-run-criteria</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 05 Aug 2026 15:00:00 GMT</pubDate>
       <category>민사소송 칼럼</category>
       <description>차용증이 없어도 계좌이체와 대화 내용으로 대여금을 청구할 수 있습니다. 증여와의 구별, 지급명령과 소송의 선택, 소멸시효까지 Q&amp;A로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope</guid>
-      <pubDate>Wed, 05 Aug 2026 15:00:00 GMT</pubDate>
-      <category>상간자소송 칼럼</category>
-      <description>상간자 소송에서 어떤 증거가 부정행위로 인정되는지, 성관계 증거가 없어도 청구가 가능한지, 위법하게 수집한 자료의 위험까지 Q&amp;A로 정리했습니다.</description>
     </item>
   </channel>
 </rss>
