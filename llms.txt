@@ -30,6 +30,18 @@
 
 ## 분야별 칼럼
 
+### 민사·임대차
+
+- [울산민사변호사 빚을 다 갚았는데 경매가 들어왔다면, 청구이의로 막은 사례](https://ulsanlawyer.kr/columns/claim-objection-deposit) (2026-08-17): 판결금을 다 갚으려 했는데 상대가 수령을 거부하고 경매를 신청한 사건에서, 변제공탁과 청구이의로 강제집행을 막은 사례입니다.
+- [울산민사변호사 승소했는데 돈이 안 들어올 때, 집행 순서](https://ulsanlawyer.kr/columns/ulsan-civil-judgment-enforcement-order) (2026-08-14): 판결문은 회수의 시작입니다. 실제로 돈을 받는 절차를 순서대로 정리했습니다.
+- [울산민사변호사 공사대금과 하자보수, 대금 청구 전 확인할 것](https://ulsanlawyer.kr/columns/ulsan-civil-construction-payment-defect) (2026-08-12): 공사대금 분쟁은 대부분 하자 주장과 함께 옵니다. 무엇을 먼저 정리해야 하는지 짚었습니다.
+- [울산민사변호사 임차권등기명령, 이사 가기 전에 해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-civil-lease-registration-order) (2026-08-10): 보증금을 받기 전에 짐부터 빼면 순위를 잃습니다. 임차권등기명령이 왜 먼저인지 정리했습니다.
+- [울산민사변호사 가압류가 먼저일까 소송이 먼저일까](https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing) (2026-08-08): 소송에서 이기고도 돈을 못 받는 이유는 대부분 순서 때문입니다. 가압류를 언제 해야 하는지 정리했습니다.
+- [울산민사변호사 차용증 없이 빌려준 돈, 받을 수 있을까](https://ulsanlawyer.kr/columns/ulsan-civil-loan-recovery-lawsuit) (2026-08-06): 차용증이 없다는 이유로 포기할 필요는 없습니다. 계좌이체 내역과 대화만으로 대여금을 인정받는 방법과 절차 선택 기준을 정리했습니다.
+- [울산변호사 임대차보증금 가압류, 떼일 뻔한 돈을 묶어낸 성공사례](https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success) (2026-06-24): 상대방 명의 부동산이 없어 막막했던 채권 회수 사건에서, 임대차보증금 반환채권을 신속히 가압류해 돈을 받을 기반을 마련한 사례입니다.
+- [1심 패소에서 항소심 역전까지, 청구금액 80%를 인정받은 민사소송 사례](https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent) (2026-06-24): 민사소송 1심에서 패소한 사건을 항소심에서 사실관계와 법리를 다시 구성해 청구금액 약 80% 인정이라는 결과로 뒤집은 사례입니다.
+- [보증금을 돌려받지 못할 때 가능한 절차](https://ulsanlawyer.kr/columns/lease-deposit) (2026-06-23): 내용증명, 지급명령, 보증금 반환소송을 상황별로 나누어 설명합니다.
+
 ### 형사
 
 - [울산형사전문변호사 동업자 횡령 고소 5억, 불송치로 끝낸 사례](https://ulsanlawyer.kr/columns/embezzlement-settlement-non-prosecution) (2026-08-16): 동업 청산 합의에 따라 인출한 5억 원이 횡령으로 고소된 사건에서, 통화 녹취와 자금 흐름을 정리해 혐의없음 불송치를 받은 사례입니다.
@@ -60,17 +72,6 @@
 - [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
 - [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
 - [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
-
-### 민사·임대차
-
-- [울산민사변호사 승소했는데 돈이 안 들어올 때, 집행 순서](https://ulsanlawyer.kr/columns/ulsan-civil-judgment-enforcement-order) (2026-08-14): 판결문은 회수의 시작입니다. 실제로 돈을 받는 절차를 순서대로 정리했습니다.
-- [울산민사변호사 공사대금과 하자보수, 대금 청구 전 확인할 것](https://ulsanlawyer.kr/columns/ulsan-civil-construction-payment-defect) (2026-08-12): 공사대금 분쟁은 대부분 하자 주장과 함께 옵니다. 무엇을 먼저 정리해야 하는지 짚었습니다.
-- [울산민사변호사 임차권등기명령, 이사 가기 전에 해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-civil-lease-registration-order) (2026-08-10): 보증금을 받기 전에 짐부터 빼면 순위를 잃습니다. 임차권등기명령이 왜 먼저인지 정리했습니다.
-- [울산민사변호사 가압류가 먼저일까 소송이 먼저일까](https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing) (2026-08-08): 소송에서 이기고도 돈을 못 받는 이유는 대부분 순서 때문입니다. 가압류를 언제 해야 하는지 정리했습니다.
-- [울산민사변호사 차용증 없이 빌려준 돈, 받을 수 있을까](https://ulsanlawyer.kr/columns/ulsan-civil-loan-recovery-lawsuit) (2026-08-06): 차용증이 없다는 이유로 포기할 필요는 없습니다. 계좌이체 내역과 대화만으로 대여금을 인정받는 방법과 절차 선택 기준을 정리했습니다.
-- [울산변호사 임대차보증금 가압류, 떼일 뻔한 돈을 묶어낸 성공사례](https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success) (2026-06-24): 상대방 명의 부동산이 없어 막막했던 채권 회수 사건에서, 임대차보증금 반환채권을 신속히 가압류해 돈을 받을 기반을 마련한 사례입니다.
-- [1심 패소에서 항소심 역전까지, 청구금액 80%를 인정받은 민사소송 사례](https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent) (2026-06-24): 민사소송 1심에서 패소한 사건을 항소심에서 사실관계와 법리를 다시 구성해 청구금액 약 80% 인정이라는 결과로 뒤집은 사례입니다.
-- [보증금을 돌려받지 못할 때 가능한 절차](https://ulsanlawyer.kr/columns/lease-deposit) (2026-06-23): 내용증명, 지급명령, 보증금 반환소송을 상황별로 나누어 설명합니다.
 
 ### 상간소송
 
