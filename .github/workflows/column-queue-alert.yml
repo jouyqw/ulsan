@@ -1,0 +1,71 @@
+name: 칼럼 큐 잔량 점검
+
+# 하루 1건 발행 리듬이 끊기지 않도록 예약 칼럼 잔량을 감시한다.
+# 남은 예약분이 기준(기본 10일치) 밑으로 떨어지면 이슈를 열어 알린다.
+# 이미 열린 알림 이슈가 있으면 새로 만들지 않고 코멘트만 남긴다.
+
+on:
+  schedule:
+    # UTC 23:00 = KST 08:00 (발행 워크플로보다 한 시간 앞서 확인)
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+    inputs:
+      min_days:
+        description: '경고 기준 일수'
+        type: string
+        default: '10'
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: column-queue-alert
+  cancel-in-progress: false
+
+env:
+  MIN_DAYS: ${{ inputs.min_days || '10' }}
+  ISSUE_TITLE: '칼럼 예약 큐 보충 필요'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 큐 잔량 확인
+        id: plan
+        run: |
+          if node scripts/plan-columns.js --check --min "$MIN_DAYS" > plan.txt 2>&1; then
+            echo "low=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "low=true" >> "$GITHUB_OUTPUT"
+          fi
+          cat plan.txt
+          {
+            echo '### 칼럼 큐 현황'
+            echo ''
+            echo '```'
+            cat plan.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: 부족하면 이슈 알림
+        if: steps.plan.outputs.low == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BODY=$(printf '예약 칼럼이 기준(%s일치) 밑으로 떨어졌습니다.\n\n```\n%s\n```\n\n`content/topic-queue.txt` 의 미작성 주제로 새 칼럼을 채운 뒤 `npm run plan -- --assign` 으로 날짜를 배정하세요.' "$MIN_DAYS" "$(cat plan.txt)")
+          EXISTING=$(gh issue list --state open --search "$ISSUE_TITLE in:title" --json number --jq '.[0].number')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create --title "$ISSUE_TITLE" --body "$BODY"
+          fi

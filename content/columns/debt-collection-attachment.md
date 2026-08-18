@@ -2,7 +2,7 @@
 title: "울산민사변호사 판결 받고도 못 받은 돈, 재산명시에서 채권압류까지"
 description: "부당이득금 승소 판결을 받고도 채무자가 갚지 않던 사건입니다. 재산명시로 재산을 드러내고 재개발 현금청산금 채권을 압류·추심해 회수 경로를 확보한 성공사례입니다."
 category: "민사소송 칼럼"
-date: "2026-08-22"
+date: "2026-09-14"
 slug: "debt-collection-attachment"
 image: "assets/images/success/debt-collection-attachment-column.webp"
 imageAlt: "채권압류 및 추심명령 결정문"

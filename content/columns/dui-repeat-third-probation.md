@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예"
 description: "이전 음주운전으로 벌금형을 받고 10년이 지나지 않아 다시 적발된 사건입니다. 재범 가중 규정이 적용되는 최악의 조건에서 징역 2년 집행유예 3년을 받은 성공사례입니다."
 category: "음주운전 칼럼"
-date: "2026-08-20"
+date: "2026-08-31"
 slug: "dui-repeat-third-probation"
 image: "assets/images/success/dui-repeat-third-probation-column.webp"
 imageAlt: "울산 음주운전 재범 집행유예 판결문"
