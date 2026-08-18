@@ -2,7 +2,7 @@
 title: "울산성범죄변호사 술자리 신체 접촉, 기억이 없다면 어떻게 다투나"
 description: "음주 상태에서 벌어진 성범죄 혐의에서 기억이 없을 때의 대응 방법과 심신미약 주장의 한계, 객관 자료로 사실을 복원하는 방법을 정리했습니다."
 category: "성범죄 칼럼"
-date: "2026-09-12"
+date: "2026-09-09"
 order: 1068
 slug: "ulsan-sex-crime-drinking-memory-defense"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

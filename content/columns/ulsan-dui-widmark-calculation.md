@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 위드마크 역산, 수치를 다툴 수 있는 지점"
 description: "음주 후 시간이 지나 측정한 사건에서 쓰이는 위드마크 공식의 구조와 다툴 수 있는 변수, 상승기 측정 문제를 정리했습니다. 수치가 처벌 기준 경계에 있을 때의 대응을 설명합니다."
 category: "음주운전 칼럼"
-date: "2026-08-27"
+date: "2026-08-21"
 order: 1052
 slug: "ulsan-dui-widmark-calculation"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

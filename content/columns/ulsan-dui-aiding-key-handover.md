@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 음주운전 방조, 차 키를 건넨 사람의 책임"
 description: "음주운전 방조가 성립하는 경우와 차량 제공, 음주 권유, 동승의 책임 범위를 정리했습니다. 운전하지 않았는데 함께 입건되는 이유를 설명합니다."
 category: "음주운전 칼럼"
-date: "2026-09-08"
+date: "2026-09-04"
 order: 1064
 slug: "ulsan-dui-aiding-key-handover"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

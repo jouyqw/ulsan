@@ -2,7 +2,7 @@
 title: "울산변호사 합의서 한 장의 무게, 처벌불원과 손해배상은 다릅니다"
 description: "형사 합의서에 반드시 들어가야 할 항목과 처벌불원 의사의 의미, 반의사불벌죄와 그 외 사건의 차이, 합의금과 민사 청구의 관계를 정리했습니다."
 category: "형사사건 칼럼"
-date: "2026-09-15"
+date: "2026-09-12"
 order: 1071
 slug: "ulsan-lawyer-settlement-document"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

@@ -2,7 +2,7 @@
 title: "울산형사변호사 검찰 송치 후에 결정되는 것들"
 description: "경찰 송치 이후 검찰에서 이루어지는 보완수사, 처분 유형, 약식기소와 구공판의 차이를 정리했습니다. 송치 후에도 결과를 바꿀 수 있는 구간이 언제인지 설명합니다."
 category: "형사사건 칼럼"
-date: "2026-08-30"
+date: "2026-08-25"
 order: 1055
 slug: "ulsan-criminal-prosecution-transfer-process"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

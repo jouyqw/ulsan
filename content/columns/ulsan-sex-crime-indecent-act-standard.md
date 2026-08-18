@@ -2,7 +2,7 @@
 title: "울산성범죄변호사 강제추행의 추행, 신체 접촉만이 기준은 아닙니다"
 description: "강제추행에서 추행으로 평가되는 범위와 폭행·협박의 정도, 기습추행이 문제 되는 이유를 정리했습니다. 접촉 부위와 시간만으로 결론이 나지 않는 이유를 설명합니다."
 category: "성범죄 칼럼"
-date: "2026-08-25"
+date: "2026-08-19"
 order: 1050
 slug: "ulsan-sex-crime-indecent-act-standard"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

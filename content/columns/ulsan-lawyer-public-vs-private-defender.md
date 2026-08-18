@@ -2,7 +2,7 @@
 title: "울산변호사 국선변호인과 사선변호인, 무엇이 다를까"
 description: "국선변호인 선정 요건과 절차, 사선변호인과의 실질적 차이, 구속 사건에서 필요적 변호가 되는 경우를 정리했습니다. 어떤 사건에서 선임을 고민해야 하는지 설명합니다."
 category: "상담·안내 칼럼"
-date: "2026-09-09"
+date: "2026-09-05"
 order: 1065
 slug: "ulsan-lawyer-public-vs-private-defender"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

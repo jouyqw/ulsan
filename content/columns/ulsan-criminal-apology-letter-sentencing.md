@@ -2,7 +2,7 @@
 title: "울산형사변호사 반성문과 탄원서, 양형에 반영되는 조건"
 description: "반성문과 탄원서가 실제로 양형에 반영되는 경우와 그렇지 않은 경우를 정리했습니다. 제출 시점, 내용 구성, 피해자 탄원과의 차이를 설명합니다."
 category: "형사사건 칼럼"
-date: "2026-09-11"
+date: "2026-09-08"
 order: 1067
 slug: "ulsan-criminal-apology-letter-sentencing"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

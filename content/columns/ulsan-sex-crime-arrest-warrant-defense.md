@@ -2,7 +2,7 @@
 title: "울산성범죄변호사 성범죄 구속영장, 도주·증거인멸 우려를 깨는 방법"
 description: "성범죄 사건에서 구속영장이 청구되는 사유와 구속 전 피의자심문 준비, 주거·직업·피해 회복 자료로 우려를 낮추는 방법을 정리했습니다."
 category: "성범죄 칼럼"
-date: "2026-09-18"
+date: "2026-09-16"
 order: 1074
 slug: "ulsan-sex-crime-arrest-warrant-defense"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

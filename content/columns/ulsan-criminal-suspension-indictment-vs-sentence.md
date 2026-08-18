@@ -2,7 +2,7 @@
 title: "울산형사변호사 기소유예와 선고유예, 전과가 남는 기준"
 description: "기소유예와 선고유예, 집행유예의 차이를 절차와 기록 관점에서 정리했습니다. 어떤 처분을 목표로 준비해야 하는지, 각각 무엇을 다투는지 설명합니다."
 category: "형사사건 칼럼"
-date: "2026-09-05"
+date: "2026-09-01"
 order: 1061
 slug: "ulsan-criminal-suspension-indictment-vs-sentence"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

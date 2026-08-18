@@ -2,7 +2,7 @@
 title: "울산형사변호사 피의자신문조서, 서명 전에 반드시 확인할 것"
 description: "경찰 조사에서 작성된 피의자신문조서는 재판에서 그대로 증거가 됩니다. 열람 단계에서 확인할 항목과 정정을 요구하는 방법, 서명 후에 바로잡기 어려워지는 이유를 정리했습니다."
 category: "형사사건 칼럼"
-date: "2026-08-24"
+date: "2026-08-18"
 order: 1049
 slug: "ulsan-criminal-interrogation-record-check"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

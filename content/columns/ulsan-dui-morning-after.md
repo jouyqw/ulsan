@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 숙취운전, 다음 날 아침에 걸리는 이유"
 description: "전날 음주 후 아침 출근길에 단속되는 숙취운전의 원리와 처벌, 시간당 분해량과 수면의 관계, 출근 전 확인할 기준을 정리했습니다."
 category: "음주운전 칼럼"
-date: "2026-09-14"
+date: "2026-09-11"
 order: 1070
 slug: "ulsan-dui-morning-after"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

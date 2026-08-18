@@ -2,7 +2,7 @@
 title: "울산마약변호사 대마 초범, 기소유예와 교육이수조건부"
 description: "대마 흡연·소지 초범 사건에서 검토되는 기소유예와 교육이수조건부 기소유예, 치료조건부 처분의 요건과 준비 자료를 정리했습니다."
 category: "마약사건 칼럼"
-date: "2026-09-10"
+date: "2026-09-06"
 order: 1066
 slug: "ulsan-drug-cannabis-first-offense"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

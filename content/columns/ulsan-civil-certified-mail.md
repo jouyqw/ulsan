@@ -2,7 +2,7 @@
 title: "울산민사변호사 내용증명, 보내야 할 때와 보내면 안 될 때"
 description: "내용증명의 법적 효력과 실제 쓰임새, 소멸시효·계약 해지·최고에서 필요한 이유, 반대로 보내면 불리해지는 상황을 정리했습니다."
 category: "민사소송 칼럼"
-date: "2026-09-04"
+date: "2026-08-30"
 order: 1060
 slug: "ulsan-civil-certified-mail"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

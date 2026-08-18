@@ -2,7 +2,7 @@
 title: "울산변호사 고소를 당했을 때와 고소를 할 때, 준비가 다릅니다"
 description: "고소인 입장과 피고소인 입장에서 각각 준비해야 할 것과 절차의 차이, 고소장 작성 시 주의점, 무고 위험까지 정리했습니다."
 category: "형사사건 칼럼"
-date: "2026-09-21"
+date: "2026-09-19"
 order: 1077
 slug: "ulsan-lawyer-complaint-both-sides"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

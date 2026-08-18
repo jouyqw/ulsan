@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 집행유예 기간 중 음주운전, 실형을 피할 방법"
 description: "집행유예 기간 중 음주운전으로 적발된 경우의 위험과 집행유예 실효, 다시 집행유예를 받기 어려운 이유, 그럼에도 준비해야 할 것을 정리했습니다."
 category: "음주운전 칼럼"
-date: "2026-09-20"
+date: "2026-09-18"
 order: 1076
 slug: "ulsan-dui-during-probation"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

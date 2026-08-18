@@ -2,7 +2,7 @@
 title: "울산형사변호사 압수수색과 휴대폰 포렌식, 어디까지 열리나"
 description: "압수수색 영장의 범위와 휴대폰 포렌식 절차, 참여권과 선별 압수의 의미, 삭제한 데이터가 복원되는 이유를 정리했습니다."
 category: "형사사건 칼럼"
-date: "2026-09-17"
+date: "2026-09-15"
 order: 1073
 slug: "ulsan-criminal-search-seizure-forensics"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

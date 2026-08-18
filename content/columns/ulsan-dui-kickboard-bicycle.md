@@ -2,7 +2,7 @@
 title: "울산음주운전변호사 킥보드와 자전거 음주운전, 처벌이 다른 이유"
 description: "전동킥보드(개인형 이동장치)와 자전거의 음주운전 처벌 차이, 무면허 문제, 사고가 났을 때 형사책임이 달라지는 지점을 정리했습니다."
 category: "음주운전 칼럼"
-date: "2026-09-02"
+date: "2026-08-28"
 order: 1058
 slug: "ulsan-dui-kickboard-bicycle"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

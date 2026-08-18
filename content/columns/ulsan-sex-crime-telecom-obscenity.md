@@ -2,7 +2,7 @@
 title: "울산성범죄변호사 통신매체이용음란죄, 메시지 한 줄로 입건되는 이유"
 description: "통신매체이용음란죄의 성립 요건과 성적 욕망 목적의 판단 기준, 신상정보 등록 여부를 정리했습니다. 메시지나 사진 한 건으로도 입건되는 이유를 설명합니다."
 category: "성범죄 칼럼"
-date: "2026-08-31"
+date: "2026-08-26"
 order: 1056
 slug: "ulsan-sex-crime-telecom-obscenity"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

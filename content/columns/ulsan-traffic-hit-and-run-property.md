@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 사고 후 미조치, 물피도주도 처벌될까"
 description: "주차된 차량을 긁고 그냥 간 경우의 책임과 인적피해 사고의 미조치 차이, 조치의무의 범위를 정리했습니다. 연락처만 남기면 되는지도 함께 설명합니다."
 category: "교통사고 칼럼"
-date: "2026-09-13"
+date: "2026-09-10"
 order: 1069
 slug: "ulsan-traffic-hit-and-run-property"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

@@ -2,7 +2,7 @@
 title: "울산이혼변호사 별거와 졸혼, 재산분할 기준시점은 언제일까"
 description: "재산분할의 기준시점이 언제로 정해지는지, 별거 기간 중 형성한 재산과 늘어난 빚의 처리, 졸혼 상태의 법적 의미를 정리했습니다."
 category: "이혼소송 칼럼"
-date: "2026-09-22"
+date: "2026-09-20"
 order: 1078
 slug: "ulsan-divorce-separation-asset-date"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

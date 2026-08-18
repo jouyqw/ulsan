@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 교통사고 형사합의, 보험사 합의와 무엇이 다른가"
 description: "교통사고에서 보험사 합의와 형사합의의 차이, 처벌불원 의사의 의미, 합의 시점에 따라 결과가 달라지는 이유와 공탁의 활용을 정리했습니다."
 category: "교통사고 칼럼"
-date: "2026-09-01"
+date: "2026-08-27"
 order: 1057
 slug: "ulsan-traffic-criminal-settlement"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

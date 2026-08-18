@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 중상해 판단, 진단서만으로 정해지지 않습니다"
 description: "교통사고에서 중상해로 평가되는 기준과 종합보험 특례가 배제되는 이유, 진단 주수와 후유장해가 실제로 어떻게 반영되는지 정리했습니다."
 category: "교통사고 칼럼"
-date: "2026-09-07"
+date: "2026-09-03"
 order: 1063
 slug: "ulsan-traffic-serious-injury-criteria"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

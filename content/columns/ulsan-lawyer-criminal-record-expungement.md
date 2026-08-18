@@ -2,7 +2,7 @@
 title: "울산변호사 형사 전과, 어디까지 남고 언제 지워질까"
 description: "범죄경력자료와 수사경력자료의 차이, 기소유예와 무혐의 처분의 기록, 형의 실효 기간과 조회 범위를 정리했습니다. 전과가 실제로 어디에 남는지 설명합니다."
 category: "형사사건 칼럼"
-date: "2026-08-28"
+date: "2026-08-22"
 order: 1053
 slug: "ulsan-lawyer-criminal-record-expungement"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

@@ -2,7 +2,7 @@
 title: "울산상간소송변호사 이미 파탄된 부부, 상간 위자료 책임이 없는 경우"
 description: "혼인관계가 이미 파탄된 뒤에 만난 경우 상간자 위자료 책임이 인정되지 않는 이유와 파탄 시점을 입증하는 방법, 감액 사유를 정리했습니다."
 category: "상간자소송 칼럼"
-date: "2026-09-16"
+date: "2026-09-13"
 order: 1072
 slug: "ulsan-affair-marriage-already-broken"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

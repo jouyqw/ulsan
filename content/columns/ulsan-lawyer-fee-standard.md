@@ -2,7 +2,7 @@
 title: "울산변호사 변호사 선임 비용, 무엇을 기준으로 정해질까"
 description: "형사·민사 사건의 변호사 보수가 어떤 기준으로 산정되는지, 착수금과 성공보수의 구조, 심급별 계약과 실비의 범위를 정리했습니다. 상담 전에 확인할 항목을 설명합니다."
 category: "상담·안내 칼럼"
-date: "2026-09-03"
+date: "2026-08-29"
 order: 1059
 slug: "ulsan-lawyer-fee-standard"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 과실 비율 다툼, 블랙박스와 사고기록으로 뒤집기"
 description: "교통사고 과실 비율이 정해지는 방식과 보험사 기준의 한계, 블랙박스와 사고기록장치 자료로 다투는 방법, 형사 절차에 미치는 영향을 정리했습니다."
 category: "교통사고 칼럼"
-date: "2026-09-19"
+date: "2026-09-17"
 order: 1075
 slug: "ulsan-traffic-fault-ratio-evidence"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

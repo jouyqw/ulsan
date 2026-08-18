@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 12대 중과실, 보험이 있어도 형사처벌을 받는 경우"
 description: "종합보험에 가입되어 있어도 형사 절차가 진행되는 12대 중과실 유형과 특례 배제 사유를 정리했습니다. 보험 접수와 형사 사건이 왜 따로 움직이는지 설명합니다."
 category: "교통사고 칼럼"
-date: "2026-08-26"
+date: "2026-08-20"
 order: 1051
 slug: "ulsan-traffic-12-gross-negligence"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

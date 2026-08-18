@@ -2,7 +2,7 @@
 title: "울산이혼변호사 양육비를 안 줄 때, 이행명령에서 감치까지"
 description: "이혼 후 양육비가 지급되지 않을 때 쓸 수 있는 이행명령, 감치, 직접지급명령, 담보제공명령의 순서와 선택 기준을 정리했습니다. 어떤 절차부터 밟아야 실제로 받는지 설명합니다."
 category: "이혼소송 칼럼"
-date: "2026-08-29"
+date: "2026-08-23"
 order: 1054
 slug: "ulsan-divorce-child-support-enforcement"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

@@ -2,7 +2,7 @@
 title: "울산성범죄변호사 피해자 진술의 신빙성, 법원은 무엇을 보나"
 description: "성범죄 사건에서 진술만 있는 경우 법원이 신빙성을 판단하는 기준과 다툴 수 있는 지점, 객관 자료로 검증하는 방법을 정리했습니다."
 category: "성범죄 칼럼"
-date: "2026-09-06"
+date: "2026-09-02"
 order: 1062
 slug: "ulsan-sex-crime-victim-statement-credibility"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
