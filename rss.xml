@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 17 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령</title>
+      <link>https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation</guid>
+      <pubDate>Tue, 18 Aug 2026 15:00:00 GMT</pubDate>
+      <category>마약사건 칼럼</category>
+      <description>텔레그램으로 엑스터시를 여러 차례 매수하고 투약해 구속된 초범 사건입니다. 처벌만이 아니라 치료가 필요하다는 구조를 만들어 징역 1년 6월에 집행유예 3년을 받은 성공사례입니다.</description>
+    </item>
     <item>
       <title>울산성범죄전문변호사 준강간 불송치, 블랙아웃과 항거불능은 다릅니다</title>
       <link>https://ulsanlawyer.kr/columns/quasi-rape-blackout-non-prosecution</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 06 Aug 2026 15:00:00 GMT</pubDate>
       <category>음주운전 칼럼</category>
       <description>0.03%부터 0.2% 이상까지 수치별 형사처벌과 면허 행정처분이 어떻게 달라지는지, 측정거부와 재범 가중까지 Q&amp;A로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 신상정보 등록·공개, 유죄여도 피할 수 있을까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-sex-crime-registration-disclosure</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-sex-crime-registration-disclosure</guid>
-      <pubDate>Thu, 06 Aug 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>성범죄 유죄 판결에 따라붙는 신상정보 등록과 공개·고지명령의 차이, 면제 판단 요소, 재판 단계에서 다퉈야 하는 이유를 Q&amp;A로 정리했습니다.</description>
     </item>
   </channel>
 </rss>
