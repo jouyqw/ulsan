@@ -30,6 +30,16 @@
 
 ## 분야별 칼럼
 
+### 음주운전
+
+- [울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예](https://ulsanlawyer.kr/columns/dui-repeat-third-probation) (2026-08-20): 10년 내 재범으로 가중 규정이 적용되고 혈중알코올농도도 높았던 사건에서, 징역 2년 집행유예 3년을 받아 구속을 피한 사례입니다.
+- [울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준](https://ulsanlawyer.kr/columns/ulsan-dui-hit-and-run-criteria) (2026-08-15): 몰랐다고 해서 끝나지 않습니다. 도주로 평가되는 기준과 구호조치의 범위를 정리했습니다.
+- [울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/dui-accident-injury-probation) (2026-08-14): 혈중알코올농도 0.059%, 피해자 16주 진단, 구속 상태에서 시작한 사건에서 징역 8월 집행유예 2년을 받아 일상으로 돌아간 사례입니다.
+- [울산음주운전변호사 면허취소 구제, 이의신청과 행정심판](https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal) (2026-08-11): 형사 사건이 끝나기를 기다리면 구제 기한을 놓칩니다. 면허 절차는 따로 움직입니다.
+- [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
+- [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
+- [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
+
 ### 마약
 
 - [울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령](https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation) (2026-08-19): 텔레그램으로 엑스터시를 8회 매수·투약해 구속된 초범 사건에서, 치료 구조를 만들어 징역 1년 6월 집행유예 3년을 받은 사례입니다.
@@ -86,15 +96,6 @@
 - [군대 외출증 위조·가혹행위, 다수 피해자 사건에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/military-forgery-harassment-probation) (2026-06-24): 군 복무 중 외출증 위조와 다수 피해자에 대한 가혹행위가 문제 된 사건에서, 피해 회복 노력과 객관적 반성자료를 정리해 집행유예를 이끌어낸 사례입니다.
 - [특수공무집행방해 실형 위기, 벌금형으로 방어한 사례](https://ulsanlawyer.kr/columns/special-obstruction-police-fine) (2026-06-24): 경찰관과의 실랑이 중 물건이 얼굴에 맞아 특수공무집행방해 혐의를 받은 사건에서, 피해 회복과 진정성 있는 양형자료를 통해 벌금형으로 방어한 사례입니다.
 - [경찰 출석 요구를 받았다면 먼저 확인할 것](https://ulsanlawyer.kr/columns/police-investigation) (2026-06-23): 첫 조사 전 준비해야 할 자료, 진술 과정에서 주의할 점, 변호사 상담이 필요한 시점을 정리했습니다.
-
-### 음주운전
-
-- [울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준](https://ulsanlawyer.kr/columns/ulsan-dui-hit-and-run-criteria) (2026-08-15): 몰랐다고 해서 끝나지 않습니다. 도주로 평가되는 기준과 구호조치의 범위를 정리했습니다.
-- [울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/dui-accident-injury-probation) (2026-08-14): 혈중알코올농도 0.059%, 피해자 16주 진단, 구속 상태에서 시작한 사건에서 징역 8월 집행유예 2년을 받아 일상으로 돌아간 사례입니다.
-- [울산음주운전변호사 면허취소 구제, 이의신청과 행정심판](https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal) (2026-08-11): 형사 사건이 끝나기를 기다리면 구제 기한을 놓칩니다. 면허 절차는 따로 움직입니다.
-- [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
-- [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
-- [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
 
 ### 상간소송
 

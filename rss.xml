@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 18 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예</title>
+      <link>https://ulsanlawyer.kr/columns/dui-repeat-third-probation</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-repeat-third-probation</guid>
+      <pubDate>Wed, 19 Aug 2026 15:00:00 GMT</pubDate>
+      <category>음주운전 칼럼</category>
+      <description>이전 음주운전으로 벌금형을 받고 10년이 지나지 않아 다시 적발된 사건입니다. 재범 가중 규정이 적용되는 최악의 조건에서 징역 2년 집행유예 3년을 받은 성공사례입니다.</description>
+    </item>
     <item>
       <title>울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령</title>
       <link>https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
       <category>이혼소송 칼럼</category>
       <description>양육비는 부부 합산 소득과 자녀 나이로 정해집니다. 산정기준표를 실제 사건에 적용하는 법, 가산·감산 요소, 미지급 시 이행확보 절차를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level</guid>
-      <pubDate>Thu, 06 Aug 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>0.03%부터 0.2% 이상까지 수치별 형사처벌과 면허 행정처분이 어떻게 달라지는지, 측정거부와 재범 가중까지 Q&amp;A로 정리했습니다.</description>
     </item>
   </channel>
 </rss>
