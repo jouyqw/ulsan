@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산이혼변호사 상대가 먼저 낸 이혼소송, 반소로 뒤집은 사례</title>
+      <link>https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>남편이 먼저 이혼소송을 제기했지만 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사건입니다. 통화 내역만으로 부정행위를 입증한 성공사례입니다.</description>
+    </item>
     <item>
       <title>울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예</title>
       <link>https://ulsanlawyer.kr/columns/dui-repeat-third-probation</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
       <category>상간자소송 칼럼</category>
       <description>상간자 위자료가 통상 어느 범위에서 정해지는지, 금액을 올리고 내리는 요소는 무엇인지, 배우자와 상간자의 책임 관계까지 Q&amp;A로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation</guid>
-      <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
-      <category>이혼소송 칼럼</category>
-      <description>양육비는 부부 합산 소득과 자녀 나이로 정해집니다. 산정기준표를 실제 사건에 적용하는 법, 가산·감산 요소, 미지급 시 이행확보 절차를 정리했습니다.</description>
     </item>
   </channel>
 </rss>

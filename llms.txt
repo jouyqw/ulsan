@@ -30,6 +30,18 @@
 
 ## 분야별 칼럼
 
+### 이혼
+
+- [울산이혼변호사 상대가 먼저 낸 이혼소송, 반소로 뒤집은 사례](https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony) (2026-08-21): 먼저 이혼소송을 당한 상황에서 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사례입니다.
+- [울산이혼변호사 가정폭력 이혼, 접근금지부터 신변 보호까지](https://ulsanlawyer.kr/columns/ulsan-divorce-domestic-violence-protection) (2026-08-13): 안전이 먼저입니다. 이혼 절차보다 앞서 사용할 수 있는 보호 수단을 정리했습니다.
+- [울산이혼변호사 이혼 전 재산 빼돌리기, 어떻게 막을까](https://ulsanlawyer.kr/columns/ulsan-divorce-asset-concealment-preservation) (2026-08-12): 이혼 소송 중에 재산이 사라지면 판결은 의미가 없습니다. 막는 방법과 순서를 정리했습니다.
+- [울산이혼변호사 퇴직금·연금도 재산분할 대상일까](https://ulsanlawyer.kr/columns/ulsan-divorce-retirement-pension-division) (2026-08-11): 부동산과 예금만 나누는 것이 아닙니다. 실무에서 가장 많이 빠뜨리는 퇴직금과 연금을 정리했습니다.
+- [울산이혼변호사 협의이혼과 재판이혼, 무엇을 택해야 할까](https://ulsanlawyer.kr/columns/ulsan-divorce-agreement-vs-lawsuit) (2026-08-10): 빨리 끝내려다 더 오래 걸리는 경우가 많습니다. 두 절차의 차이와 선택 기준을 정리했습니다.
+- [울산이혼변호사 이혼 위자료, 유책배우자 입증 자료 정리](https://ulsanlawyer.kr/columns/ulsan-divorce-alimony-fault-evidence) (2026-08-09): 위자료는 재산분할과 전혀 다른 제도입니다. 파탄의 책임을 어떤 자료로 보여줘야 하는지 정리했습니다.
+- [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
+- [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
+- [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
+
 ### 음주운전
 
 - [울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예](https://ulsanlawyer.kr/columns/dui-repeat-third-probation) (2026-08-20): 10년 내 재범으로 가중 규정이 적용되고 혈중알코올농도도 높았던 사건에서, 징역 2년 집행유예 3년을 받아 구속을 피한 사례입니다.
@@ -105,17 +117,6 @@
 - [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
 - [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
 - [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
-
-### 이혼
-
-- [울산이혼변호사 가정폭력 이혼, 접근금지부터 신변 보호까지](https://ulsanlawyer.kr/columns/ulsan-divorce-domestic-violence-protection) (2026-08-13): 안전이 먼저입니다. 이혼 절차보다 앞서 사용할 수 있는 보호 수단을 정리했습니다.
-- [울산이혼변호사 이혼 전 재산 빼돌리기, 어떻게 막을까](https://ulsanlawyer.kr/columns/ulsan-divorce-asset-concealment-preservation) (2026-08-12): 이혼 소송 중에 재산이 사라지면 판결은 의미가 없습니다. 막는 방법과 순서를 정리했습니다.
-- [울산이혼변호사 퇴직금·연금도 재산분할 대상일까](https://ulsanlawyer.kr/columns/ulsan-divorce-retirement-pension-division) (2026-08-11): 부동산과 예금만 나누는 것이 아닙니다. 실무에서 가장 많이 빠뜨리는 퇴직금과 연금을 정리했습니다.
-- [울산이혼변호사 협의이혼과 재판이혼, 무엇을 택해야 할까](https://ulsanlawyer.kr/columns/ulsan-divorce-agreement-vs-lawsuit) (2026-08-10): 빨리 끝내려다 더 오래 걸리는 경우가 많습니다. 두 절차의 차이와 선택 기준을 정리했습니다.
-- [울산이혼변호사 이혼 위자료, 유책배우자 입증 자료 정리](https://ulsanlawyer.kr/columns/ulsan-divorce-alimony-fault-evidence) (2026-08-09): 위자료는 재산분할과 전혀 다른 제도입니다. 파탄의 책임을 어떤 자료로 보여줘야 하는지 정리했습니다.
-- [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
-- [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
-- [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
 
 ### 사기
 
