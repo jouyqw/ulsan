@@ -30,6 +30,19 @@
 
 ## 분야별 칼럼
 
+### 민사·임대차
+
+- [울산민사변호사 판결 받고도 못 받은 돈, 재산명시에서 채권압류까지](https://ulsanlawyer.kr/columns/debt-collection-attachment) (2026-08-22): 승소 판결을 받고도 돈을 받지 못하던 사건에서, 재산명시와 채권압류·추심명령으로 회수 경로를 확보한 사례입니다.
+- [울산민사변호사 빚을 다 갚았는데 경매가 들어왔다면, 청구이의로 막은 사례](https://ulsanlawyer.kr/columns/claim-objection-deposit) (2026-08-17): 판결금을 다 갚으려 했는데 상대가 수령을 거부하고 경매를 신청한 사건에서, 변제공탁과 청구이의로 강제집행을 막은 사례입니다.
+- [울산민사변호사 승소했는데 돈이 안 들어올 때, 집행 순서](https://ulsanlawyer.kr/columns/ulsan-civil-judgment-enforcement-order) (2026-08-14): 판결문은 회수의 시작입니다. 실제로 돈을 받는 절차를 순서대로 정리했습니다.
+- [울산민사변호사 공사대금과 하자보수, 대금 청구 전 확인할 것](https://ulsanlawyer.kr/columns/ulsan-civil-construction-payment-defect) (2026-08-12): 공사대금 분쟁은 대부분 하자 주장과 함께 옵니다. 무엇을 먼저 정리해야 하는지 짚었습니다.
+- [울산민사변호사 임차권등기명령, 이사 가기 전에 해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-civil-lease-registration-order) (2026-08-10): 보증금을 받기 전에 짐부터 빼면 순위를 잃습니다. 임차권등기명령이 왜 먼저인지 정리했습니다.
+- [울산민사변호사 가압류가 먼저일까 소송이 먼저일까](https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing) (2026-08-08): 소송에서 이기고도 돈을 못 받는 이유는 대부분 순서 때문입니다. 가압류를 언제 해야 하는지 정리했습니다.
+- [울산민사변호사 차용증 없이 빌려준 돈, 받을 수 있을까](https://ulsanlawyer.kr/columns/ulsan-civil-loan-recovery-lawsuit) (2026-08-06): 차용증이 없다는 이유로 포기할 필요는 없습니다. 계좌이체 내역과 대화만으로 대여금을 인정받는 방법과 절차 선택 기준을 정리했습니다.
+- [울산변호사 임대차보증금 가압류, 떼일 뻔한 돈을 묶어낸 성공사례](https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success) (2026-06-24): 상대방 명의 부동산이 없어 막막했던 채권 회수 사건에서, 임대차보증금 반환채권을 신속히 가압류해 돈을 받을 기반을 마련한 사례입니다.
+- [1심 패소에서 항소심 역전까지, 청구금액 80%를 인정받은 민사소송 사례](https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent) (2026-06-24): 민사소송 1심에서 패소한 사건을 항소심에서 사실관계와 법리를 다시 구성해 청구금액 약 80% 인정이라는 결과로 뒤집은 사례입니다.
+- [보증금을 돌려받지 못할 때 가능한 절차](https://ulsanlawyer.kr/columns/lease-deposit) (2026-06-23): 내용증명, 지급명령, 보증금 반환소송을 상황별로 나누어 설명합니다.
+
 ### 이혼
 
 - [울산이혼변호사 상대가 먼저 낸 이혼소송, 반소로 뒤집은 사례](https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony) (2026-08-21): 먼저 이혼소송을 당한 상황에서 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사례입니다.
@@ -74,18 +87,6 @@
 - [울산성범죄전문변호사 랜덤채팅 조건 제안, 아청법 위반으로 경찰 연락을 받았다면](https://ulsanlawyer.kr/columns/minor-prostitution-solicitation-chat-risk) (2026-06-24): 랜덤채팅이나 SNS에서 미성년자에게 조건을 제안했다는 이유로 아청법 위반 조사를 받게 된 경우, 실제 만남이 없었더라도 문제될 수 있는 쟁점과 초기 대응 방법을 정리했습니다.
 - [준강간 고소, 카카오톡 대화가 삭제된 상황에서도 불송치를 받은 사례](https://ulsanlawyer.kr/columns/quasi-rape-non-prosecution) (2026-06-24): 고소인이 항거불능을 주장하고 카카오톡 대화까지 삭제된 준강간 사건에서, CCTV와 동선 분석으로 불송치 결정을 이끌어낸 사례입니다.
 - [강제추행 항소심에서 검찰 실형 구형이 나왔을 때 대응 전략](https://ulsanlawyer.kr/columns/indecent-act-appeal-strategy) (2026-06-23): 1심에서 벌금형이 나왔더라도 검찰이 항소하면 항소심 결과는 달라질 수 있습니다. 강제추행 항소심에서 실제로 중요한 쟁점과 대응 방향을 정리했습니다.
-
-### 민사·임대차
-
-- [울산민사변호사 빚을 다 갚았는데 경매가 들어왔다면, 청구이의로 막은 사례](https://ulsanlawyer.kr/columns/claim-objection-deposit) (2026-08-17): 판결금을 다 갚으려 했는데 상대가 수령을 거부하고 경매를 신청한 사건에서, 변제공탁과 청구이의로 강제집행을 막은 사례입니다.
-- [울산민사변호사 승소했는데 돈이 안 들어올 때, 집행 순서](https://ulsanlawyer.kr/columns/ulsan-civil-judgment-enforcement-order) (2026-08-14): 판결문은 회수의 시작입니다. 실제로 돈을 받는 절차를 순서대로 정리했습니다.
-- [울산민사변호사 공사대금과 하자보수, 대금 청구 전 확인할 것](https://ulsanlawyer.kr/columns/ulsan-civil-construction-payment-defect) (2026-08-12): 공사대금 분쟁은 대부분 하자 주장과 함께 옵니다. 무엇을 먼저 정리해야 하는지 짚었습니다.
-- [울산민사변호사 임차권등기명령, 이사 가기 전에 해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-civil-lease-registration-order) (2026-08-10): 보증금을 받기 전에 짐부터 빼면 순위를 잃습니다. 임차권등기명령이 왜 먼저인지 정리했습니다.
-- [울산민사변호사 가압류가 먼저일까 소송이 먼저일까](https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing) (2026-08-08): 소송에서 이기고도 돈을 못 받는 이유는 대부분 순서 때문입니다. 가압류를 언제 해야 하는지 정리했습니다.
-- [울산민사변호사 차용증 없이 빌려준 돈, 받을 수 있을까](https://ulsanlawyer.kr/columns/ulsan-civil-loan-recovery-lawsuit) (2026-08-06): 차용증이 없다는 이유로 포기할 필요는 없습니다. 계좌이체 내역과 대화만으로 대여금을 인정받는 방법과 절차 선택 기준을 정리했습니다.
-- [울산변호사 임대차보증금 가압류, 떼일 뻔한 돈을 묶어낸 성공사례](https://ulsanlawyer.kr/columns/lease-deposit-provisional-seizure-success) (2026-06-24): 상대방 명의 부동산이 없어 막막했던 채권 회수 사건에서, 임대차보증금 반환채권을 신속히 가압류해 돈을 받을 기반을 마련한 사례입니다.
-- [1심 패소에서 항소심 역전까지, 청구금액 80%를 인정받은 민사소송 사례](https://ulsanlawyer.kr/columns/civil-appeal-reversal-80-percent) (2026-06-24): 민사소송 1심에서 패소한 사건을 항소심에서 사실관계와 법리를 다시 구성해 청구금액 약 80% 인정이라는 결과로 뒤집은 사례입니다.
-- [보증금을 돌려받지 못할 때 가능한 절차](https://ulsanlawyer.kr/columns/lease-deposit) (2026-06-23): 내용증명, 지급명령, 보증금 반환소송을 상황별로 나누어 설명합니다.
 
 ### 형사
 

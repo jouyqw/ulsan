@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산민사변호사 판결 받고도 못 받은 돈, 재산명시에서 채권압류까지</title>
+      <link>https://ulsanlawyer.kr/columns/debt-collection-attachment</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/debt-collection-attachment</guid>
+      <pubDate>Fri, 21 Aug 2026 15:00:00 GMT</pubDate>
+      <category>민사소송 칼럼</category>
+      <description>부당이득금 승소 판결을 받고도 채무자가 갚지 않던 사건입니다. 재산명시로 재산을 드러내고 재개발 현금청산금 채권을 압류·추심해 회수 경로를 확보한 성공사례입니다.</description>
+    </item>
     <item>
       <title>울산이혼변호사 상대가 먼저 낸 이혼소송, 반소로 뒤집은 사례</title>
       <link>https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
       <category>민사소송 칼럼</category>
       <description>승소해도 상대방 재산이 없으면 회수가 어렵습니다. 가압류를 먼저 해야 하는 상황과 절차, 담보 제공과 부당 가압류 위험까지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount</guid>
-      <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
-      <category>상간자소송 칼럼</category>
-      <description>상간자 위자료가 통상 어느 범위에서 정해지는지, 금액을 올리고 내리는 요소는 무엇인지, 배우자와 상간자의 책임 관계까지 Q&amp;A로 정리했습니다.</description>
     </item>
   </channel>
 </rss>
