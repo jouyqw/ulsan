@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산음주운전변호사 음주운전 약식명령, 정식재판을 청구해야 할까</title>
+      <link>https://ulsanlawyer.kr/columns/dui-summary-order-fine</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-summary-order-fine</guid>
+      <pubDate>Sat, 22 Aug 2026 15:00:00 GMT</pubDate>
+      <category>음주운전 칼럼</category>
+      <description>혈중알코올농도 0.132%로 약 20km를 운전해 벌금 800만 원 약식명령을 받은 사건입니다. 약식명령을 받았을 때 정식재판 청구 여부를 판단하는 기준을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산민사변호사 판결 받고도 못 받은 돈, 재산명시에서 채권압류까지</title>
       <link>https://ulsanlawyer.kr/columns/debt-collection-attachment</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
       <category>이혼소송 칼럼</category>
       <description>이혼 위자료는 혼인 파탄의 책임이 누구에게 있는지로 결정됩니다. 유책사유별 입증 자료와 액수를 좌우하는 요소, 청구 기한까지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산민사변호사 가압류가 먼저일까 소송이 먼저일까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-civil-provisional-attachment-timing</guid>
-      <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
-      <category>민사소송 칼럼</category>
-      <description>승소해도 상대방 재산이 없으면 회수가 어렵습니다. 가압류를 먼저 해야 하는 상황과 절차, 담보 제공과 부당 가압류 위험까지 정리했습니다.</description>
     </item>
   </channel>
 </rss>

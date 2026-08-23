@@ -30,6 +30,17 @@
 
 ## 분야별 칼럼
 
+### 음주운전
+
+- [울산음주운전변호사 음주운전 약식명령, 정식재판을 청구해야 할까](https://ulsanlawyer.kr/columns/dui-summary-order-fine) (2026-08-23): 혈중알코올농도 0.132%로 약 20km를 운전하고도 벌금형 약식명령으로 마무리된 사건과, 정식재판 청구 판단 기준을 정리했습니다.
+- [울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예](https://ulsanlawyer.kr/columns/dui-repeat-third-probation) (2026-08-20): 10년 내 재범으로 가중 규정이 적용되고 혈중알코올농도도 높았던 사건에서, 징역 2년 집행유예 3년을 받아 구속을 피한 사례입니다.
+- [울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준](https://ulsanlawyer.kr/columns/ulsan-dui-hit-and-run-criteria) (2026-08-15): 몰랐다고 해서 끝나지 않습니다. 도주로 평가되는 기준과 구호조치의 범위를 정리했습니다.
+- [울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/dui-accident-injury-probation) (2026-08-14): 혈중알코올농도 0.059%, 피해자 16주 진단, 구속 상태에서 시작한 사건에서 징역 8월 집행유예 2년을 받아 일상으로 돌아간 사례입니다.
+- [울산음주운전변호사 면허취소 구제, 이의신청과 행정심판](https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal) (2026-08-11): 형사 사건이 끝나기를 기다리면 구제 기한을 놓칩니다. 면허 절차는 따로 움직입니다.
+- [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
+- [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
+- [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
+
 ### 민사·임대차
 
 - [울산민사변호사 판결 받고도 못 받은 돈, 재산명시에서 채권압류까지](https://ulsanlawyer.kr/columns/debt-collection-attachment) (2026-08-22): 승소 판결을 받고도 돈을 받지 못하던 사건에서, 재산명시와 채권압류·추심명령으로 회수 경로를 확보한 사례입니다.
@@ -54,16 +65,6 @@
 - [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
 - [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
 - [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
-
-### 음주운전
-
-- [울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예](https://ulsanlawyer.kr/columns/dui-repeat-third-probation) (2026-08-20): 10년 내 재범으로 가중 규정이 적용되고 혈중알코올농도도 높았던 사건에서, 징역 2년 집행유예 3년을 받아 구속을 피한 사례입니다.
-- [울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준](https://ulsanlawyer.kr/columns/ulsan-dui-hit-and-run-criteria) (2026-08-15): 몰랐다고 해서 끝나지 않습니다. 도주로 평가되는 기준과 구호조치의 범위를 정리했습니다.
-- [울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/dui-accident-injury-probation) (2026-08-14): 혈중알코올농도 0.059%, 피해자 16주 진단, 구속 상태에서 시작한 사건에서 징역 8월 집행유예 2년을 받아 일상으로 돌아간 사례입니다.
-- [울산음주운전변호사 면허취소 구제, 이의신청과 행정심판](https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal) (2026-08-11): 형사 사건이 끝나기를 기다리면 구제 기한을 놓칩니다. 면허 절차는 따로 움직입니다.
-- [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
-- [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
-- [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
 
 ### 마약
 
