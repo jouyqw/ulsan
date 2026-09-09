@@ -93,14 +93,27 @@ for (const file of pages) {
 
   for (const match of html.matchAll(/<a\b[^>]*\shref=(['"])(.*?)\1/gi)) {
     const href = match[2];
-    if (!href || /^(?:#|https?:|mailto:|tel:|javascript:|\/\/)/i.test(href)) continue;
-    const clean = href.split(/[?#]/)[0];
+    if (!href || /^(?:#|mailto:|tel:|javascript:|\/\/)/i.test(href)) continue;
+
+    let internalHref = href;
+    if (/^https?:/i.test(href)) {
+      let target;
+      try {
+        target = new URL(href);
+      } catch {
+        errors.push(`${fileRel}: 잘못된 링크 (${href})`);
+        continue;
+      }
+      if (target.origin !== SITE_URL) continue;
+      internalHref = `${target.pathname}${target.search}${target.hash}`;
+    } else if (!href.startsWith('/')) {
+      errors.push(`${fileRel}: 경로가 반복될 수 있는 상대 링크 (${href})`);
+      continue;
+    }
+
+    const clean = internalHref.split(/[?#]/)[0];
     if (!clean) continue;
-    let target = clean.startsWith('/')
-      ? sitePathToFile(clean)
-      : (clean.endsWith('/')
-          ? path.join(path.resolve(path.dirname(file), clean), 'index.html')
-          : path.resolve(path.dirname(file), clean));
+    let target = sitePathToFile(clean);
     if (!fs.existsSync(target) && fs.existsSync(`${target}.html`)) target = `${target}.html`;
     if (!fs.existsSync(target) && fs.existsSync(path.join(target, 'index.html'))) target = path.join(target, 'index.html');
     if (!fs.existsSync(target)) errors.push(`${fileRel}: 깨진 내부 링크 (${href})`);

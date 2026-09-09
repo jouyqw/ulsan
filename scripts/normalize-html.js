@@ -184,14 +184,26 @@ function normalizeNavigation(html) {
 }
 
 function normalizeInternalLinks(html) {
-  return html.replace(/href=(['"])(.*?)\1/gi, (full, quote, href) => {
-    if (/^(?:mailto:|tel:|javascript:|#|\/\/)/i.test(href)) return full;
-    if (/^https?:/i.test(href) && !href.startsWith(SITE_URL)) return full;
-    const [beforeHash, hash = ''] = href.split('#', 2);
-    const [pathname, query = ''] = beforeHash.split('?', 2);
-    if (!pathname.endsWith('.html')) return full;
-    const normalized = `${pathname.slice(0, -5)}${query ? `?${query}` : ''}${hash ? `#${hash}` : ''}`;
-    return `href=${quote}${normalized}${quote}`;
+  const canonical = (html.match(/<link\s+rel=["']canonical["']\s+href=["']([^"']+)["']/i) || [])[1]?.trim();
+  if (!canonical) return html;
+
+  const siteOrigin = new URL(SITE_URL).origin;
+  return html.replace(/<a\b[^>]*\shref=(['"])(.*?)\1[^>]*>/gi, (tag, quote, href) => {
+    if (!href || /^(?:mailto:|tel:|javascript:|#|\/\/)/i.test(href)) return tag;
+
+    let target;
+    try {
+      target = new URL(href, canonical);
+    } catch {
+      return tag;
+    }
+    if (target.origin !== siteOrigin) return tag;
+
+    const pathname = target.pathname.endsWith('.html')
+      ? target.pathname.slice(0, -5)
+      : target.pathname;
+    const normalized = `${pathname}${target.search}${target.hash}`;
+    return tag.replace(/href=(['"])(.*?)\1/i, `href=${quote}${normalized}${quote}`);
   });
 }
 
