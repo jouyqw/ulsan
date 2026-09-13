@@ -35,8 +35,9 @@ const LOG = path.join(ROOT, 'refill.log');
 const LOCK = path.join(ROOT, '.refill.lock');
 const DESK = path.join(process.env.USERPROFILE || '', 'Desktop', '울산_칼럼보충_실패.txt');
 
-const THRESHOLD = 6;          // 예약 잔량이 이 미만이면 채운다
-const TARGET = 14;            // 채울 때는 여기까지
+const PER_DAY = 2;            // 하루에 몇 편 발행하나. 같은 date 를 이 수만큼 배정한다
+const THRESHOLD = 10;         // 예약 잔량이 이 미만이면 채운다(= 5일치)
+const TARGET = 20;            // 채울 때는 여기까지(= 10일치)
 const MAX_ADD = 6;            // 한 번에 쓰는 최대 편수(세션 한도·대량생성 신호 회피)
 const RETRY = 2;              // 규격 불통과 시 재작성 횟수
 const BATCH_TIMEOUT = 30 * 60 * 1000;
@@ -324,9 +325,24 @@ if (fs.existsSync(LOCK)) {
 fs.writeFileSync(LOCK, stamp());
 
 const targets = free.slice(0, Math.min(need, free.length));
-// 발행은 하루 1편이므로 마지막 예약일 다음날부터 하루씩 붙인다.
-const base = lastAt > TODAY ? lastAt : TODAY;
-const plan = targets.map((t, i) => ({ topic: t, date: addDays(base, i + 1) }));
+
+// 하루 PER_DAY 편씩 배정한다. 워크플로는 date 가 도래한 글을 전부 내보내므로
+// 같은 date 를 가진 글이 그날 함께 발행된다.
+// 마지막 예약일부터 이어 붙이면 안 된다 — 그 날이 아직 PER_DAY 를 못 채웠을 수 있다.
+// 그래서 날짜별 예약 편수를 세어, 덜 찬 날부터 메우고 다음 날로 넘어간다.
+const perDate = new Map();
+all.forEach((c) => {
+  const d = String(c.date || '').slice(0, 10);
+  if (d > TODAY) perDate.set(d, (perDate.get(d) || 0) + 1);
+});
+
+const plan = [];
+let day = addDays(TODAY, 1);
+for (const topic of targets) {
+  while ((perDate.get(day) || 0) >= PER_DAY) day = addDays(day, 1);
+  perDate.set(day, (perDate.get(day) || 0) + 1);
+  plan.push({ topic, date: day });
+}
 log(`${plan.length}건 보충 시작 → ${plan[0].date} ~ ${plan[plan.length - 1].date}`);
 
 const seenTitles = new Set(all.map((c) => c.title));

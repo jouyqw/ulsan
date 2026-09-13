@@ -760,7 +760,10 @@ function listingPage(type, items, cases) {
                         <span class="column-category">${escapeHtml(group.label)}</span>
                         <h3>${escapeHtml(item.title)}</h3>
                         <p>${escapeHtml(item.summary || item.description || '')}</p>
-                        <span class="column-more">칼럼 읽기</span>
+                        <span class="column-card-meta">
+                            <time class="column-date" datetime="${escapeHtml(String(item.date || TODAY).slice(0, 10))}">${formatDate(item.date)}</time>
+                            <span class="column-more">칼럼 읽기</span>
+                        </span>
                     </a>
                 </article>`;
   }).join('\n');
@@ -876,7 +879,10 @@ function categoryPage(key, meta, items) {
                         <span class="column-category">${escapeHtml(categoryGroup(item.category).label)}</span>
                         <h3>${escapeHtml(item.title)}</h3>
                         <p>${escapeHtml(item.summary || item.description || '')}</p>
-                        <span class="column-more">칼럼 읽기</span>
+                        <span class="column-card-meta">
+                            <time class="column-date" datetime="${escapeHtml(String(item.date || TODAY).slice(0, 10))}">${formatDate(item.date)}</time>
+                            <span class="column-more">칼럼 읽기</span>
+                        </span>
                     </a>
                 </article>`).join('\n                ');
 

@@ -3,7 +3,9 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const SITE_URL = 'https://ulsanlawyer.kr';
-const ASSET_VERSION = '20260724-3';
+// CSS 를 고치면 반드시 올린다. 안 올리면 브라우저가 옛 파일을 계속 쓴다.
+// 20260913-1: 칼럼 카드에 발행일(.column-card-meta/.column-date) 추가
+const ASSET_VERSION = '20260913-1';
 const DEFAULT_IMAGE = `${SITE_URL}/assets/images/og.png`;
 const PRACTICE_PATHS = new Set([
   '/criminal/',
