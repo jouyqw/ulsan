@@ -1,0 +1,76 @@
+# 칼럼 주제 백로그 — 하루 1건 발행용
+#
+# 형식: 목표키워드 | 카테고리 | 슬러그 | 제목
+#   - 카테고리 문자열이 칼럼 분야 페이지(columns/<key>/)를 결정한다.
+#     형사사건 칼럼 / 성범죄 칼럼 / 교통사고 칼럼 / 음주운전 칼럼 / 마약사건 칼럼 /
+#     이혼소송 칼럼 / 상간자소송 칼럼 / 민사소송 칼럼 / 상담·안내 칼럼
+#   - 슬러그가 content/columns/<슬러그>.md 로 존재하면 "작성 완료"로 집계된다.
+#   - 6칸 로테이션: 형사 → 성범죄 → 교통사고 → 음주운전 → 울산변호사(일반) → 보조분야
+#     목표 키워드 5종이 6일마다 한 번씩 새 글을 갖도록 유지한다.
+#
+# 현황 확인:  npm run plan
+# 날짜 배정:  npm run plan -- --assign
+
+# ── 2026-08-24 ~ 2026-09-22 (작성 완료분) ────────────────────────────────
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-interrogation-record-check | 피의자신문조서, 서명 전에 반드시 확인할 것
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-indecent-act-standard | 강제추행의 추행, 신체 접촉만이 기준은 아닙니다
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-12-gross-negligence | 12대 중과실, 보험이 있어도 형사처벌을 받는 경우
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-widmark-calculation | 위드마크 역산, 수치를 다툴 수 있는 지점
+울산변호사 | 형사사건 칼럼 | ulsan-lawyer-criminal-record-expungement | 형사 전과, 어디까지 남고 언제 지워질까
+울산이혼변호사 | 이혼소송 칼럼 | ulsan-divorce-child-support-enforcement | 양육비를 안 줄 때, 이행명령에서 감치까지
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-prosecution-transfer-process | 검찰 송치 후에 결정되는 것들
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-telecom-obscenity | 통신매체이용음란죄, 메시지 한 줄로 입건되는 이유
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-criminal-settlement | 교통사고 형사합의, 보험사 합의와 무엇이 다른가
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-kickboard-bicycle | 킥보드와 자전거 음주운전, 처벌이 다른 이유
+울산변호사 | 상담·안내 칼럼 | ulsan-lawyer-fee-standard | 변호사 선임 비용, 무엇을 기준으로 정해질까
+울산민사변호사 | 민사소송 칼럼 | ulsan-civil-certified-mail | 내용증명, 보내야 할 때와 보내면 안 될 때
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-suspension-indictment-vs-sentence | 기소유예와 선고유예, 전과가 남는 기준
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-victim-statement-credibility | 피해자 진술의 신빙성, 법원은 무엇을 보나
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-serious-injury-criteria | 중상해 판단, 진단서만으로 정해지지 않습니다
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-aiding-key-handover | 음주운전 방조, 차 키를 건넨 사람의 책임
+울산변호사 | 상담·안내 칼럼 | ulsan-lawyer-public-vs-private-defender | 국선변호인과 사선변호인, 무엇이 다를까
+울산마약변호사 | 마약사건 칼럼 | ulsan-drug-cannabis-first-offense | 대마 초범, 기소유예와 교육이수조건부
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-apology-letter-sentencing | 반성문과 탄원서, 양형에 반영되는 조건
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-drinking-memory-defense | 술자리 신체 접촉, 기억이 없다면 어떻게 다투나
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-hit-and-run-property | 사고 후 미조치, 물피도주도 처벌될까
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-morning-after | 숙취운전, 다음 날 아침에 걸리는 이유
+울산변호사 | 형사사건 칼럼 | ulsan-lawyer-settlement-document | 합의서 한 장의 무게, 처벌불원과 손해배상은 다릅니다
+울산상간소송변호사 | 상간자소송 칼럼 | ulsan-affair-marriage-already-broken | 이미 파탄된 부부, 상간 위자료 책임이 없는 경우
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-search-seizure-forensics | 압수수색과 휴대폰 포렌식, 어디까지 열리나
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-arrest-warrant-defense | 성범죄 구속영장, 도주·증거인멸 우려를 깨는 방법
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-fault-ratio-evidence | 과실 비율 다툼, 블랙박스와 사고기록으로 뒤집기
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-during-probation | 집행유예 기간 중 음주운전, 실형을 피할 방법
+울산변호사 | 형사사건 칼럼 | ulsan-lawyer-complaint-both-sides | 고소를 당했을 때와 고소를 할 때, 준비가 다릅니다
+울산이혼변호사 | 이혼소송 칼럼 | ulsan-divorce-separation-asset-date | 별거와 졸혼, 재산분할 기준시점은 언제일까
+
+# ── 다음 회차 백로그 (미작성) ────────────────────────────────────────────
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-obstruction-drunk-station | 지구대에서 벌어진 소란, 공무집행방해가 되는 선
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-public-place-indecent | 공중밀집장소 추행, 지하철·버스 사건의 쟁점
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-pedestrian-crosswalk | 횡단보도 사고, 보행자 과실이 인정되는 경우
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-vehicle-forfeiture | 음주운전 차량 몰수, 어떤 사건에서 나오나
+울산변호사 | 상담·안내 칼럼 | ulsan-lawyer-first-consultation-checklist | 첫 상담에 무엇을 들고 가야 할까
+울산민사변호사 | 민사소송 칼럼 | ulsan-civil-small-claims-procedure | 소액사건, 변호사 없이 해도 되는 범위
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-threat-message | 문자 한 통이 협박죄가 되는 기준
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-deepfake-synthetic | 딥페이크 합성물, 소지만 해도 처벌될까
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-child-protection-zone | 어린이보호구역 사고, 민식이법 적용 범위
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-ignition-interlock | 음주운전 방지장치 부착, 대상과 기간
+울산변호사 | 형사사건 칼럼 | ulsan-lawyer-witness-summons | 참고인 조사, 피의자와 무엇이 다른가
+울산마약변호사 | 마약사건 칼럼 | ulsan-drug-telegram-purchase-trace | 텔레그램 구매 기록, 어떻게 특정되나
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-defamation-online | 온라인 게시글 명예훼손, 사실을 써도 처벌되는 이유
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-minor-age-recognition | 미성년자인 줄 몰랐다는 주장, 어디까지 받아들여지나
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-death-accident-sentencing | 사망 사고 양형, 실형과 집행유예를 가르는 것
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-refusal-vs-blowing | 측정거부와 채혈측정, 무엇을 선택해야 하나
+울산변호사 | 상담·안내 칼럼 | ulsan-lawyer-appeal-cost-benefit | 항소, 해야 할 사건과 하지 말아야 할 사건
+울산이혼변호사 | 이혼소송 칼럼 | ulsan-divorce-international-marriage | 국제결혼 이혼, 관할과 절차부터 다릅니다
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-embezzlement-company-fund | 회삿돈 사용, 횡령과 업무상횡령의 경계
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-workplace-power | 직장 내 성희롱에서 형사사건으로 넘어가는 지점
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-insurance-fraud-suspicion | 보험사기 의심을 받았을 때의 대응
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-license-reissue-period | 결격기간과 면허 재취득, 시간표 정리
+울산변호사 | 형사사건 칼럼 | ulsan-lawyer-probation-violation | 집행유예 취소, 어떤 경우에 실형으로 바뀌나
+울산상간소송변호사 | 상간자소송 칼럼 | ulsan-affair-counterclaim-defense | 상간 소송에 맞선 반소, 실익이 있을까
+울산형사변호사 | 형사사건 칼럼 | ulsan-criminal-juvenile-case-process | 소년사건, 보호처분과 형사처벌의 갈림길
+울산성범죄변호사 | 성범죄 칼럼 | ulsan-sex-crime-non-prosecution-appeal | 불송치·불기소 후 항고, 다시 열리는 조건
+울산교통사고변호사 | 교통사고 칼럼 | ulsan-traffic-motorcycle-delivery | 배달 이륜차 사고, 산재와 형사책임이 겹칠 때
+울산음주운전변호사 | 음주운전 칼럼 | ulsan-dui-parking-lot-driving | 주차장 안에서의 음주운전, 도로가 아니어도 처벌될까
+울산변호사 | 상담·안내 칼럼 | ulsan-lawyer-criminal-record-employment | 전과와 취업, 조회되는 범위와 제한 직군
+울산민사변호사 | 민사소송 칼럼 | ulsan-civil-guarantee-liability | 보증을 섰다가 청구를 받았다면
