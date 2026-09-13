@@ -61,6 +61,14 @@ jobs:
           git commit -m "칼럼 자동 발행 $(TZ=Asia/Seoul date +%Y-%m-%d)"
           git push
 
+      # 키 파일(91a7....txt)만 놓여 있고 아무도 쏘지 않아, 새 칼럼이 올라가도
+      # 크롤러가 올 때까지 기다리기만 했다. 발행이 실제로 일어난 날에만 알린다.
+      # 색인 제출이 실패해도 발행은 이미 끝났으므로 워크플로를 깨뜨리지 않는다.
+      - name: IndexNow 색인 제출
+        if: steps.diff.outputs.changed == 'true'
+        continue-on-error: true
+        run: node scripts/submit-indexnow.mjs --days 2
+
       - name: 발행 요약
         run: |
           {
