@@ -41,10 +41,12 @@ const COLUMN_CATEGORIES = [
   { key: 'criminal', label: '형사', test: /형사/ },
   { key: 'sex', label: '성범죄', test: /성범죄|추행|강간|성폭력/ },
   { key: 'drug', label: '마약', test: /마약/ },
+  { key: 'traffic', label: '교통사고', test: /교통사고|위험운전|교통범죄|치사상/ },
   { key: 'dui', label: '음주운전', test: /음주/ },
   { key: 'fraud', label: '사기', test: /사기/ },
   { key: 'affair', label: '상간소송', test: /상간|부정행위/ },
   { key: 'divorce', label: '이혼', test: /이혼|재산분할|양육권|위자료|혼인/ },
+  { key: 'inheritance', label: '상속', test: /상속|유류분|상속재산|유언|기여분/ },
   { key: 'civil', label: '민사·임대차', test: /민사|임대차|부동산|보증금|대여금/ },
   { key: 'info', label: '상담·안내', test: /상담|안내/ },
 ];
@@ -62,10 +64,12 @@ const PRACTICE_LINKS = {
   criminal: { url: '../criminal/', label: '울산 형사 변호사' },
   sex: { url: '../sex-crime/', label: '울산 성범죄 변호사' },
   drug: { url: '../criminal/', label: '울산 마약 변호사' },
+  traffic: { url: '../traffic-accident/', label: '울산 교통사고 변호사' },
   dui: { url: '../dui/', label: '울산 음주운전 변호사' },
   fraud: { url: '../criminal/', label: '울산 사기 변호사' },
   affair: { url: '../affair-lawsuit/', label: '울산 상간소송 변호사' },
   divorce: { url: '../divorce/', label: '울산 이혼 변호사' },
+  inheritance: { url: '../inheritance/', label: '울산 상속 변호사' },
   civil: { url: '../civil/', label: '울산 민사소송 변호사' },
 };
 
@@ -74,10 +78,12 @@ const PRACTICE_DIR = {
   criminal: 'criminal',
   sex: 'sex-crime',
   drug: 'criminal',
+  traffic: 'traffic-accident',
   dui: 'dui',
   fraud: 'criminal',
   affair: 'affair-lawsuit',
   divorce: 'divorce',
+  inheritance: 'inheritance',
   civil: 'civil',
 };
 
@@ -86,10 +92,12 @@ const CATEGORY_PAGES = {
   criminal: { label: '형사', kw: '울산형사변호사', h1: '울산 형사 변호사 칼럼', desc: '울산 형사사건(사기·횡령·폭행·공무집행방해 등)의 수사 단계 대응부터 재판 전략까지, 강성수 변호사가 실제 사건 경험을 바탕으로 정리한 형사 칼럼 모음입니다.' },
   sex: { label: '성범죄', kw: '울산성범죄변호사', h1: '울산 성범죄 변호사 칼럼', desc: '울산 성범죄(강제추행·준강간·통신매체이용음란·무고 등) 사건의 초기 대응과 증거 확보 전략을 강성수 변호사가 정리한 성범죄 칼럼 모음입니다.' },
   drug: { label: '마약', kw: '울산마약변호사', h1: '울산 마약 변호사 칼럼', desc: '울산 마약 사건(투약·매매·재범 등)의 구속 대응과 양형 전략을 강성수 변호사가 실제 사례 중심으로 정리한 마약 칼럼 모음입니다.' },
+  traffic: { label: '교통사고', kw: '울산교통사고변호사', h1: '울산 교통사고 변호사 칼럼', desc: '울산 교통사고 사건의 형사책임, 보험과 별도 합의, 피해 회복, 사고 원인 다툼을 강성수 변호사가 실제 사례 중심으로 정리한 교통사고 칼럼 모음입니다.' },
   dui: { label: '음주운전', kw: '울산음주운전변호사', h1: '울산 음주운전 변호사 칼럼', desc: '울산 음주운전·음주측정거부 사건의 감경 요소와 실형을 피하는 대응 전략을 강성수 변호사가 정리한 음주운전 칼럼 모음입니다.' },
   fraud: { label: '사기', kw: '울산사기변호사', h1: '울산 사기 변호사 칼럼', desc: '울산 사기·사문서위조 등 재산범죄 사건에서 혐의를 다투고 실형을 피한 대응 전략을 강성수 변호사가 정리한 사기 칼럼 모음입니다.' },
   affair: { label: '상간소송', kw: '울산상간소송변호사', h1: '울산 상간소송 변호사 칼럼', desc: '울산 상간자 소송·부정행위 손해배상 사건의 청구와 감액 전략을 강성수 변호사가 실제 사례 중심으로 정리한 상간소송 칼럼 모음입니다.' },
   divorce: { label: '이혼', kw: '울산이혼변호사', h1: '울산 이혼 변호사 칼럼', desc: '울산 이혼소송·재산분할·양육권·위자료 사건의 준비 절차와 쟁점별 대응 전략을 강성수 변호사가 실제 상담 경험을 바탕으로 정리한 이혼 칼럼 모음입니다.' },
+  inheritance: { label: '상속', kw: '울산상속변호사', h1: '울산 상속 변호사 칼럼', desc: '울산 상속재산분할, 유류분, 특별수익, 기여분, 유언 분쟁에서 먼저 확인할 자료와 조정 전략을 강성수 변호사가 사례 중심으로 정리한 상속 칼럼 모음입니다.' },
   civil: { label: '민사·임대차', kw: '울산민사변호사', h1: '울산 민사·임대차 변호사 칼럼', desc: '울산 민사소송·임대차보증금·손해배상·가압류 사건의 쟁점과 회수 전략을 강성수 변호사가 정리한 민사 칼럼 모음입니다.' },
 };
 
@@ -1082,6 +1090,8 @@ function buildSitemap(columns, cases) {
     ['/divorce/', SITE_UPDATED],
     ['/sex-crime/', SITE_UPDATED],
     ['/real-estate/', SITE_UPDATED],
+    ['/traffic-accident/', latestContentDate],
+    ['/inheritance/', latestContentDate],
     ['/civil/', SITE_UPDATED],
     ['/affair-lawsuit/', SITE_UPDATED],
     ['/dui/', SITE_UPDATED],
