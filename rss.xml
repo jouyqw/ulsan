@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산형사전문변호사 벌금 분납·연납 신청과 노역장 유치 기준</title>
+      <link>https://ulsanlawyer.kr/columns/criminal-fine-labor-installment</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-fine-labor-installment</guid>
+      <pubDate>Sat, 12 Sep 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>판결로 정해진 벌금을 한 번에 내기 어려울 때 검찰청에 분할납부와 납부연기를 신청하는 절차, 인정되는 사정과 소명자료, 그리고 노역장 유치로 넘어가는 시점과 일당 공제 방식을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산음주운전변호사 음주운전 약식명령, 정식재판을 청구해야 할까</title>
       <link>https://ulsanlawyer.kr/columns/dui-summary-order-fine</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
       <category>성범죄 칼럼</category>
       <description>성범죄 유죄 판결에 따르는 취업제한명령의 대상 기관과 기간, 면제 판단 요소, 재판 단계에서 다투는 방법을 Q&amp;A로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산이혼변호사 이혼 위자료, 유책배우자 입증 자료 정리</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-divorce-alimony-fault-evidence</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-divorce-alimony-fault-evidence</guid>
-      <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
-      <category>이혼소송 칼럼</category>
-      <description>이혼 위자료는 혼인 파탄의 책임이 누구에게 있는지로 결정됩니다. 유책사유별 입증 자료와 액수를 좌우하는 요소, 청구 기한까지 정리했습니다.</description>
     </item>
   </channel>
 </rss>
