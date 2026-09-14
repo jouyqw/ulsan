@@ -7,7 +7,7 @@ slug: "divorce-counterclaim-alimony"
 image: "assets/images/success/divorce-counterclaim-alimony-column.webp"
 imageAlt: "울산 이혼 반소 인용 위자료 판결문"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
-consultImageAlt: "법무법인 우린 강성수 변호사"
+consultImageAlt: "강성수 변호사"
 keywords: ["울산 이혼 변호사", "이혼 반소", "유책배우자 이혼청구", "이혼 위자료", "부정행위 입증", "울산 가정법원"]
 summary: "먼저 이혼소송을 당한 상황에서 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사례입니다."
 ---
@@ -202,7 +202,7 @@ summary: "먼저 이혼소송을 당한 상황에서 반소로 대응해 본소�
 
 이 시기에 반소를 함께 낼지 결정해야 합니다.
 
-법무법인 우린은 강성수 변호사가 직접 상담하고, 증거 정리부터 반소 제기, 위자료 산정과 법정 변론까지 직접 진행합니다.
+강성수 변호사가 직접 상담하고, 증거 정리부터 반소 제기, 위자료 산정과 법정 변론까지 직접 진행합니다.
 
 이혼소송 서류를 받으셨다면, 지금 남아 있는 통화·결제·메신저 기록부터 확인해야 합니다.
 :::

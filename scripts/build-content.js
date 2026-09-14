@@ -2,9 +2,9 @@ const fs = require('fs');
 const path = require('path');
 
 const SITE_URL = 'https://ulsanlawyer.kr';
-const SITE_NAME = '울산변호사 강성수 | 법무법인 우린';
+const SITE_NAME = '울산변호사 | 강성수 변호사';
 const SITE_UPDATED = '2026-07-23';
-const DEFAULT_SOCIAL_IMAGE = `${SITE_URL}/assets/images/og.png`;
+const DEFAULT_SOCIAL_IMAGE = `${SITE_URL}/assets/images/lawyer-direct-consultation.webp`;
 const ROOT = path.resolve(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content');
 // 한국 시간(UTC+9) 기준 오늘. GitHub Actions(UTC)와 로컬 어디서 돌려도 같은 날짜가 나오게 한다.
@@ -428,17 +428,16 @@ function pageHead({
     <meta name="theme-color" content="#17243d">
     <link rel="canonical" href="${canonical}">
     <link rel="alternate" type="application/rss+xml" title="${SITE_NAME} 새 글" href="${SITE_URL}/rss.xml">
-    <link rel="icon" type="image/png" href="${rootPrefix}assets/images/logo.png">
     <meta property="og:type" content="${ogType}">
     <meta property="og:url" content="${canonical}">
     <meta property="og:title" content="${escapeHtml(title)}">
     <meta property="og:description" content="${escapeHtml(description)}">
     <meta property="og:image" content="${DEFAULT_SOCIAL_IMAGE}">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="울산변호사 강성수 - 법무법인 우린">
+    <meta property="og:image:width" content="1000">
+    <meta property="og:image:height" content="1000">
+    <meta property="og:image:alt" content="울산변호사 강성수 변호사">
     <meta property="og:locale" content="ko_KR">
-    <meta property="og:site_name" content="법무법인 우린">
+    <meta property="og:site_name" content="울산변호사 강성수">
     ${published ? `<meta property="article:published_time" content="${published}">` : ''}
     ${modified ? `<meta property="article:modified_time" content="${modified}">` : ''}
     <meta name="twitter:card" content="summary_large_image">
@@ -457,7 +456,7 @@ function pageHead({
 function siteHeader(active, rootPrefix = '../') {
   return `<header class="header">
         <div class="header-container">
-            <div class="logo"><a href="${rootPrefix}"><img src="${rootPrefix}assets/images/logo.png" alt="법무법인 우린" class="logo-image"></a></div>
+            <div class="logo"><a href="${rootPrefix}" class="text-logo" aria-label="울산변호사 홈"><strong>울산변호사</strong><span>강성수 변호사</span></a></div>
             <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="메뉴 열기"><span class="hamburger-line"></span><span class="hamburger-line"></span><span class="hamburger-line"></span></button>
             <nav class="nav" id="mobileNav">
                 <a href="${rootPrefix}#home" class="nav-link">홈</a>
@@ -503,15 +502,9 @@ function articlePage(item, type, all = []) {
       {
         '@type': 'LegalService',
         '@id': `${SITE_URL}/#legal-service`,
-        name: '법무법인 우린',
+        name: '울산변호사 강성수',
         url: `${SITE_URL}/`,
         telephone: '+82-52-227-2121',
-        logo: {
-          '@type': 'ImageObject',
-          url: `${SITE_URL}/assets/images/logo.png`,
-          width: 548,
-          height: 164,
-        },
         address: {
           '@type': 'PostalAddress',
           streetAddress: '법대로 86-6 재송빌딩 3층',
@@ -525,7 +518,7 @@ function articlePage(item, type, all = []) {
         '@type': 'WebSite',
         '@id': `${SITE_URL}/#website`,
         url: `${SITE_URL}/`,
-        name: '법무법인 우린',
+        name: '울산변호사 강성수',
         alternateName: '울산변호사 강성수',
         publisher: { '@id': `${SITE_URL}/#legal-service` },
         inLanguage: 'ko-KR',
@@ -580,9 +573,9 @@ function articlePage(item, type, all = []) {
     : '';
   const lawyerBlock = isCase
     ? `<section class="article-lawyer-card">
-                    <div class="article-lawyer-photo"><a href="../lawyer/"><img src="../assets/images/lawyer-card.webp" alt="법무법인 우린 강성수 변호사" loading="lazy" decoding="async"></a></div>
+                    <div class="article-lawyer-photo"><a href="../lawyer/"><img src="../assets/images/lawyer-card.webp" alt="울산변호사 강성수 변호사" loading="lazy" decoding="async"></a></div>
                     <div class="article-lawyer-copy">
-                        <span>LAW FIRM WOORIN</span>
+                        <span>ULSAN LAWYER</span>
                         <h2><a href="../lawyer/">강성수 변호사가 직접 상담합니다</a></h2>
                         <p>사무장·상담실장을 거치지 않습니다. 사건 초기 검토부터 재판 대응 방향까지 변호사가 직접 사실관계와 증거자료를 확인합니다.</p>
                     </div>
@@ -710,7 +703,7 @@ function listingPage(type, items, cases) {
   if (isCase) {
     const cards = items.map((item) => `<article class="result-card">
                     <a href="${item.slug}">
-                        <div class="result-media"><img src="../${escapeHtml(item.image || 'assets/images/og.png')}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div>
+                        <div class="result-media"><img src="../${escapeHtml(item.image || 'assets/images/lawyer-direct-consultation.webp')}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div>
                         <div class="result-body"><span class="result-type">${escapeHtml(item.category || '성공사례')}</span><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.summary || item.description || '')}</p></div>
                     </a>
                 </article>`).join('\n');
@@ -719,7 +712,7 @@ function listingPage(type, items, cases) {
       '@type': 'CollectionPage',
       name: h1,
       url: `${SITE_URL}/${type}/`,
-      publisher: { '@type': 'LegalService', name: '법무법인 우린' },
+      publisher: { '@type': 'LegalService', name: '울산변호사 강성수' },
     };
     return `${pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })}
 <body class="columns-page">
@@ -816,7 +809,7 @@ function listingPage(type, items, cases) {
         url: `${SITE_URL}/columns/`,
         description,
         inLanguage: 'ko-KR',
-        publisher: { '@type': 'LegalService', name: '법무법인 우린', url: `${SITE_URL}/` },
+        publisher: { '@type': 'LegalService', name: '울산변호사 강성수', url: `${SITE_URL}/` },
         blogPost: items.slice(0, 20).map((item) => ({
           '@type': 'BlogPosting',
           headline: item.title,
@@ -905,7 +898,7 @@ function categoryPage(key, meta, items) {
         description,
         inLanguage: 'ko-KR',
         isPartOf: { '@id': `${SITE_URL}/columns/#blog` },
-        publisher: { '@type': 'LegalService', name: '법무법인 우린', url: `${SITE_URL}/` },
+        publisher: { '@type': 'LegalService', name: '울산변호사 강성수', url: `${SITE_URL}/` },
       },
       {
         '@type': 'ItemList',
@@ -1030,7 +1023,7 @@ function additionalSuccessCases(items) {
         category,
         title,
         result: resultFromCaseTitle(title),
-        image: STATIC_SUCCESS_IMAGES[rows.length] || 'assets/images/og.png',
+        image: STATIC_SUCCESS_IMAGES[rows.length] || 'assets/images/lawyer-direct-consultation.webp',
         imageAlt: `${title} 자료`,
         href: 'cases/',
       });
@@ -1050,7 +1043,7 @@ function homepageCaseCards(items) {
     return true;
   });
 
-  return combined.slice(0, 20).map((item) => `<article class="result-card"><a href="${escapeHtml(item.href || 'cases/')}"><div class="result-media"><img src="${escapeHtml(item.image || 'assets/images/og.png')}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div><div class="result-body"><span class="result-type">${escapeHtml(item.category || '성공사례')}</span><h3>${escapeHtml(item.title)}</h3></div></a></article>`).join('\n                ');
+  return combined.slice(0, 20).map((item) => `<article class="result-card"><a href="${escapeHtml(item.href || 'cases/')}"><div class="result-media"><img src="${escapeHtml(item.image || 'assets/images/lawyer-direct-consultation.webp')}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div><div class="result-body"><span class="result-type">${escapeHtml(item.category || '성공사례')}</span><h3>${escapeHtml(item.title)}</h3></div></a></article>`).join('\n                ');
 }
 function replaceHomepageSections(columns, cases) {
   const indexPath = path.join(ROOT, 'index.html');

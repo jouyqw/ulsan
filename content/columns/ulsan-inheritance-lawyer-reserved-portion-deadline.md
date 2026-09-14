@@ -5,7 +5,7 @@ category: "상속 칼럼"
 date: "2026-09-14"
 slug: "ulsan-inheritance-lawyer-reserved-portion-deadline"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
-consultImageAlt: "법무법인 우린 강성수 변호사"
+consultImageAlt: "강성수 변호사"
 keywords: ["울산상속변호사", "울산유류분변호사", "유류분 청구 기간", "상속재산분할", "특별수익", "유류분 반환 청구"]
 summary: "유류분은 억울하다는 마음만으로 인정되지 않습니다. 기간 제한과 생전 증여 자료, 부족액 계산을 먼저 확인해야 합니다."
 ---
@@ -93,5 +93,5 @@ summary: "유류분은 억울하다는 마음만으로 인정되지 않습니다
 
 이때 필요한 것은 누구 말이 더 억울한지보다 어떤 재산이 언제 누구에게 넘어갔는지를 확인하는 일입니다.
 
-법무법인 우린은 강성수 변호사가 직접 상담하고, 유류분과 상속재산분할 쟁점을 함께 검토합니다.
+강성수 변호사가 직접 상담하고, 유류분과 상속재산분할 쟁점을 함께 검토합니다.
 :::

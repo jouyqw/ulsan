@@ -6,7 +6,7 @@ const SITE_URL = 'https://ulsanlawyer.kr';
 // CSS 를 고치면 반드시 올린다. 안 올리면 브라우저가 옛 파일을 계속 쓴다.
 // 20260913-1: 칼럼 카드에 발행일(.column-card-meta/.column-date) 추가
 const ASSET_VERSION = '20260913-1';
-const DEFAULT_IMAGE = `${SITE_URL}/assets/images/og.png`;
+const DEFAULT_IMAGE = `${SITE_URL}/assets/images/lawyer-direct-consultation.webp`;
 const PRACTICE_PATHS = new Set([
   '/criminal/',
   '/divorce/',
@@ -143,11 +143,11 @@ function normalizeHead(html) {
     <meta property="og:title" content="${title}">
     <meta property="og:description" content="${description}">
     <meta property="og:image" content="${DEFAULT_IMAGE}">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="울산변호사 강성수 - 법무법인 우린">
+    <meta property="og:image:width" content="1000">
+    <meta property="og:image:height" content="1000">
+    <meta property="og:image:alt" content="울산변호사 강성수 변호사">
     <meta property="og:locale" content="ko_KR">
-    <meta property="og:site_name" content="법무법인 우린">
+    <meta property="og:site_name" content="울산변호사 강성수">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="${title}">
     <meta name="twitter:description" content="${description}">

@@ -7,7 +7,7 @@ slug: "dui-summary-order-fine"
 image: "assets/images/success/dui-summary-order-fine-column.webp"
 imageAlt: "울산 음주운전 벌금 약식명령"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
-consultImageAlt: "법무법인 우린 강성수 변호사"
+consultImageAlt: "강성수 변호사"
 keywords: ["울산 음주운전 변호사", "음주운전 약식명령", "정식재판청구", "벌금 800만원", "형종 상향 금지", "혈중알코올농도 0.132"]
 summary: "혈중알코올농도 0.132%로 약 20km를 운전하고도 벌금형 약식명령으로 마무리된 사건과, 정식재판 청구 판단 기준을 정리했습니다."
 ---
@@ -169,7 +169,7 @@ summary: "혈중알코올농도 0.132%로 약 20km를 운전하고도 벌금형 
 
 정식재판을 청구할 실익이 있는지, 오히려 불리해지지는 않는지 먼저 판단해야 합니다.
 
-법무법인 우린은 강성수 변호사가 직접 상담하고, 수사 단계 대응부터 양형자료 준비, 면허 구제 절차까지 함께 검토합니다.
+강성수 변호사가 직접 상담하고, 수사 단계 대응부터 양형자료 준비, 면허 구제 절차까지 함께 검토합니다.
 
 약식명령서를 받으셨거나 조사를 앞두고 계시다면, 지금 남은 기한부터 확인해야 합니다.
 :::

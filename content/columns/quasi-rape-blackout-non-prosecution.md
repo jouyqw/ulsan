@@ -7,7 +7,7 @@ slug: "quasi-rape-blackout-non-prosecution"
 image: "assets/images/success/quasi-rape-blackout-non-prosecution-column.webp"
 imageAlt: "울산 준강간 혐의없음 불송치 수사결과 통지서"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
-consultImageAlt: "법무법인 우린 강성수 변호사"
+consultImageAlt: "강성수 변호사"
 keywords: ["울산 성범죄 전문변호사", "준강간 불송치", "블랙아웃 항거불능", "준강간 무혐의", "성범죄 초기 대응", "울산 준강간 변호사"]
 summary: "술에 취해 기억이 없다는 진술만으로는 항거불능이 인정되지 않는다는 법리를 근거로, 준강간 고소에서 혐의없음 불송치를 받은 사례입니다."
 ---
@@ -224,7 +224,7 @@ summary: "술에 취해 기억이 없다는 진술만으로는 항거불능이 �
 
 준비 없이 조사에 들어갔다가 나중에 뒤집으려면 훨씬 어려워집니다.
 
-법무법인 우린은 강성수 변호사가 직접 상담하고, 증거 보전과 진술 준비, 법리 의견서 작성까지 직접 진행합니다.
+강성수 변호사가 직접 상담하고, 증거 보전과 진술 준비, 법리 의견서 작성까지 직접 진행합니다.
 
 준강간으로 고소를 당했거나 경찰 연락을 받았다면, 지금 남아 있는 대화와 통화 기록부터 확인해야 합니다.
 :::

@@ -177,7 +177,7 @@ function validate(topic, date, seenTitles, seenSlugs) {
 
 /* ---------- 프롬프트 ---------- */
 function buildPrompt(topic, date, samples, titles, note) {
-  return `너는 "법무법인 우린" 강성수 변호사(울산)의 법률 칼럼을 쓴다. 이번에 쓸 글은 1편이다.
+  return `너는 울산에서 직접 상담하는 강성수 변호사의 법률 칼럼을 쓴다. 이번에 쓸 글은 1편이다.
 
 ## 먼저 읽을 것 (문체·구성·분량의 기준이다)
 ${samples.map((s) => `- content/columns/${s}`).join('\n')}
