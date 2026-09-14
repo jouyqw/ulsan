@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const SITE_URL = 'https://ulsanlawyer.kr';
-const SITE_NAME = '울산변호사 | 강성수 변호사';
+const SITE_NAME = '울산형사전문변호사 강성수';
 const SITE_UPDATED = '2026-07-23';
 const DEFAULT_SOCIAL_IMAGE = `${SITE_URL}/assets/images/lawyer-direct-consultation.webp`;
 const ROOT = path.resolve(__dirname, '..');
@@ -448,7 +448,7 @@ function pageHead({
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet"></noscript>
-    <link rel="stylesheet" href="${rootPrefix}assets/css/style.css">
+    <link rel="stylesheet" href="${rootPrefix}assets/css/style.css?v=20260914-2">
     ${schema ? `<script type="application/ld+json">\n${JSON.stringify(schema, null, 2)}\n    </script>` : ''}
 </head>`;
 }
@@ -456,7 +456,7 @@ function pageHead({
 function siteHeader(active, rootPrefix = '../') {
   return `<header class="header">
         <div class="header-container">
-            <div class="logo"><a href="${rootPrefix}" class="text-logo" aria-label="울산변호사 홈"><strong>울산변호사</strong><span>강성수 변호사</span></a></div>
+            <div class="logo"><a href="${rootPrefix}" class="text-logo header-text-logo" aria-label="울산형사전문변호사 강성수 홈"><strong>울산형사전문변호사 강성수</strong></a></div>
             <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="메뉴 열기"><span class="hamburger-line"></span><span class="hamburger-line"></span><span class="hamburger-line"></span></button>
             <nav class="nav" id="mobileNav">
                 <a href="${rootPrefix}#home" class="nav-link">홈</a>

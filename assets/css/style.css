@@ -2825,15 +2825,21 @@ body {
 
 .text-logo {
     display: inline-flex;
-    flex-direction: column;
     color: #fff;
     line-height: 1.15;
     text-decoration: none;
 }
 
+.text-logo:visited,
+.text-logo:hover,
+.text-logo:focus {
+    color: #fff;
+}
+
 .text-logo strong {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 800;
+    white-space: nowrap;
 }
 
 .text-logo span {
@@ -2849,6 +2855,12 @@ body {
 
 .footer-text-logo span {
     color: rgba(255, 255, 255, 0.7);
+}
+
+@media (max-width: 480px) {
+    .header-text-logo strong {
+        font-size: 16px;
+    }
 }
 
 @media (max-width: 768px) {
