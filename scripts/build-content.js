@@ -428,6 +428,8 @@ function pageHead({
     <meta name="theme-color" content="#17243d">
     <link rel="canonical" href="${canonical}">
     <link rel="alternate" type="application/rss+xml" title="${SITE_NAME} 새 글" href="${SITE_URL}/rss.xml">
+    <link rel="icon" type="image/png" sizes="512x512" href="${SITE_URL}/assets/images/favicon-v2.png">
+    <link rel="apple-touch-icon" href="${SITE_URL}/assets/images/favicon-v2.png">
     <meta property="og:type" content="${ogType}">
     <meta property="og:url" content="${canonical}">
     <meta property="og:title" content="${escapeHtml(title)}">
@@ -448,7 +450,7 @@ function pageHead({
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet"></noscript>
-    <link rel="stylesheet" href="${rootPrefix}assets/css/style.css?v=20260914-2">
+    <link rel="stylesheet" href="${rootPrefix}assets/css/style.css?v=20260914-3">
     ${schema ? `<script type="application/ld+json">\n${JSON.stringify(schema, null, 2)}\n    </script>` : ''}
 </head>`;
 }
@@ -504,6 +506,12 @@ function articlePage(item, type, all = []) {
         '@id': `${SITE_URL}/#legal-service`,
         name: '울산변호사 강성수',
         url: `${SITE_URL}/`,
+        logo: {
+          '@type': 'ImageObject',
+          url: `${SITE_URL}/assets/images/favicon-v2.png`,
+          width: 512,
+          height: 512,
+        },
         telephone: '+82-52-227-2121',
         address: {
           '@type': 'PostalAddress',

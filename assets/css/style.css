@@ -2863,6 +2863,140 @@ body {
     }
 }
 
+.criminal-focus-section {
+    padding: 82px 0;
+    background: #f3f5f7;
+    color: #172033;
+}
+
+.hero-title.hero-title-criminal {
+    font-size: 64px;
+    line-height: 1;
+    letter-spacing: 0;
+}
+
+.hero-title-criminal .hero-title-keyword,
+.hero-title-criminal .hero-title-name {
+    display: inline-block;
+    letter-spacing: 0;
+}
+
+.hero-title-criminal .hero-title-name {
+    margin-top: 12px;
+    font-size: 104px;
+}
+
+.criminal-focus-inner {
+    display: grid;
+    gap: 30px;
+}
+
+.criminal-focus-head {
+    max-width: 820px;
+}
+
+.criminal-focus-head > span {
+    display: block;
+    margin-bottom: 10px;
+    color: #986515;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.criminal-focus-head h2 {
+    margin-bottom: 16px;
+    color: #101827;
+    font-size: 34px;
+    line-height: 1.35;
+}
+
+.criminal-focus-head p {
+    color: #4d5868;
+    font-size: 16px;
+    line-height: 1.85;
+}
+
+.criminal-focus-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+}
+
+.criminal-focus-grid a {
+    display: flex;
+    min-height: 112px;
+    flex-direction: column;
+    justify-content: center;
+    padding: 22px;
+    border: 1px solid #d7dce2;
+    border-radius: 6px;
+    background: #fff;
+    color: #172033;
+    text-decoration: none;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.criminal-focus-grid a:hover {
+    border-color: #b7791f;
+    transform: translateY(-2px);
+}
+
+.criminal-focus-grid strong {
+    margin-bottom: 8px;
+    font-size: 17px;
+}
+
+.criminal-focus-grid span {
+    color: #687384;
+    font-size: 14px;
+    line-height: 1.55;
+}
+
+.criminal-focus-more {
+    width: fit-content;
+    color: #80530f;
+    font-weight: 800;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+@media (max-width: 900px) {
+    .hero-title.hero-title-criminal {
+        font-size: 46px;
+    }
+
+    .hero-title-criminal .hero-title-name {
+        font-size: 82px;
+    }
+
+    .criminal-focus-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 600px) {
+    .hero-title.hero-title-criminal {
+        font-size: 28px;
+    }
+
+    .hero-title-criminal .hero-title-name {
+        margin-top: 9px;
+        font-size: 58px;
+    }
+
+    .criminal-focus-section {
+        padding: 58px 0;
+    }
+
+    .criminal-focus-head h2 {
+        font-size: 26px;
+    }
+
+    .criminal-focus-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
 @media (max-width: 768px) {
     .footer-logo {
         margin-left: 0;

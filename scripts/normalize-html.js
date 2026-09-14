@@ -4,8 +4,8 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..');
 const SITE_URL = 'https://ulsanlawyer.kr';
 // CSS 를 고치면 반드시 올린다. 안 올리면 브라우저가 옛 파일을 계속 쓴다.
-// 20260914-2: 텍스트 로고 스타일과 홈페이지 브랜드명 갱신
-const ASSET_VERSION = '20260914-2';
+// 20260914-3: 형사사건 주제 허브와 연관 키워드 내부 링크 추가
+const ASSET_VERSION = '20260914-3';
 const DEFAULT_IMAGE = `${SITE_URL}/assets/images/lawyer-direct-consultation.webp`;
 const PRACTICE_PATHS = new Set([
   '/criminal/',
@@ -134,6 +134,12 @@ function normalizeHead(html) {
     html = html.replace(
       /(<link\s+rel="canonical"[^>]*>)/i,
       `$1\n    <link rel="alternate" type="application/rss+xml" title="울산변호사 강성수 새 글" href="${SITE_URL}/rss.xml">`
+    );
+  }
+  if (!/rel="icon"/i.test(html)) {
+    html = html.replace(
+      /(<link\s+rel="canonical"[^>]*>)/i,
+      `$1\n    <link rel="icon" type="image/png" sizes="512x512" href="${SITE_URL}/assets/images/favicon-v2.png">\n    <link rel="apple-touch-icon" href="${SITE_URL}/assets/images/favicon-v2.png">`
     );
   }
   if (!/property="og:title"/i.test(html)) {
