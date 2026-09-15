@@ -30,6 +30,28 @@
 
 ## 분야별 칼럼
 
+### 마약
+
+- [울산마약변호사 대마 초범 기소유예, 가능한 조건과 준비할 자료](https://ulsanlawyer.kr/columns/drug-cannabis-first-offense-suspension) (2026-09-15): 대마 초범 사건에서 기소유예가 검토되는 조건과, 조사 단계에서 미리 준비해 두어야 할 자료를 정리했습니다.
+- [울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령](https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation) (2026-08-19): 텔레그램으로 엑스터시를 8회 매수·투약해 구속된 초범 사건에서, 치료 구조를 만들어 징역 1년 6월 집행유예 3년을 받은 사례입니다.
+- [울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까](https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension) (2026-08-13): 재판까지 가지 않고 끝나는 길이 있습니다. 다만 조건을 지켜야 유지됩니다.
+- [울산마약변호사 모발검사가 음성인데 왜 기소될까](https://ulsanlawyer.kr/columns/ulsan-drug-hair-test-negative-prosecution) (2026-08-09): 검사 결과가 음성이어도 기소되는 경우가 있습니다. 마약 사건에서 실제로 무엇이 증거가 되는지 정리했습니다.
+- [울산마약변호사 마약 초범도 실형이 나올 수 있을까? 재범 위험성과 선처자료 정리](https://ulsanlawyer.kr/columns/drug-first-offense-recidivism-risk-guide) (2026-06-24): 마약 사건은 초범이라도 방심하면 안 됩니다. 법원이 중요하게 보는 재범 위험성과 치료·재활 중심 선처자료를 정리했습니다.
+- [울산마약변호사 재판 중 또 마약을 한 구속 사건, 집행유예로 뒤집은 사례](https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation) (2026-06-24): 마약 재판을 받던 중 다시 마약을 해 구속된 사건에서, 변화 가능성과 치료 의지를 입증해 집행유예를 이끌어낸 사례입니다.
+- [울산변호사 재판 중 다시 마약을 한 경우, 집행유예를 이끌어낸 변호인의 전략](https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation) (2026-06-24): 마약 투약 혐의로 재판을 받던 중 다시 마약을 해 구속된 사건에서, 치료 의지와 재범 방지 구조를 입증해 집행유예를 받은 사례입니다.
+
+### 음주운전
+
+- [울산음주운전변호사 위드마크 공식, 유리할 때와 불리할 때](https://ulsanlawyer.kr/columns/dui-widmark-formula) (2026-09-15): 같은 공식이 처벌 근거도 되고 방어 논리도 됩니다. 어떤 숫자를 대입했는지에 따라 결과가 갈립니다.
+- [울산음주운전변호사 음주운전 약식명령, 정식재판을 청구해야 할까](https://ulsanlawyer.kr/columns/dui-summary-order-fine) (2026-08-23): 혈중알코올농도 0.132%로 약 20km를 운전하고도 벌금형 약식명령으로 마무리된 사건과, 정식재판 청구 판단 기준을 정리했습니다.
+- [울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예](https://ulsanlawyer.kr/columns/dui-repeat-third-probation) (2026-08-20): 10년 내 재범으로 가중 규정이 적용되고 혈중알코올농도도 높았던 사건에서, 징역 2년 집행유예 3년을 받아 구속을 피한 사례입니다.
+- [울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준](https://ulsanlawyer.kr/columns/ulsan-dui-hit-and-run-criteria) (2026-08-15): 몰랐다고 해서 끝나지 않습니다. 도주로 평가되는 기준과 구호조치의 범위를 정리했습니다.
+- [울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/dui-accident-injury-probation) (2026-08-14): 혈중알코올농도 0.059%, 피해자 16주 진단, 구속 상태에서 시작한 사건에서 징역 8월 집행유예 2년을 받아 일상으로 돌아간 사례입니다.
+- [울산음주운전변호사 면허취소 구제, 이의신청과 행정심판](https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal) (2026-08-11): 형사 사건이 끝나기를 기다리면 구제 기한을 놓칩니다. 면허 절차는 따로 움직입니다.
+- [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
+- [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
+- [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
+
 ### 성범죄
 
 - [울산성범죄전문변호사 불법촬영물 유포 협박, 삭제보다 증거보전이 먼저입니다](https://ulsanlawyer.kr/columns/sex-crime-filming-distribution-threat) (2026-09-14): 유포 협박 사건은 협박받은 쪽과 혐의를 받는 쪽의 대응이 정반대입니다. 삭제와 증거보전의 순서부터 확인해야 합니다.
@@ -109,17 +131,6 @@
 
 - [울산교통사고변호사 사망 사고, 형사책임과 피해 회복을 함께 본 사례](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-death-victim-family-settlement) (2026-09-13): 교통사고 사망 사건은 형사책임만 보는 문제가 아닙니다. 사고 원인, 주의의무, 보험 처리, 유족과의 소통을 같은 순서 안에서 정리해야 합니다.
 
-### 음주운전
-
-- [울산음주운전변호사 음주운전 약식명령, 정식재판을 청구해야 할까](https://ulsanlawyer.kr/columns/dui-summary-order-fine) (2026-08-23): 혈중알코올농도 0.132%로 약 20km를 운전하고도 벌금형 약식명령으로 마무리된 사건과, 정식재판 청구 판단 기준을 정리했습니다.
-- [울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예](https://ulsanlawyer.kr/columns/dui-repeat-third-probation) (2026-08-20): 10년 내 재범으로 가중 규정이 적용되고 혈중알코올농도도 높았던 사건에서, 징역 2년 집행유예 3년을 받아 구속을 피한 사례입니다.
-- [울산음주운전변호사 음주 뺑소니, 도주치상이 되는 기준](https://ulsanlawyer.kr/columns/ulsan-dui-hit-and-run-criteria) (2026-08-15): 몰랐다고 해서 끝나지 않습니다. 도주로 평가되는 기준과 구호조치의 범위를 정리했습니다.
-- [울산음주운전변호사 음주 교통사고 16주 상해, 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/dui-accident-injury-probation) (2026-08-14): 혈중알코올농도 0.059%, 피해자 16주 진단, 구속 상태에서 시작한 사건에서 징역 8월 집행유예 2년을 받아 일상으로 돌아간 사례입니다.
-- [울산음주운전변호사 면허취소 구제, 이의신청과 행정심판](https://ulsanlawyer.kr/columns/ulsan-dui-license-revocation-appeal) (2026-08-11): 형사 사건이 끝나기를 기다리면 구제 기한을 놓칩니다. 면허 절차는 따로 움직입니다.
-- [울산음주운전변호사 혈중알코올농도별 처벌 기준과 대응 순서](https://ulsanlawyer.kr/columns/ulsan-dui-penalty-standard-by-level) (2026-08-07): 음주운전은 수치 한 자리 차이로 결과가 크게 달라집니다. 구간별 처벌과 행정처분, 그리고 적발 직후 해야 할 일을 정리했습니다.
-- [4회 음주전과·검찰 실형 구형에도 벌금형을 이끌어낸 전략적 변론 사례](https://ulsanlawyer.kr/columns/drunk-driving-fourth-fine) (2026-06-24): 음주운전 전력 4회와 재판 중 재범이라는 최악의 조건에서 검찰 실형 구형을 넘고 벌금 400만 원을 이끌어낸 사례입니다.
-- [음주측정거부, 3회 음주운전 전력과 실형 전력에도 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/drunk-refusal-probation) (2026-06-24): 음주운전 전과 3회와 실형 전력까지 있었던 음주측정거부 사건에서, 재범 방지 구조와 양형자료를 설계해 집행유예를 이끌어낸 사례입니다.
-
 ### 이혼
 
 - [울산이혼변호사 상대가 먼저 낸 이혼소송, 반소로 뒤집은 사례](https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony) (2026-08-21): 먼저 이혼소송을 당한 상황에서 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사례입니다.
@@ -131,15 +142,6 @@
 - [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
 - [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
 - [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
-
-### 마약
-
-- [울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령](https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation) (2026-08-19): 텔레그램으로 엑스터시를 8회 매수·투약해 구속된 초범 사건에서, 치료 구조를 만들어 징역 1년 6월 집행유예 3년을 받은 사례입니다.
-- [울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까](https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension) (2026-08-13): 재판까지 가지 않고 끝나는 길이 있습니다. 다만 조건을 지켜야 유지됩니다.
-- [울산마약변호사 모발검사가 음성인데 왜 기소될까](https://ulsanlawyer.kr/columns/ulsan-drug-hair-test-negative-prosecution) (2026-08-09): 검사 결과가 음성이어도 기소되는 경우가 있습니다. 마약 사건에서 실제로 무엇이 증거가 되는지 정리했습니다.
-- [울산마약변호사 마약 초범도 실형이 나올 수 있을까? 재범 위험성과 선처자료 정리](https://ulsanlawyer.kr/columns/drug-first-offense-recidivism-risk-guide) (2026-06-24): 마약 사건은 초범이라도 방심하면 안 됩니다. 법원이 중요하게 보는 재범 위험성과 치료·재활 중심 선처자료를 정리했습니다.
-- [울산마약변호사 재판 중 또 마약을 한 구속 사건, 집행유예로 뒤집은 사례](https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation) (2026-06-24): 마약 재판을 받던 중 다시 마약을 해 구속된 사건에서, 변화 가능성과 치료 의지를 입증해 집행유예를 이끌어낸 사례입니다.
-- [울산변호사 재판 중 다시 마약을 한 경우, 집행유예를 이끌어낸 변호인의 전략](https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation) (2026-06-24): 마약 투약 혐의로 재판을 받던 중 다시 마약을 해 구속된 사건에서, 치료 의지와 재범 방지 구조를 입증해 집행유예를 받은 사례입니다.
 
 ### 사기
 
