@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산형사전문변호사 재물손괴 합의, 수리비 산정이 결과를 가르는 이유</title>
+      <link>https://ulsanlawyer.kr/columns/criminal-property-damage-settlement</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-property-damage-settlement</guid>
+      <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>재물손괴는 합의해도 사건이 자동으로 끝나지 않습니다. 단순손괴와 특수손괴의 차이, 견적서가 그대로 피해액이 되지 않는 이유, 합의금과 합의 시점을 정하는 기준, 합의가 어려울 때의 공탁 절차를 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산이혼변호사 사실혼 파기 손해배상, 어디까지 인정될까</title>
+      <link>https://ulsanlawyer.kr/columns/divorce-de-facto-marriage-damages</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-de-facto-marriage-damages</guid>
+      <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>혼인신고 없이 함께 살던 관계가 사실혼으로 인정되는 세 가지 요건과, 일방적으로 관계를 끝낸 경우 위자료·재산분할이 어디까지 인정되는지 정리했습니다.</description>
+    </item>
     <item>
       <title>울산마약변호사 대마 초범 기소유예, 가능한 조건과 준비할 자료</title>
       <link>https://ulsanlawyer.kr/columns/drug-cannabis-first-offense-suspension</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 13 Aug 2026 15:00:00 GMT</pubDate>
       <category>음주운전 칼럼</category>
       <description>혈중알코올농도 0.059%로 교차로에서 이륜차와 충돌해 피해자가 16주 진단을 받은 사건입니다. 구속 상태에서 시작했지만 피해 회복과 양형자료를 정리해 징역 8월 집행유예 2년을 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension</guid>
-      <pubDate>Wed, 12 Aug 2026 15:00:00 GMT</pubDate>
-      <category>마약사건 칼럼</category>
-      <description>마약 초범이 검토할 수 있는 치료조건부·교육조건부 기소유예의 요건과 절차, 준수사항을 지키지 못했을 때의 결과를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 성범죄 합의, 언제 어떻게 해야 인정될까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-sex-crime-settlement-timing</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-sex-crime-settlement-timing</guid>
-      <pubDate>Wed, 12 Aug 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>성범죄 사건에서 합의가 양형에 반영되는 시점과 방식, 합의금 산정, 처벌불원 의사표시의 의미와 위험한 접촉 방법을 정리했습니다.</description>
     </item>
   </channel>
 </rss>
