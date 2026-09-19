@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산민사변호사 지급명령 이의신청, 2주 안에 무엇을 해야 할까</title>
+      <link>https://ulsanlawyer.kr/columns/civil-payment-order-objection</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/civil-payment-order-objection</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+      <category>민사소송 칼럼</category>
+      <description>지급명령을 받았다면 송달받은 날부터 2주가 전부입니다. 이의신청서에 이유를 적지 않아도 되는 이유, 이의 이후 소송으로 넘어가는 절차, 2주를 놓쳤을 때 남는 방법까지 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산이혼변호사 면접교섭 불이행, 이행명령부터 과태료까지</title>
+      <link>https://ulsanlawyer.kr/columns/divorce-visitation-noncompliance</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-visitation-noncompliance</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>약속한 면접교섭이 계속 지켜지지 않을 때 가정법원에 이행명령을 신청하는 절차와 과태료로 이어지는 과정, 그리고 감치가 되지 않는 이유와 양육자 변경까지 순서대로 정리했습니다.</description>
+    </item>
     <item>
       <title>울산상간소송변호사 배우자가 용서했다면 상간자 위자료는 어떻게 될까</title>
       <link>https://ulsanlawyer.kr/columns/affair-spouse-forgiveness-effect</link>
@@ -230,22 +246,6 @@
       <pubDate>Fri, 14 Aug 2026 15:00:00 GMT</pubDate>
       <category>음주운전 칼럼</category>
       <description>사고 후 현장을 벗어났을 때 도주치상이 성립하는 기준과 구호조치의 범위, 음주운전과 병합될 때의 처벌 수위를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 1심 판결 후 7일, 항소를 결정하는 기준</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-appeal-decision-deadline</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-appeal-decision-deadline</guid>
-      <pubDate>Fri, 14 Aug 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>형사 항소기간 7일의 계산 방법과 항소이유서 제출 기한, 항소가 실익 있는 경우와 불이익변경금지 원칙까지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 폭행·상해 합의, 어디까지 효과가 있을까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-assault-settlement-effect</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-assault-settlement-effect</guid>
-      <pubDate>Fri, 14 Aug 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>폭행은 합의하면 처벌할 수 없지만 상해는 다릅니다. 반의사불벌죄의 범위와 합의 시점, 합의서 작성 시 반드시 넣어야 할 문구를 정리했습니다.</description>
     </item>
   </channel>
 </rss>
