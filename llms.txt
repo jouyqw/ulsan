@@ -30,6 +30,29 @@
 
 ## 분야별 칼럼
 
+### 상간소송
+
+- [울산상간소송변호사 기혼 사실 몰랐다는 주장, 법원은 무엇을 볼까](https://ulsanlawyer.kr/columns/affair-unaware-of-marriage-defense) (2026-09-20): 배우자 있는 사실을 몰랐다는 주장이 어떤 자료로 판단되는지, 인정되는 경우와 받아들여지기 어려운 경우를 나누어 정리했습니다.
+- [울산상간소송변호사 배우자가 용서했다면 상간자 위자료는 어떻게 될까](https://ulsanlawyer.kr/columns/affair-spouse-forgiveness-effect) (2026-09-18): 용서했다는 사정이 상간자 위자료 청구를 없애는지, 금액에서만 고려되는지 기준을 나누어 정리했습니다.
+- [울산상간녀변호사·울산상간남변호사 상간소송 증거, 어디까지 필요할까](https://ulsanlawyer.kr/columns/ulsan-affair-woman-man-lawsuit-evidence) (2026-09-14): 상간녀·상간남 소송은 부정행위 자체뿐 아니라 혼인 사실을 알았는지, 증거가 적법한지, 감액 사유가 있는지가 중요합니다.
+- [울산상간소송변호사 배우자 휴대폰 몰래 보기, 증거일까 범죄일까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-phone-evidence-risk) (2026-08-14): 민사에서 증거로 쓰이는 것과 형사 문제가 되지 않는 것은 다릅니다. 선을 정리했습니다.
+- [울산상간소송변호사 상간자 소송 시효 3년, 언제부터 계산할까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-statute-limitation) (2026-08-12): 3년이라는 기간은 알고 나면 짧습니다. 시효가 언제부터 시작되는지 정확히 알아야 합니다.
+- [울산상간소송변호사 상간자 소송을 당했다면, 감액 방어 전략](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-defense-reduction) (2026-08-10): 소장을 받고 무시하면 그대로 확정됩니다. 감액이 인정되는 사정과 답변서 작성 방향을 정리했습니다.
+- [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
+- [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
+- [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
+
+### 마약
+
+- [울산마약변호사 마약 단순소지와 매매, 양형이 갈리는 지점](https://ulsanlawyer.kr/columns/drug-possession-vs-dealing) (2026-09-20): 단순소지가 매매·수수로 넘어가는 지점과, 소지 목적을 다툴 때 확인해야 할 쟁점을 정리했습니다.
+- [울산마약변호사 대마 초범 기소유예, 가능한 조건과 준비할 자료](https://ulsanlawyer.kr/columns/drug-cannabis-first-offense-suspension) (2026-09-15): 대마 초범 사건에서 기소유예가 검토되는 조건과, 조사 단계에서 미리 준비해 두어야 할 자료를 정리했습니다.
+- [울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령](https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation) (2026-08-19): 텔레그램으로 엑스터시를 8회 매수·투약해 구속된 초범 사건에서, 치료 구조를 만들어 징역 1년 6월 집행유예 3년을 받은 사례입니다.
+- [울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까](https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension) (2026-08-13): 재판까지 가지 않고 끝나는 길이 있습니다. 다만 조건을 지켜야 유지됩니다.
+- [울산마약변호사 모발검사가 음성인데 왜 기소될까](https://ulsanlawyer.kr/columns/ulsan-drug-hair-test-negative-prosecution) (2026-08-09): 검사 결과가 음성이어도 기소되는 경우가 있습니다. 마약 사건에서 실제로 무엇이 증거가 되는지 정리했습니다.
+- [울산마약변호사 마약 초범도 실형이 나올 수 있을까? 재범 위험성과 선처자료 정리](https://ulsanlawyer.kr/columns/drug-first-offense-recidivism-risk-guide) (2026-06-24): 마약 사건은 초범이라도 방심하면 안 됩니다. 법원이 중요하게 보는 재범 위험성과 치료·재활 중심 선처자료를 정리했습니다.
+- [울산마약변호사 재판 중 또 마약을 한 구속 사건, 집행유예로 뒤집은 사례](https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation) (2026-06-24): 마약 재판을 받던 중 다시 마약을 해 구속된 사건에서, 변화 가능성과 치료 의지를 입증해 집행유예를 이끌어낸 사례입니다.
+- [울산변호사 재판 중 다시 마약을 한 경우, 집행유예를 이끌어낸 변호인의 전략](https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation) (2026-06-24): 마약 투약 혐의로 재판을 받던 중 다시 마약을 해 구속된 사건에서, 치료 의지와 재범 방지 구조를 입증해 집행유예를 받은 사례입니다.
+
 ### 민사·임대차
 
 - [울산민사변호사 지급명령 이의신청, 2주 안에 무엇을 해야 할까](https://ulsanlawyer.kr/columns/civil-payment-order-objection) (2026-09-19): 지급명령을 받은 뒤 2주 안에 해야 할 일과, 이의신청 이후 소송으로 바뀌는 절차를 단계별로 정리했습니다.
@@ -59,17 +82,6 @@
 - [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
 - [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
 - [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
-
-### 상간소송
-
-- [울산상간소송변호사 배우자가 용서했다면 상간자 위자료는 어떻게 될까](https://ulsanlawyer.kr/columns/affair-spouse-forgiveness-effect) (2026-09-18): 용서했다는 사정이 상간자 위자료 청구를 없애는지, 금액에서만 고려되는지 기준을 나누어 정리했습니다.
-- [울산상간녀변호사·울산상간남변호사 상간소송 증거, 어디까지 필요할까](https://ulsanlawyer.kr/columns/ulsan-affair-woman-man-lawsuit-evidence) (2026-09-14): 상간녀·상간남 소송은 부정행위 자체뿐 아니라 혼인 사실을 알았는지, 증거가 적법한지, 감액 사유가 있는지가 중요합니다.
-- [울산상간소송변호사 배우자 휴대폰 몰래 보기, 증거일까 범죄일까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-phone-evidence-risk) (2026-08-14): 민사에서 증거로 쓰이는 것과 형사 문제가 되지 않는 것은 다릅니다. 선을 정리했습니다.
-- [울산상간소송변호사 상간자 소송 시효 3년, 언제부터 계산할까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-statute-limitation) (2026-08-12): 3년이라는 기간은 알고 나면 짧습니다. 시효가 언제부터 시작되는지 정확히 알아야 합니다.
-- [울산상간소송변호사 상간자 소송을 당했다면, 감액 방어 전략](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-defense-reduction) (2026-08-10): 소장을 받고 무시하면 그대로 확정됩니다. 감액이 인정되는 사정과 답변서 작성 방향을 정리했습니다.
-- [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
-- [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
-- [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
 
 ### 음주운전
 
@@ -125,16 +137,6 @@
 - [군대 외출증 위조·가혹행위, 다수 피해자 사건에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/military-forgery-harassment-probation) (2026-06-24): 군 복무 중 외출증 위조와 다수 피해자에 대한 가혹행위가 문제 된 사건에서, 피해 회복 노력과 객관적 반성자료를 정리해 집행유예를 이끌어낸 사례입니다.
 - [특수공무집행방해 실형 위기, 벌금형으로 방어한 사례](https://ulsanlawyer.kr/columns/special-obstruction-police-fine) (2026-06-24): 경찰관과의 실랑이 중 물건이 얼굴에 맞아 특수공무집행방해 혐의를 받은 사건에서, 피해 회복과 진정성 있는 양형자료를 통해 벌금형으로 방어한 사례입니다.
 - [경찰 출석 요구를 받았다면 먼저 확인할 것](https://ulsanlawyer.kr/columns/police-investigation) (2026-06-23): 첫 조사 전 준비해야 할 자료, 진술 과정에서 주의할 점, 변호사 상담이 필요한 시점을 정리했습니다.
-
-### 마약
-
-- [울산마약변호사 대마 초범 기소유예, 가능한 조건과 준비할 자료](https://ulsanlawyer.kr/columns/drug-cannabis-first-offense-suspension) (2026-09-15): 대마 초범 사건에서 기소유예가 검토되는 조건과, 조사 단계에서 미리 준비해 두어야 할 자료를 정리했습니다.
-- [울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령](https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation) (2026-08-19): 텔레그램으로 엑스터시를 8회 매수·투약해 구속된 초범 사건에서, 치료 구조를 만들어 징역 1년 6월 집행유예 3년을 받은 사례입니다.
-- [울산마약변호사 치료조건부 기소유예, 어떤 경우에 가능할까](https://ulsanlawyer.kr/columns/ulsan-drug-treatment-conditional-suspension) (2026-08-13): 재판까지 가지 않고 끝나는 길이 있습니다. 다만 조건을 지켜야 유지됩니다.
-- [울산마약변호사 모발검사가 음성인데 왜 기소될까](https://ulsanlawyer.kr/columns/ulsan-drug-hair-test-negative-prosecution) (2026-08-09): 검사 결과가 음성이어도 기소되는 경우가 있습니다. 마약 사건에서 실제로 무엇이 증거가 되는지 정리했습니다.
-- [울산마약변호사 마약 초범도 실형이 나올 수 있을까? 재범 위험성과 선처자료 정리](https://ulsanlawyer.kr/columns/drug-first-offense-recidivism-risk-guide) (2026-06-24): 마약 사건은 초범이라도 방심하면 안 됩니다. 법원이 중요하게 보는 재범 위험성과 치료·재활 중심 선처자료를 정리했습니다.
-- [울산마약변호사 재판 중 또 마약을 한 구속 사건, 집행유예로 뒤집은 사례](https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-repeat-probation) (2026-06-24): 마약 재판을 받던 중 다시 마약을 해 구속된 사건에서, 변화 가능성과 치료 의지를 입증해 집행유예를 이끌어낸 사례입니다.
-- [울산변호사 재판 중 다시 마약을 한 경우, 집행유예를 이끌어낸 변호인의 전략](https://ulsanlawyer.kr/columns/drug-repeat-during-trial-probation) (2026-06-24): 마약 투약 혐의로 재판을 받던 중 다시 마약을 해 구속된 사건에서, 치료 의지와 재범 방지 구조를 입증해 집행유예를 받은 사례입니다.
 
 ### 상속
 
