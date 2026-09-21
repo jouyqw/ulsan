@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 19 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산형사전문변호사 무고죄 역고소, 언제 성립하고 언제 불리해질까</title>
+      <link>https://ulsanlawyer.kr/columns/criminal-false-accusation-counter</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-false-accusation-counter</guid>
+      <pubDate>Sun, 20 Sep 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>고소당한 사건이 무혐의로 끝났다고 해서 상대를 무고로 처벌할 수 있는 것은 아닙니다. 허위 사실과 고의가 인정되는 기준, 역고소를 넣는 시점, 성급한 역고소가 오히려 본 사건에 불리하게 작용하는 상황을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산성범죄전문변호사 통신매체이용음란, 어디까지 성립할까</title>
+      <link>https://ulsanlawyer.kr/columns/sex-crime-telecom-obscenity-scope</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-telecom-obscenity-scope</guid>
+      <pubDate>Sun, 20 Sep 2026 15:00:00 GMT</pubDate>
+      <category>성범죄 칼럼</category>
+      <description>메시지 한 줄로도 조사가 시작되는 통매음 사건에서 매체·도달·목적 세 요건이 어떻게 판단되는지, 첫 조사 진술에서 무심코 한 말이 왜 불리해지는지 정리했습니다.</description>
+    </item>
     <item>
       <title>울산상간소송변호사 기혼 사실 몰랐다는 주장, 법원은 무엇을 볼까</title>
       <link>https://ulsanlawyer.kr/columns/affair-unaware-of-marriage-defense</link>
@@ -230,22 +246,6 @@
       <pubDate>Tue, 18 Aug 2026 15:00:00 GMT</pubDate>
       <category>마약사건 칼럼</category>
       <description>텔레그램으로 엑스터시를 여러 차례 매수하고 투약해 구속된 초범 사건입니다. 처벌만이 아니라 치료가 필요하다는 구조를 만들어 징역 1년 6월에 집행유예 3년을 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 준강간 불송치, 블랙아웃과 항거불능은 다릅니다</title>
-      <link>https://ulsanlawyer.kr/columns/quasi-rape-blackout-non-prosecution</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/quasi-rape-blackout-non-prosecution</guid>
-      <pubDate>Mon, 17 Aug 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>술에 취해 기억이 나지 않는다는 진술만으로 준강간이 성립하지는 않습니다. 대법원이 정리한 블랙아웃 법리와 대화 기록을 근거로 경찰 단계에서 혐의없음 불송치를 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산민사변호사 빚을 다 갚았는데 경매가 들어왔다면, 청구이의로 막은 사례</title>
-      <link>https://ulsanlawyer.kr/columns/claim-objection-deposit</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/claim-objection-deposit</guid>
-      <pubDate>Sun, 16 Aug 2026 15:00:00 GMT</pubDate>
-      <category>민사소송 칼럼</category>
-      <description>판결금 전액을 갚으려 했지만 상대가 수령을 거부하고 강제경매를 신청한 사건입니다. 변제공탁과 청구이의의 소로 강제집행 불허 판결을 받아 아파트를 지켜낸 성공사례입니다.</description>
     </item>
   </channel>
 </rss>
