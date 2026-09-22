@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 20 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산이혼변호사 국제결혼 이혼, 어느 나라 법원에서 해야 할까</title>
+      <link>https://ulsanlawyer.kr/columns/divorce-international-jurisdiction</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-international-jurisdiction</guid>
+      <pubDate>Mon, 21 Sep 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>배우자가 외국인이거나 해외에 거주할 때 한국 법원에서 이혼할 수 있는지, 어느 나라 법이 적용되는지, 외국 송달과 공시송달은 어떻게 진행되는지 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산음주운전변호사 숙취운전, 다음날 아침 적발과 측정 시각의 쟁점</title>
+      <link>https://ulsanlawyer.kr/columns/dui-next-morning-hangover</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-next-morning-hangover</guid>
+      <pubDate>Mon, 21 Sep 2026 15:00:00 GMT</pubDate>
+      <category>음주운전 칼럼</category>
+      <description>전날 마신 술이 남은 상태로 아침에 운전하다 적발되는 사건은 수치 자체보다 운전 시각과 측정 시각의 간격이 결론을 좌우합니다. 상승기와 하강기의 차이, 다투어 볼 지점과 어려운 지점을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산형사전문변호사 무고죄 역고소, 언제 성립하고 언제 불리해질까</title>
       <link>https://ulsanlawyer.kr/columns/criminal-false-accusation-counter</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 20 Aug 2026 15:00:00 GMT</pubDate>
       <category>이혼소송 칼럼</category>
       <description>남편이 먼저 이혼소송을 제기했지만 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사건입니다. 통화 내역만으로 부정행위를 입증한 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산음주운전변호사 10년 내 3회 음주운전, 실형 위기에서 집행유예</title>
-      <link>https://ulsanlawyer.kr/columns/dui-repeat-third-probation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-repeat-third-probation</guid>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>이전 음주운전으로 벌금형을 받고 10년이 지나지 않아 다시 적발된 사건입니다. 재범 가중 규정이 적용되는 최악의 조건에서 징역 2년 집행유예 3년을 받은 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산마약변호사 엑스터시 8회 투약 초범, 집행유예와 치료명령</title>
-      <link>https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/drug-ecstasy-first-offense-probation</guid>
-      <pubDate>Tue, 18 Aug 2026 15:00:00 GMT</pubDate>
-      <category>마약사건 칼럼</category>
-      <description>텔레그램으로 엑스터시를 여러 차례 매수하고 투약해 구속된 초범 사건입니다. 처벌만이 아니라 치료가 필요하다는 구조를 만들어 징역 1년 6월에 집행유예 3년을 받은 성공사례입니다.</description>
     </item>
   </channel>
 </rss>
