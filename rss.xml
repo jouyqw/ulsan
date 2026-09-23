@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산상간소송변호사 이혼소송과 상간자 소송을 함께 할 때의 순서</title>
+      <link>https://ulsanlawyer.kr/columns/affair-joint-suit-with-divorce</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/affair-joint-suit-with-divorce</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
+      <category>상간자소송 칼럼</category>
+      <description>두 사건을 같이 낼지 나눠 낼지, 배우자와 상간자를 공동피고로 묶을 때의 차이, 위자료가 중복해서 인정되지 않는 이유와 합의 문구에서 생기는 문제를 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산민사변호사 공사대금 유치권, 언제 인정되고 언제 깨질까</title>
+      <link>https://ulsanlawyer.kr/columns/civil-lien-construction-payment</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/civil-lien-construction-payment</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
+      <category>민사소송 칼럼</category>
+      <description>공사를 마치고도 대금을 받지 못했을 때 유치권이 실제로 인정되는 조건과, 점유·변제기·배제 특약처럼 실무에서 먼저 무너지는 지점, 경매가 진행 중일 때 달라지는 결론까지 순서대로 정리했습니다.</description>
+    </item>
     <item>
       <title>울산이혼변호사 국제결혼 이혼, 어느 나라 법원에서 해야 할까</title>
       <link>https://ulsanlawyer.kr/columns/divorce-international-jurisdiction</link>
@@ -230,22 +246,6 @@
       <pubDate>Sat, 22 Aug 2026 15:00:00 GMT</pubDate>
       <category>음주운전 칼럼</category>
       <description>혈중알코올농도 0.132%로 약 20km를 운전해 벌금 800만 원 약식명령을 받은 사건입니다. 약식명령을 받았을 때 정식재판 청구 여부를 판단하는 기준을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산민사변호사 판결 받고도 못 받은 돈, 재산명시에서 채권압류까지</title>
-      <link>https://ulsanlawyer.kr/columns/debt-collection-attachment</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/debt-collection-attachment</guid>
-      <pubDate>Fri, 21 Aug 2026 15:00:00 GMT</pubDate>
-      <category>민사소송 칼럼</category>
-      <description>부당이득금 승소 판결을 받고도 채무자가 갚지 않던 사건입니다. 재산명시로 재산을 드러내고 재개발 현금청산금 채권을 압류·추심해 회수 경로를 확보한 성공사례입니다.</description>
-    </item>
-    <item>
-      <title>울산이혼변호사 상대가 먼저 낸 이혼소송, 반소로 뒤집은 사례</title>
-      <link>https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-counterclaim-alimony</guid>
-      <pubDate>Thu, 20 Aug 2026 15:00:00 GMT</pubDate>
-      <category>이혼소송 칼럼</category>
-      <description>남편이 먼저 이혼소송을 제기했지만 반소로 대응해 본소를 기각시키고 위자료 2,000만 원을 인정받은 사건입니다. 통화 내역만으로 부정행위를 입증한 성공사례입니다.</description>
     </item>
   </channel>
 </rss>
