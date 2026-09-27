@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 25 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산형사전문변호사 공무집행방해 주취, 감경될 때와 불리해질 때</title>
+      <link>https://ulsanlawyer.kr/columns/criminal-obstruction-intoxication</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-obstruction-intoxication</guid>
+      <pubDate>Sat, 26 Sep 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>술에 취한 상태에서 경찰관을 밀치거나 욕설을 한 사건에서 주취가 심신미약으로 받아들여지는 경우와, 오히려 재범 위험으로 읽혀 형이 무거워지는 경우를 나누어 정리했습니다. 조사 단계에서 무엇을 어떻게 진술할지도 함께 다룹니다.</description>
+    </item>
+    <item>
+      <title>울산성범죄전문변호사 미성년자 나이 착오, 몰랐다면 처벌을 피할 수 있을까</title>
+      <link>https://ulsanlawyer.kr/columns/sex-crime-minor-age-mistake</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-minor-age-mistake</guid>
+      <pubDate>Sat, 26 Sep 2026 15:00:00 GMT</pubDate>
+      <category>성범죄 칼럼</category>
+      <description>상대가 미성년자인 줄 몰랐다는 주장이 수사와 재판에서 어떻게 검토되는지, 미필적 인식이라는 기준과 나이를 속은 경우의 차이, 조사 전에 정리해 두어야 할 자료를 순서대로 짚었습니다.</description>
+    </item>
     <item>
       <title>울산민사변호사 상가 권리금 회수 방해, 손해배상이 인정되는 요건</title>
       <link>https://ulsanlawyer.kr/columns/civil-premium-recovery-obstruction</link>
@@ -230,22 +246,6 @@
       <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
       <category>상속 칼럼</category>
       <description>유류분 반환 청구에서 기간 제한, 생전 증여, 상속재산 목록, 부족액 계산, 형제 사이 조정 가능성을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산변호사사무실 선택 전, 직접 상담인지 확인해야 하는 이유</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-law-office-direct-consultation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-law-office-direct-consultation</guid>
-      <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-      <category>상담 안내</category>
-      <description>울산변호사사무실을 찾을 때 상담 주체, 사건 자료 검토 방식, 비용 안내, 담당 변호사 확인, 상담 후 진행 절차를 어떻게 봐야 하는지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산법률상담 처음 받을 때, 변호사사무실 방문 전 준비할 것</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-legal-consultation-first-visit</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-legal-consultation-first-visit</guid>
-      <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-      <category>상담 안내</category>
-      <description>울산법률상담을 앞두고 사건 경위, 증거자료, 원하는 결과, 비용과 상담 범위를 어떻게 정리해야 하는지 변호사사무실 방문 전 체크리스트로 설명합니다.</description>
     </item>
   </channel>
 </rss>
