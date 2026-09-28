@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 26 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산이혼변호사 혼인취소 사유, 이혼과 무엇이 달라질까</title>
+      <link>https://ulsanlawyer.kr/columns/divorce-marriage-annulment</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-marriage-annulment</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>혼인취소가 인정되는 사유와 3개월·6개월로 짧은 청구 기간, 혼인무효와의 차이, 그리고 취소되어도 지나간 혼인 기간이 없던 일이 되지 않는 이유를 이혼과 비교해 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산음주운전변호사 호흡측정 불복, 채혈 측정 요구는 언제 해야 할까</title>
+      <link>https://ulsanlawyer.kr/columns/dui-blood-test-request</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-blood-test-request</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
+      <category>음주운전 칼럼</category>
+      <description>호흡측정 수치에 승복할 수 없을 때 채혈을 요구할 수 있는 시점, 병원 동행부터 감정 결과 회신까지의 절차, 채혈이 오히려 불리해지는 경우와 단속 직후 기록해 둘 사항을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산형사전문변호사 공무집행방해 주취, 감경될 때와 불리해질 때</title>
       <link>https://ulsanlawyer.kr/columns/criminal-obstruction-intoxication</link>
@@ -230,22 +246,6 @@
       <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
       <category>상간자소송 칼럼</category>
       <description>상간녀·상간남 위자료 소송에서 부정행위 증거, 혼인 사실 인식, 위자료 감액 사유, 청구와 방어 전략을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산카촬죄변호사 카메라등이용촬영, 삭제하면 끝나는 사건일까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-camera-filming-lawyer-forensic</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-camera-filming-lawyer-forensic</guid>
-      <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>카촬죄로 불리는 카메라등이용촬영 사건에서 삭제, 포렌식, 촬영 의도, 유포 여부, 초기 진술 전 확인할 쟁점을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산상속변호사 유류분 청구 기간, 놓치기 전에 확인할 것</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-reserved-portion-deadline</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-reserved-portion-deadline</guid>
-      <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-      <category>상속 칼럼</category>
-      <description>유류분 반환 청구에서 기간 제한, 생전 증여, 상속재산 목록, 부족액 계산, 형제 사이 조정 가능성을 정리했습니다.</description>
     </item>
   </channel>
 </rss>
