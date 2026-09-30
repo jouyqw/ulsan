@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산음주운전변호사 음주운전 차량 몰수, 어떤 경우에 검토될까</title>
+      <link>https://ulsanlawyer.kr/columns/dui-vehicle-confiscation</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-vehicle-confiscation</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+      <category>음주운전 칼럼</category>
+      <description>차량 몰수가 거론되는 사건의 특징, 수사 단계의 압수와 판결 단계의 몰수가 어떻게 다른지, 명의와 할부·리스 관계에서 결과가 갈리는 이유, 그리고 다툴 때 준비할 자료를 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산성범죄전문변호사 피해자 국선변호사 합의, 연락은 어디로 해야 할까</title>
+      <link>https://ulsanlawyer.kr/columns/sex-crime-victim-counsel-settlement</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-victim-counsel-settlement</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+      <category>성범죄 칼럼</category>
+      <description>피해자에게 국선변호사가 선정되면 합의 창구가 그쪽으로 고정됩니다. 의사를 전달하는 정식 경로, 직접 연락이 금지되는 이유, 거절당했을 때 남는 선택지와 합의서에 담아야 할 문구를 정리했습니다.</description>
+    </item>
     <item>
       <title>울산민사변호사 소멸시효 중단, 완성 직전에 쓸 수 있는 수단</title>
       <link>https://ulsanlawyer.kr/columns/civil-prescription-interruption</link>
@@ -230,22 +246,6 @@
       <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
       <category>이혼소송 칼럼</category>
       <description>혼인신고 없이 함께 살던 관계가 사실혼으로 인정되는 세 가지 요건과, 일방적으로 관계를 끝낸 경우 위자료·재산분할이 어디까지 인정되는지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산마약변호사 대마 초범 기소유예, 가능한 조건과 준비할 자료</title>
-      <link>https://ulsanlawyer.kr/columns/drug-cannabis-first-offense-suspension</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/drug-cannabis-first-offense-suspension</guid>
-      <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
-      <category>마약사건 칼럼</category>
-      <description>대마 사건에서 기소유예가 검토되는 조건과 검찰이 실제로 보는 기준, 교육·치료 조건부 처분이 붙는 경우, 그리고 초범이 조사 단계에서 미리 준비해 두어야 할 자료를 순서대로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산음주운전변호사 위드마크 공식, 유리할 때와 불리할 때</title>
-      <link>https://ulsanlawyer.kr/columns/dui-widmark-formula</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-widmark-formula</guid>
-      <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>마신 술로 혈중알코올농도를 역산하는 추산 방식이 언제 방어 논리가 되고 언제 기소 근거가 되는지, 대입되는 변수와 다툴 때 확보해야 할 자료를 정리했습니다.</description>
     </item>
   </channel>
 </rss>
