@@ -4,6 +4,7 @@ description: "부당이득금 승소 판결을 받고도 채무자가 갚지 않
 category: "민사소송 칼럼"
 date: "2026-08-22"
 slug: "debt-collection-attachment"
+result: "채권압류"
 image: "assets/images/success/debt-collection-attachment-column.webp"
 imageAlt: "채권압류 및 추심명령 결정문"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

@@ -4,6 +4,7 @@ description: "혈중알코올농도 0.132%로 약 20km를 운전해 벌금 800�
 category: "음주운전 칼럼"
 date: "2026-08-23"
 slug: "dui-summary-order-fine"
+result: "벌금형"
 image: "assets/images/success/dui-summary-order-fine-column.webp"
 imageAlt: "울산 음주운전 벌금 약식명령"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

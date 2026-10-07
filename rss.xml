@@ -5,8 +5,16 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>동종 음주운전 전력에 사고까지 발생했지만 집행유예로 방어한 사례</title>
+      <link>https://ulsanlawyer.kr/cases/dui-repeat-accident-probation</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/cases/dui-repeat-accident-probation</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 GMT</pubDate>
+      <category>음주운전·교통사고</category>
+      <description>동종 음주운전 전력이 있는 상태에서 다시 음주운전을 하고 사고까지 발생해 실형 위험이 높았던 사건에서, 징역 1년·집행유예 2년을 선고받은 성공사례입니다.</description>
+    </item>
     <item>
       <title>울산카촬죄전문변호사 상담, 휴대전화 포렌식과 첫 조사 준비</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-camera-filming-specialist-lawyer-first-investigation</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
       <category>마약사건 칼럼</category>
       <description>압수된 휴대폰의 디지털포렌식이 실제로 어떤 순서로 진행되는지, 혐의와 무관한 정보는 어디까지 볼 수 있는지, 그리고 선별 과정에 참여할 권리를 언제 어떻게 행사해야 하는지를 단계별로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산상간소송변호사 이혼소송과 상간자 소송을 함께 할 때의 순서</title>
-      <link>https://ulsanlawyer.kr/columns/affair-joint-suit-with-divorce</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/affair-joint-suit-with-divorce</guid>
-      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
-      <category>상간자소송 칼럼</category>
-      <description>두 사건을 같이 낼지 나눠 낼지, 배우자와 상간자를 공동피고로 묶을 때의 차이, 위자료가 중복해서 인정되지 않는 이유와 합의 문구에서 생기는 문제를 순서대로 정리했습니다.</description>
     </item>
   </channel>
 </rss>

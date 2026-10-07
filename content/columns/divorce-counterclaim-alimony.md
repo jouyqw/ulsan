@@ -4,6 +4,7 @@ description: "남편이 먼저 이혼소송을 제기했지만 반소로 대응�
 category: "이혼소송 칼럼"
 date: "2026-08-21"
 slug: "divorce-counterclaim-alimony"
+result: "본소기각·반소인용"
 image: "assets/images/success/divorce-counterclaim-alimony-column.webp"
 imageAlt: "울산 이혼 반소 인용 위자료 판결문"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

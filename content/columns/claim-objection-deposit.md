@@ -4,6 +4,7 @@ description: "판결금 전액을 갚으려 했지만 상대가 수령을 거부
 category: "민사소송 칼럼"
 date: "2026-08-17"
 slug: "claim-objection-deposit"
+result: "강제집행 불허"
 image: "assets/images/success/claim-objection-deposit-column.webp"
 imageAlt: "울산 청구이의의 소 강제집행 불허 판결문"
 consultImage: "assets/images/lawyer-portrait-gray.webp"

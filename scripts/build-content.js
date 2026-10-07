@@ -972,6 +972,8 @@ function homepageColumnCards(items) {
 }
 
 function resultFromCaseTitle(title) {
+  if (title.includes('기소유예')) return '기소유예';
+  if (title.includes('무죄')) return '무죄';
   if (title.includes('불송치')) return '불송치';
   if (title.includes('불기소') || title.includes('무혐의') || title.includes('혐의없음')) return '무혐의';
   if (title.includes('집행유예')) return '집행유예';
@@ -1003,7 +1005,7 @@ function columnSuccessCards(columns, cases) {
       title: item.title,
       image: item.image,
       imageAlt: item.imageAlt || item.title,
-      result: resultFromCaseTitle(item.title),
+      result: item.result || resultFromCaseTitle(item.title),
       category: categoryGroup(item.category).label,
       href: item.slug,
       date: item.date || '',
