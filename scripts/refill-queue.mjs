@@ -170,6 +170,12 @@ function validate(topic, date, seenTitles, seenSlugs) {
   const faq = faqItemCount(b);
   if (faq < 4) e.push(`"질문 | 답변" 헤더의 :::table 이 없거나 항목이 ${faq}개입니다 (최소 4개 — FAQ 구조화 데이터의 근거)`);
 
+  // 변호사 사진이 빠지면 글 아래 상담 안내가 통째로 안 그려진다.
+  // 2026-10-08 보충분 6편 중 1편에 consultImage 가 없었는데 검사를 그냥 통과했다.
+  if (!d.consultImage) e.push('consultImage 가 없습니다 (변호사 사진이 빠지면 상담 안내가 안 나옵니다)');
+  else if (!fs.existsSync(path.join(ROOT, d.consultImage))) e.push(`consultImage 파일이 없습니다: ${d.consultImage}`);
+  if (!d.consultImageAlt) e.push('consultImageAlt 가 없습니다');
+
   for (const w of BANNED) if (b.includes(w) || String(d.title).includes(w) || String(d.description).includes(w)) e.push(`금지 표현: ${w}`);
 
   return e.map((x) => `${file}: ${x}`);
@@ -200,6 +206,8 @@ description: "..."                   # 80~160자. 이 글에서 실제로 다루
 category: "${topic.category}"
 date: "${date}"
 slug: "${topic.slug}"
+consultImage: "assets/images/lawyer-portrait-gray.webp"      # 이 두 줄을 반드시 넣는다.
+consultImageAlt: "강성수 변호사 프로필 사진"                      # 빠지면 글 아래 상담 안내가 안 그려진다
 keywords: ["울산○○변호사", "...", "...", "..."]   # 4~6개, 울산 지역 키워드 포함
 summary: "..."                       # 30~120자. 목록 카드에 보일 한 줄
 
