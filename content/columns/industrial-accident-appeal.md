@@ -2,7 +2,7 @@
 title: "울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지"
 description: "산재 불승인 통지를 받은 뒤 밟게 되는 심사청구와 재심사청구, 행정소송의 순서를 정리했습니다. 각 단계의 90일 기한과 결정까지 걸리는 기간, 단계를 건너뛸 수 있는 경우, 뒤집히는 사건과 그대로 유지되는 사건이 갈리는 지점을 함께 짚었습니다."
 category: "산재 칼럼"
-date: "2026-10-15"
+date: 2026-10-16
 slug: "industrial-accident-appeal"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

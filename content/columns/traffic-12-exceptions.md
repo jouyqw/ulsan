@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 12대 중과실, 보험으로 끝나지 않는 사고"
 description: "종합보험에 가입해도 형사절차가 그대로 진행되는 12대 중과실의 범위와, 행위와 사고 사이의 인과관계·상해 정도·측정 자료에서 결론이 갈리는 지점을 조사 준비 순서에 맞춰 정리했습니다."
 category: "교통사고 칼럼"
-date: "2026-10-11"
+date: 2026-10-12
 slug: "traffic-12-exceptions"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사"

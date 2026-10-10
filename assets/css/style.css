@@ -4518,6 +4518,22 @@ body {
     text-underline-offset: 5px;
 }
 
+/* 본문 강조 — ::형광펜:: 과 ;;강조색;; (2026-10-10)
+   법률 글은 문단이 길어 굵게 하나로는 눈이 쉴 곳이 생기지 않는다.
+   형광펜은 기한·숫자처럼 놓치면 안 되는 것에, 강조색은 불리하게 작용하는
+   사정처럼 주의가 필요한 말에 쓴다. 많이 쓰면 아무것도 강조되지 않는다. */
+.article-mark {
+    background: linear-gradient(transparent 58%, rgba(245, 196, 0, 0.45) 58%);
+    padding: 0 2px;
+    color: inherit;
+    font-weight: 600;
+}
+
+.article-accent {
+    color: #c0392b;
+    font-weight: 700;
+}
+
 .article-table-wrap {
     margin: 34px 0;
     overflow-x: auto;

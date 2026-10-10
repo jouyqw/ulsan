@@ -2,7 +2,7 @@
 title: "울산상속변호사 한정승인 절차, 빚이 얼마인지 모를 때"
 description: "상속채무 규모를 모르는 상태에서 쓰는 한정승인의 3개월 기산점과 기간 연장, 특별한정승인이 인정되는 조건, 신고 수리 후 공고·채권신고·배당변제로 이어지는 청산 절차를 순서대로 정리했습니다."
 category: "상속 칼럼"
-date: "2026-10-13"
+date: 2026-10-14
 slug: "inheritance-limited-acceptance"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사"

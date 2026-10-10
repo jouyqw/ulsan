@@ -2,7 +2,7 @@
 title: "울산상속변호사 상속재산분할협의, 깨지는 지점과 심판청구 기준"
 description: "상속인 전원 합의가 왜 어긋나는지, 어느 시점에 가정법원 분할 심판으로 넘어가야 하는지, 기여분과 특별수익을 주장할 때 실제로 필요한 자료가 무엇인지 순서대로 정리했습니다."
 category: "상속 칼럼"
-date: "2026-10-14"
+date: 2026-10-15
 slug: "inheritance-division-agreement"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

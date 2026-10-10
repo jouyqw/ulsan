@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 뺑소니 성립 기준, 현장을 떠났다면 모두 해당될까"
 description: "사고 후 현장을 벗어난 사정이 곧바로 도주로 평가되지는 않습니다. 구호조치 의무의 범위, 도주 고의를 판단하는 기준, 사고후미조치와 도주치상이 갈리는 지점을 조사 준비 순서에 맞춰 정리했습니다."
 category: "교통사고 칼럼"
-date: "2026-10-13"
+date: 2026-10-14
 slug: "traffic-hit-and-run-criteria"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사"

@@ -214,6 +214,12 @@ summary: "..."                       # 30~120자. 목록 카드에 보일 한 �
 ## 본문 규칙
 - 마크다운과 ::: 블록만 쓴다. HTML 태그 금지. H1(#) 금지 — \`## 소제목\` 부터 쓴다.
 - 3,200~4,500자. \`## 소제목\` 6~8개.
+- **강조 표기 — 눈이 쉴 곳을 만든다. 다만 많이 쓰면 아무것도 강조되지 않는다.**
+  \`**굵게**\`      결론·판단 기준. 문단마다 한 번 정도
+  \`==밑줄==\`      글 전체에서 **한두 번만**. 가장 중요한 한 줄에
+  \`::형광펜::\`    놓치면 안 되는 기한·숫자(예: ::3개월::, ::14일 이내::). 3~5곳
+  \`;;강조색;;\`    불리하게 작용하는 사정이나 주의할 말. 2~3곳
+  네 가지를 한 문장에 겹쳐 쓰지 마라. 소제목에는 쓰지 않는다.
 - 쓸 수 있는 블록은 이것뿐이다: ${BLOCKS.map((b) => ':::' + b).join(', ')}
   여는 줄은 \`:::이름\`, 닫는 줄은 \`:::\` 이다. 반드시 짝을 맞춘다.
 - **:::summary 로 시작하고 :::cta 로 끝낸다.**
@@ -344,10 +350,13 @@ all.forEach((c) => {
   if (d > TODAY) perDate.set(d, (perDate.get(d) || 0) + 1);
 });
 
+// 주말은 건너뛴다. 평일에만 하루 PER_DAY 편.
+const isWeekend = (iso) => [0, 6].includes(new Date(`${iso}T00:00:00Z`).getUTCDay());
+
 const plan = [];
 let day = addDays(TODAY, 1);
 for (const topic of targets) {
-  while ((perDate.get(day) || 0) >= PER_DAY) day = addDays(day, 1);
+  while (isWeekend(day) || (perDate.get(day) || 0) >= PER_DAY) day = addDays(day, 1);
   perDate.set(day, (perDate.get(day) || 0) + 1);
   plan.push({ topic, date: day });
 }

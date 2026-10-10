@@ -2,7 +2,7 @@
 title: "울산부동산변호사 명도소송 순서, 차임 연체부터 인도집행까지"
 description: "차임이 밀렸을 때 계약 해지 통보에서 점유이전금지가처분, 명도소송, 인도집행까지 이어지는 순서와 각 단계에서 놓치면 처음부터 다시 해야 하는 지점을 정리했습니다."
 category: "부동산 칼럼"
-date: "2026-10-16"
+date: 2026-10-19
 slug: "eviction-lawsuit-order"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

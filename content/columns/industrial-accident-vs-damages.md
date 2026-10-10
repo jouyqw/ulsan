@@ -2,7 +2,7 @@
 title: "울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까"
 description: "산재보험 급여를 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와 그 요건, 휴업급여·장해급여처럼 공제되는 항목과 위자료처럼 남는 항목, 과실상계와 공제의 순서를 정리했습니다."
 category: "산재 칼럼"
-date: "2026-10-16"
+date: 2026-10-19
 slug: "industrial-accident-vs-damages"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

@@ -347,10 +347,23 @@ function markdownToHtml(markdown) {
   return html.join('\n');
 }
 
+/**
+ * 본문 강조 표기.
+ *
+ * 법률 글은 문단이 길어 눈이 쉴 곳이 없다. 읽는 사람이 "여기가 중요하다" 를
+ * 알아보게 하려면 굵게 하나로는 부족해서 표기를 늘렸다(2026-10-10).
+ *   **굵게**        결론·판단 기준
+ *   ==밑줄==        한 글에 한두 번, 가장 중요한 한 줄
+ *   ::형광펜::      놓치면 안 되는 기한·숫자
+ *   ;;강조색;;      주의가 필요한 말(불리하게 작용하는 사정 등)
+ * 많이 쓰면 아무것도 강조되지 않는다. 프롬프트에서 개수를 제한한다.
+ */
 function inlineMarkdown(text) {
   return escapeHtml(text)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/==(.+?)==/g, '<span class="article-underline">$1</span>')
+    .replace(/::(.+?)::/g, '<mark class="article-mark">$1</mark>')
+    .replace(/;;(.+?);;/g, '<span class="article-accent">$1</span>')
     .replace(/`(.+?)`/g, '<code>$1</code>');
 }
 
@@ -359,6 +372,8 @@ function plainText(value = '') {
   return String(value)
     .replace(/\*\*(.+?)\*\*/g, '$1')
     .replace(/==(.+?)==/g, '$1')
+    .replace(/::(.+?)::/g, '$1')
+    .replace(/;;(.+?);;/g, '$1')
     .replace(/`(.+?)`/g, '$1')
     .replace(/<[^>]+>/g, '')
     .replace(/\s+/g, ' ')

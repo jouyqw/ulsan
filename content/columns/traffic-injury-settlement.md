@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 합의금 산정 기준, 치료비·휴업손해·위자료"
 description: "교통사고 부상 합의금이 치료비·휴업손해·위자료 세 항목으로 어떻게 계산되는지, 과실상계와 기왕증 공제에서 금액이 줄어드는 단계, 보험사 약관 기준과 법원 기준이 벌어지는 지점을 정리했습니다."
 category: "교통사고 칼럼"
-date: "2026-10-12"
+date: 2026-10-13
 slug: "traffic-injury-settlement"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사"

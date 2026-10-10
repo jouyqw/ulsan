@@ -2,7 +2,7 @@
 title: "울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까"
 description: "사고 산재와 질병 산재에서 인정 기준이 어떻게 달라지는지, 출퇴근 재해가 인정되는 경로와 방법의 범위, 불승인 통지가 나오는 실제 이유와 이의 절차를 순서대로 정리했습니다."
 category: "산재 칼럼"
-date: "2026-10-15"
+date: 2026-10-16
 slug: "industrial-accident-recognition"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

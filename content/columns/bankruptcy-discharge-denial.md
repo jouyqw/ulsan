@@ -2,7 +2,7 @@
 title: "울산파산 면책불허가 사유, 재산 처분과 도박 이력은 어떻게 다툴까"
 description: "파산을 신청한 뒤 면책이 거절되는 사정이 어떤 것인지 유형별로 정리하고, 신청 전에 부동산이나 보증금을 정리한 사건과 사행성 채무가 섞인 사건에서 관재인 조사와 면책심문을 어떤 순서로 준비하는지 설명했습니다."
 category: "개인회생 칼럼"
-date: "2026-10-11"
+date: 2026-10-12
 slug: "bankruptcy-discharge-denial"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사"

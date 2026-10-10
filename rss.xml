@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산개인회생 금지명령과 중지명령, 추심은 언제 멈출까</title>
+      <link>https://ulsanlawyer.kr/columns/rehab-inhibition-order</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/rehab-inhibition-order</guid>
+      <pubDate>Fri, 09 Oct 2026 15:00:00 GMT</pubDate>
+      <category>개인회생 칼럼</category>
+      <description>신청 직후 추심을 멈추는 금지명령과 이미 진행 중인 집행을 멈추는 중지명령의 차이, 신청 시점을 놓치면 생기는 문제, 급여 압류가 이미 들어온 경우의 대응 순서를 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산개인회생 변제기간 3년과 5년, 변제금은 어떻게 정해질까</title>
+      <link>https://ulsanlawyer.kr/columns/rehab-repayment-period</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/rehab-repayment-period</guid>
+      <pubDate>Fri, 09 Oct 2026 15:00:00 GMT</pubDate>
+      <category>개인회생 칼럼</category>
+      <description>변제기간이 3년에서 멈추는 사건과 5년까지 늘어나는 사건의 차이, 생계비로 공제되는 범위와 추가로 인정받을 수 있는 항목, 인가 후 소득이 줄었을 때의 변제계획 변경을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산개인회생 신청 자격, 소득이 불규칙해도 될까</title>
       <link>https://ulsanlawyer.kr/columns/rehab-eligibility-check</link>
@@ -230,22 +246,6 @@
       <pubDate>Fri, 25 Sep 2026 15:00:00 GMT</pubDate>
       <category>이혼소송 칼럼</category>
       <description>양육비를 받지 못할 때 쓸 수 있는 절차를 순서대로 정리했습니다. 집행권원 확인, 직접지급명령과 압류, 이행명령과 과태료, 3기 이상 미지급일 때의 감치, 그 이후의 제재까지 단계별로 설명합니다.</description>
-    </item>
-    <item>
-      <title>울산음주운전변호사 차 키를 건넨 사람, 음주운전 방조는 어디까지일까</title>
-      <link>https://ulsanlawyer.kr/columns/dui-aiding-providing-keys</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-aiding-providing-keys</guid>
-      <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>술자리에서 차 키를 건넸거나 옆자리에 탔다는 이유로 조사 연락을 받는 경우가 있습니다. 방조가 성립하는 세 가지 요건과 단순 동승과 갈리는 지점, 조사 전에 정리해야 할 자료를 순서대로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 성적 목적 다중이용장소 침입, 목적은 어떻게 판단될까</title>
-      <link>https://ulsanlawyer.kr/columns/sex-crime-restroom-intrusion</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-restroom-intrusion</guid>
-      <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>화장실에 들어간 사실은 다툼이 없는데 왜 들어갔는지가 쟁점이 되는 사건입니다. 성적 목적이 추단되는 방식과 그에 맞서 확보해야 할 자료, 첫 조사 전에 정리할 순서를 정리했습니다.</description>
     </item>
   </channel>
 </rss>

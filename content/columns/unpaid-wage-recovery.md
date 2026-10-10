@@ -2,7 +2,7 @@
 title: "울산노동변호사 체불임금 받는 순서, 노동청 진정과 민사소송"
 description: "임금을 못 받았을 때 노동청 진정으로 할 수 있는 일과 할 수 없는 일, 민사소송으로 넘어가는 시점, 사업주가 폐업한 경우 대지급금까지 받는 순서대로 정리했습니다."
 category: "노동 칼럼"
-date: "2026-10-17"
+date: 2026-10-20
 slug: "unpaid-wage-recovery"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

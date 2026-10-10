@@ -2,7 +2,7 @@
 title: "울산부동산변호사 전세사기 대응, 임차권등기·경매·형사고소의 순서"
 description: "보증금을 떼일 상황에서 먼저 확인할 등기부와 세금 체납, 임차권등기를 먼저 하는 이유, 경매 배당과 형사고소가 각각 어디까지 효과를 내는지 선후를 정리했습니다."
 category: "부동산 칼럼"
-date: "2026-10-17"
+date: 2026-10-20
 slug: "jeonse-fraud-response"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사 프로필 사진"

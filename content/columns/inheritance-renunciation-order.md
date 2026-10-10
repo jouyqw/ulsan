@@ -2,7 +2,7 @@
 title: "울산상속변호사 상속포기 순위, 빚은 어디까지 넘어갈까"
 description: "상속포기를 하면 채무가 다음 순위 상속인에게 이동합니다. 자녀에서 손자녀, 부모, 형제자매로 번지는 경로와 배우자만 남는 경우의 처리, 가족이 한 번에 정리할 때의 조합과 순서를 정리했습니다."
 category: "상속 칼럼"
-date: "2026-10-14"
+date: 2026-10-15
 slug: "inheritance-renunciation-order"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사"

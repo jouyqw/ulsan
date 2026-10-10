@@ -2,7 +2,7 @@
 title: "울산교통사고변호사 과실비율, 뒤집을 수 있는 자료와 다투는 순서"
 description: "보험사가 통보한 과실비율이 어떤 근거로 정해지는지, 수정요소와 객관 자료로 조정할 수 있는 지점은 어디인지, 블랙박스가 없을 때 사고 경위를 복원하는 방법까지 순서대로 정리했습니다."
 category: "교통사고 칼럼"
-date: "2026-10-12"
+date: 2026-10-13
 slug: "traffic-fault-ratio-dispute"
 consultImage: "assets/images/lawyer-portrait-gray.webp"
 consultImageAlt: "강성수 변호사"
