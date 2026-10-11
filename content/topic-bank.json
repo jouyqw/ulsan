@@ -582,6 +582,41 @@
       "prefix": "울산교통사고변호사",
       "keyword": "보험으로 안 끝나는 때",
       "angle": "형사합의와 보험 처리가 다른 지점. 12대 중과실과 형사처벌"
+    },
+    {
+      "slug": "ulsan-criminal-specialist-first-summons",
+      "category": "형사사건 칼럼",
+      "prefix": "울산형사전문변호사",
+      "keyword": "첫 출석요구",
+      "angle": "출석요구서를 받은 날부터 조사일까지 무엇을 정리하는지. 진술 범위를 미리 정하는 순서"
+    },
+    {
+      "slug": "ulsan-criminal-specialist-warrant-review",
+      "category": "형사사건 칼럼",
+      "prefix": "울산형사전문변호사",
+      "keyword": "구속영장 심사",
+      "angle": "영장실질심사에서 법원이 보는 것과 준비할 자료. 체포적부심과 갈리는 지점"
+    },
+    {
+      "slug": "ulsan-criminal-specialist-settlement-timing",
+      "category": "형사사건 칼럼",
+      "prefix": "울산형사전문변호사",
+      "keyword": "합의 시점",
+      "angle": "수사 단계와 재판 단계에서 합의가 갖는 무게가 다른 이유. 공탁을 쓰는 판단"
+    },
+    {
+      "slug": "ulsan-sex-crime-specialist-digital-evidence",
+      "category": "성범죄 칼럼",
+      "prefix": "울산성범죄전문변호사",
+      "keyword": "디지털 증거",
+      "angle": "휴대전화 포렌식 범위와 임의제출의 한계. 분석 결과를 받아 보는 절차"
+    },
+    {
+      "slug": "ulsan-dui-specialist-level-standard",
+      "category": "음주운전 칼럼",
+      "prefix": "울산음주운전전문변호사",
+      "keyword": "수치별 기준",
+      "angle": "혈중알코올농도 구간별 처벌과 면허 처분. 측정 거부가 더 불리해지는 지점"
     }
   ]
 }
