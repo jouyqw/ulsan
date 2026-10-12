@@ -32,10 +32,17 @@
 
 ### 기타
 
+- [울산파산 면책불허가 사유, 재산 처분과 도박 이력은 어떻게 다툴까](https://ulsanlawyer.kr/columns/bankruptcy-discharge-denial) (2026-10-12): 파산 면책이 거절되는 사유를 유형별로 정리하고, 재산을 처분했거나 도박 이력이 있는 사건에서 소명의 방향을 설명했습니다.
 - [울산개인회생 금지명령과 중지명령, 추심은 언제 멈출까](https://ulsanlawyer.kr/columns/rehab-inhibition-order) (2026-10-10): 개인회생 신청과 함께 쓰는 금지명령과 중지명령의 차이, 신청 시점, 급여 압류가 이미 들어왔을 때의 대응을 정리했습니다.
 - [울산개인회생 변제기간 3년과 5년, 변제금은 어떻게 정해질까](https://ulsanlawyer.kr/columns/rehab-repayment-period) (2026-10-10): 개인회생 변제기간이 3년과 5년으로 갈리는 기준, 생계비 공제 범위, 변제금이 줄어드는 사정을 순서대로 정리했습니다.
 - [울산개인회생 신청 자격, 소득이 불규칙해도 될까](https://ulsanlawyer.kr/columns/rehab-eligibility-check) (2026-10-09): 개인회생을 신청할 수 있는 조건과 못 하는 경우, 소득이 불규칙하거나 사업소득일 때 변제금이 잡히는 기준을 정리했습니다.
 - [울산개인회생과 파산, 소득·재산·채무로 갈리는 선택 기준](https://ulsanlawyer.kr/columns/rehab-vs-bankruptcy) (2026-10-09): 개인회생과 파산 중 무엇을 고를지 가르는 기준을 소득·재산·채무 구조 세 축으로 나누어 정리했습니다.
+
+### 교통사고
+
+- [울산교통사고변호사 12대 중과실, 보험으로 끝나지 않는 사고](https://ulsanlawyer.kr/columns/traffic-12-exceptions) (2026-10-12): 종합보험에 들어 있어도 12대 중과실에 해당하면 형사절차가 따로 진행됩니다. 어디까지가 해당되고 무엇이 갈림길인지 정리했습니다.
+- [울산교통사고변호사 상담 전, 사고 직후 먼저 정리할 7가지](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-lawyer-first-response) (2026-10-05): 교통사고 사건은 사고 직후 확보한 영상과 진술, 피해 회복 순서가 중요합니다. 경찰 연락을 받은 뒤 무엇부터 준비해야 하는지 정리했습니다.
+- [울산교통사고변호사 사망 사고, 형사책임과 피해 회복을 함께 본 사례](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-death-victim-family-settlement) (2026-09-13): 교통사고 사망 사건은 형사책임만 보는 문제가 아닙니다. 사고 원인, 주의의무, 보험 처리, 유족과의 소통을 같은 순서 안에서 정리해야 합니다.
 
 ### 성범죄
 
@@ -118,11 +125,6 @@
 - [울산변호사사무실 선택 전, 직접 상담인지 확인해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-law-office-direct-consultation) (2026-09-14): 변호사사무실 선택에서는 누가 상담하고, 누가 기록을 보고, 누가 사건을 진행하는지가 중요합니다. 직접 상담 여부를 먼저 확인해야 합니다.
 - [울산법률상담 처음 받을 때, 변호사사무실 방문 전 준비할 것](https://ulsanlawyer.kr/columns/ulsan-legal-consultation-first-visit) (2026-09-14): 법률상담은 자료가 정리될수록 정확해집니다. 방문 전 사건 경위, 증거, 원하는 결과를 나누어 준비하면 상담의 밀도가 달라집니다.
 - [사무장·상담실장 없는 직접 상담이 중요한 이유](https://ulsanlawyer.kr/columns/direct-consultation) (2026-06-23): 초기 법률 판단을 누가 하느냐에 따라 대응 방향이 달라질 수 있습니다.
-
-### 교통사고
-
-- [울산교통사고변호사 상담 전, 사고 직후 먼저 정리할 7가지](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-lawyer-first-response) (2026-10-05): 교통사고 사건은 사고 직후 확보한 영상과 진술, 피해 회복 순서가 중요합니다. 경찰 연락을 받은 뒤 무엇부터 준비해야 하는지 정리했습니다.
-- [울산교통사고변호사 사망 사고, 형사책임과 피해 회복을 함께 본 사례](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-death-victim-family-settlement) (2026-09-13): 교통사고 사망 사건은 형사책임만 보는 문제가 아닙니다. 사고 원인, 주의의무, 보험 처리, 유족과의 소통을 같은 순서 안에서 정리해야 합니다.
 
 ### 상간소송
 
