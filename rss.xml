@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산교통사고변호사 과실비율, 뒤집을 수 있는 자료와 다투는 순서</title>
+      <link>https://ulsanlawyer.kr/columns/traffic-fault-ratio-dispute</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/traffic-fault-ratio-dispute</guid>
+      <pubDate>Mon, 12 Oct 2026 15:00:00 GMT</pubDate>
+      <category>교통사고 칼럼</category>
+      <description>보험사가 통보한 과실비율이 어떤 근거로 정해지는지, 수정요소와 객관 자료로 조정할 수 있는 지점은 어디인지, 블랙박스가 없을 때 사고 경위를 복원하는 방법까지 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산교통사고변호사 합의금 산정 기준, 치료비·휴업손해·위자료</title>
+      <link>https://ulsanlawyer.kr/columns/traffic-injury-settlement</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/traffic-injury-settlement</guid>
+      <pubDate>Mon, 12 Oct 2026 15:00:00 GMT</pubDate>
+      <category>교통사고 칼럼</category>
+      <description>교통사고 부상 합의금이 치료비·휴업손해·위자료 세 항목으로 어떻게 계산되는지, 과실상계와 기왕증 공제에서 금액이 줄어드는 단계, 보험사 약관 기준과 법원 기준이 벌어지는 지점을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산파산 면책불허가 사유, 재산 처분과 도박 이력은 어떻게 다툴까</title>
       <link>https://ulsanlawyer.kr/columns/bankruptcy-discharge-denial</link>
@@ -230,22 +246,6 @@
       <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
       <category>음주운전 칼럼</category>
       <description>호흡측정 수치에 승복할 수 없을 때 채혈을 요구할 수 있는 시점, 병원 동행부터 감정 결과 회신까지의 절차, 채혈이 오히려 불리해지는 경우와 단속 직후 기록해 둘 사항을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 공무집행방해 주취, 감경될 때와 불리해질 때</title>
-      <link>https://ulsanlawyer.kr/columns/criminal-obstruction-intoxication</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-obstruction-intoxication</guid>
-      <pubDate>Sat, 26 Sep 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>술에 취한 상태에서 경찰관을 밀치거나 욕설을 한 사건에서 주취가 심신미약으로 받아들여지는 경우와, 오히려 재범 위험으로 읽혀 형이 무거워지는 경우를 나누어 정리했습니다. 조사 단계에서 무엇을 어떻게 진술할지도 함께 다룹니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 미성년자 나이 착오, 몰랐다면 처벌을 피할 수 있을까</title>
-      <link>https://ulsanlawyer.kr/columns/sex-crime-minor-age-mistake</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-minor-age-mistake</guid>
-      <pubDate>Sat, 26 Sep 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>상대가 미성년자인 줄 몰랐다는 주장이 수사와 재판에서 어떻게 검토되는지, 미필적 인식이라는 기준과 나이를 속은 경우의 차이, 조사 전에 정리해 두어야 할 자료를 순서대로 짚었습니다.</description>
     </item>
   </channel>
 </rss>
