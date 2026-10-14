@@ -30,8 +30,16 @@
 
 ## 분야별 칼럼
 
+### 상속
+
+- [울산상속변호사 한정승인 절차, 빚이 얼마인지 모를 때](https://ulsanlawyer.kr/columns/inheritance-limited-acceptance) (2026-10-14): 돌아가신 분의 빚 규모를 모를 때 선택하는 한정승인. 3개월 기산점과 특별한정승인, 신고 뒤에 남는 청산 절차를 정리했습니다.
+- [울산상속변호사 상담 전, 가족 간 상속분쟁에서 먼저 확인할 자료](https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-family-dispute) (2026-10-05): 상속분쟁은 감정적인 주장보다 상속인, 재산, 채무, 생전 증여와 기여 자료를 먼저 확정해야 해결의 출발점을 잡을 수 있습니다.
+- [울산상속변호사 유류분 청구 기간, 놓치기 전에 확인할 것](https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-reserved-portion-deadline) (2026-09-14): 유류분은 억울하다는 마음만으로 인정되지 않습니다. 기간 제한과 생전 증여 자료, 부족액 계산을 먼저 확인해야 합니다.
+- [울산상속변호사 상속재산분할과 유류분, 가족 다툼을 조정한 사례](https://ulsanlawyer.kr/columns/ulsan-inheritance-division-reserved-portion-case) (2026-09-13): 상속 분쟁은 가족 감정과 돈의 흐름이 함께 얽힙니다. 재산 목록, 증여 내역, 특별수익, 기여분을 자료로 나누어야 조정 가능성이 열립니다.
+
 ### 교통사고
 
+- [울산교통사고변호사 뺑소니 성립 기준, 현장을 떠났다면 모두 해당될까](https://ulsanlawyer.kr/columns/traffic-hit-and-run-criteria) (2026-10-14): 현장을 떠났다는 사실만으로 뺑소니가 되는 것은 아닙니다. 구호조치를 어디까지 해야 하고 도주 고의가 어떻게 판단되는지 정리했습니다.
 - [울산교통사고변호사 과실비율, 뒤집을 수 있는 자료와 다투는 순서](https://ulsanlawyer.kr/columns/traffic-fault-ratio-dispute) (2026-10-13): 보험사가 알려 준 과실비율은 확정된 숫자가 아닙니다. 어떤 근거로 정해지고 무엇으로 조정할 수 있는지 정리했습니다.
 - [울산교통사고변호사 합의금 산정 기준, 치료비·휴업손해·위자료](https://ulsanlawyer.kr/columns/traffic-injury-settlement) (2026-10-13): 교통사고 합의금은 감으로 정해지지 않습니다. 치료비·휴업손해·위자료가 각각 어떻게 계산되고 어디서 보험사 제시액과 벌어지는지 정리했습니다.
 - [울산교통사고변호사 12대 중과실, 보험으로 끝나지 않는 사고](https://ulsanlawyer.kr/columns/traffic-12-exceptions) (2026-10-12): 종합보험에 들어 있어도 12대 중과실에 해당하면 형사절차가 따로 진행됩니다. 어디까지가 해당되고 무엇이 갈림길인지 정리했습니다.
@@ -114,12 +122,6 @@
 - [울산보이스피싱전문변호사 상담, 현금수거책·통장대여 혐의 대응](https://ulsanlawyer.kr/columns/ulsan-voice-phishing-lawyer-cash-collector) (2026-10-05): 단순 아르바이트인 줄 알았다는 말만으로는 부족할 수 있습니다. 채용 경위와 지시 내용, 대가, 이동과 전달 과정을 객관적 기록으로 설명해야 합니다.
 - [사기 혐의 부인하다 실형 위기, 집행유예로 끝난 사건](https://ulsanlawyer.kr/columns/fraud-denial-probation) (2026-06-24): 사기 혐의를 계속 부인하다 실형 위험이 커진 사건에서, 증거 구조를 분석하고 피해 회복과 합의를 진행해 집행유예로 마무리한 사례입니다.
 - [전세계약서 위조 대출사기, 사기·사문서위조 혐의에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/lease-contract-forgery-loan-fraud-probation) (2026-06-24): 가짜 전세계약서를 이용한 대출사기 사건에서 사기, 사문서위조, 위조사문서행사 혐의가 함께 적용되었지만 집행유예를 이끌어낸 사례입니다.
-
-### 상속
-
-- [울산상속변호사 상담 전, 가족 간 상속분쟁에서 먼저 확인할 자료](https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-family-dispute) (2026-10-05): 상속분쟁은 감정적인 주장보다 상속인, 재산, 채무, 생전 증여와 기여 자료를 먼저 확정해야 해결의 출발점을 잡을 수 있습니다.
-- [울산상속변호사 유류분 청구 기간, 놓치기 전에 확인할 것](https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-reserved-portion-deadline) (2026-09-14): 유류분은 억울하다는 마음만으로 인정되지 않습니다. 기간 제한과 생전 증여 자료, 부족액 계산을 먼저 확인해야 합니다.
-- [울산상속변호사 상속재산분할과 유류분, 가족 다툼을 조정한 사례](https://ulsanlawyer.kr/columns/ulsan-inheritance-division-reserved-portion-case) (2026-09-13): 상속 분쟁은 가족 감정과 돈의 흐름이 함께 얽힙니다. 재산 목록, 증여 내역, 특별수익, 기여분을 자료로 나누어야 조정 가능성이 열립니다.
 
 ### 상담·안내
 

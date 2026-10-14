@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산상속변호사 한정승인 절차, 빚이 얼마인지 모를 때</title>
+      <link>https://ulsanlawyer.kr/columns/inheritance-limited-acceptance</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/inheritance-limited-acceptance</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+      <category>상속 칼럼</category>
+      <description>상속채무 규모를 모르는 상태에서 쓰는 한정승인의 3개월 기산점과 기간 연장, 특별한정승인이 인정되는 조건, 신고 수리 후 공고·채권신고·배당변제로 이어지는 청산 절차를 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산교통사고변호사 뺑소니 성립 기준, 현장을 떠났다면 모두 해당될까</title>
+      <link>https://ulsanlawyer.kr/columns/traffic-hit-and-run-criteria</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/traffic-hit-and-run-criteria</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+      <category>교통사고 칼럼</category>
+      <description>사고 후 현장을 벗어난 사정이 곧바로 도주로 평가되지는 않습니다. 구호조치 의무의 범위, 도주 고의를 판단하는 기준, 사고후미조치와 도주치상이 갈리는 지점을 조사 준비 순서에 맞춰 정리했습니다.</description>
+    </item>
     <item>
       <title>울산교통사고변호사 과실비율, 뒤집을 수 있는 자료와 다투는 순서</title>
       <link>https://ulsanlawyer.kr/columns/traffic-fault-ratio-dispute</link>
@@ -230,22 +246,6 @@
       <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
       <category>형사사건 칼럼</category>
       <description>온라인 글과 댓글 사건에서 명예훼손과 모욕이 나뉘는 기준, 공연성과 특정성이 문제 되는 지점, 글을 지우기 전에 원문을 남겨야 하는 이유와 합의·처벌불원 의사표시의 순서를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산이혼변호사 혼인취소 사유, 이혼과 무엇이 달라질까</title>
-      <link>https://ulsanlawyer.kr/columns/divorce-marriage-annulment</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-marriage-annulment</guid>
-      <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
-      <category>이혼소송 칼럼</category>
-      <description>혼인취소가 인정되는 사유와 3개월·6개월로 짧은 청구 기간, 혼인무효와의 차이, 그리고 취소되어도 지나간 혼인 기간이 없던 일이 되지 않는 이유를 이혼과 비교해 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산음주운전변호사 호흡측정 불복, 채혈 측정 요구는 언제 해야 할까</title>
-      <link>https://ulsanlawyer.kr/columns/dui-blood-test-request</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-blood-test-request</guid>
-      <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>호흡측정 수치에 승복할 수 없을 때 채혈을 요구할 수 있는 시점, 병원 동행부터 감정 결과 회신까지의 절차, 채혈이 오히려 불리해지는 경우와 단속 직후 기록해 둘 사항을 정리했습니다.</description>
     </item>
   </channel>
 </rss>
