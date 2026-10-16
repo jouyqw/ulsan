@@ -36,6 +36,30 @@ const STATIC_SUCCESS_IMAGES = [
   'assets/images/success/additional/settlement-content-proof.webp',
 ];
 
+// 홈페이지에서 소개하는 성공사례도 /cases/ 전체 목록에 함께 노출한다.
+// 상세 성공사례 글이 없는 항목은 같은 사건을 설명하는 관련 칼럼으로 연결한다.
+const CASE_LIST_EXTRAS = [
+  ['음주운전', '음주측정거부와 반복 음주운전 전력에도 집행유예를 받은 사례', '집행유예', 'assets/images/success/case-drunk-driving-probation.webp', '/columns/drunk-refusal-probation', '사건 경위와 재범 방지 노력을 구체적으로 정리해 실형 위험에 대응했습니다.'],
+  ['사기', '사기 혐의로 실형이 우려된 사건을 집행유예로 마무리한 사례', '집행유예', 'assets/images/success/case-fraud-probation.webp', '/columns/fraud-denial-probation', '사실관계와 피해 회복 자료를 다시 구성해 선처 가능성을 높였습니다.'],
+  ['공무집행방해', '특수공무집행방해 실형 위기를 벌금형으로 방어한 사례', '벌금형', 'assets/images/success/case-special-assault-fine.webp', '/columns/special-obstruction-police-fine', '행위 경위와 피해 회복, 재발 방지 사정을 중심으로 변론했습니다.'],
+  ['성범죄', '준강간 고소 사건에서 불송치 결정을 받은 사례', '불송치', 'assets/images/success/case-quasi-rape-non-prosecution.webp', '/columns/quasi-rape-non-prosecution', '객관적인 정황과 진술의 모순을 정리해 혐의가 없음을 소명했습니다.'],
+  ['대출사기', '전세 계약서 위조 대출사기를 집행유예로 방어한 사례', '집행유예', 'assets/images/success/case-fraud-forgery.webp', '/columns/lease-contract-forgery-loan-fraud-probation', '가담 정도와 피해 회복, 재범 가능성을 사건 기록에 맞춰 정리했습니다.'],
+  ['음주운전', '4회 음주전과와 실형 구형에도 벌금형을 받은 사례', '벌금형', 'assets/images/success/additional/drunk-driving-4th-fine.webp', '/columns/drunk-driving-fourth-fine', '재범 방지 환경과 생활 기반을 구체적으로 제시해 선처를 구했습니다.'],
+  ['군형사', '군 외출증 위조와 가혹행위 사건에서 집행유예를 받은 사례', '집행유예', 'assets/images/success/additional/military-forgery-probation.webp', '/columns/military-forgery-harassment-probation', '각 혐의의 경위와 반성, 피해 회복 사정을 나누어 정리했습니다.'],
+  ['민사소송', '1심 패소 후 항소심에서 결과를 뒤집은 사례', '승소', 'assets/images/success/additional/civil-appeal-reversal.webp', '/columns/civil-appeal-reversal-80-percent', '사실관계와 증거의 의미를 다시 구성해 항소심 판단을 이끌었습니다.'],
+  ['상간자소송', '상간자 소송 위자료를 4천만 원에서 1천만 원으로 감액한 사례', '감액', 'assets/images/success/additional/civil-settlement-10m.webp', '/columns/affair-pregnancy-damages-reduction', '혼인관계와 부정행위의 경위를 구체적으로 다퉈 청구액을 낮췄습니다.'],
+  ['마약', '재판 중 다시 마약을 한 사건에서 집행유예를 받은 사례', '집행유예', 'assets/images/success/additional/drug-probation.webp', '/columns/drug-repeat-during-trial-probation', '치료 의지와 재범 방지 계획을 객관적인 자료로 제출했습니다.'],
+  ['사기', '20회가 넘는 사기 혐의를 집행유예로 방어한 사례', '집행유예', 'assets/images/success/additional/fraud-20-probation.webp', '/columns/fraud-denial-probation', '범행 구조와 피해 회복 과정을 정리해 실형 위험에 대응했습니다.'],
+  ['게임산업법', '불법 환전과 등급미필게임물 제공 사건의 집행유예 사례', '집행유예', 'assets/images/success/additional/game-law-probation.webp', '/columns/ulsan-lawyer-illegal-game-probation', '운영 기간과 수익, 가담 정도를 구체적으로 나누어 소명했습니다.'],
+  ['전기통신사업법', '대포폰 중개 사건을 집행유예로 마무리한 사례', '집행유예', 'assets/images/success/additional/telecom-fraud-probation.webp', '/columns/criminal-telecom-phone-aiding-probation', '실제 역할과 취득한 이익, 사건 이후의 조치를 중심으로 대응했습니다.'],
+  ['교통사고', '집행유예 중 무면허 교통사고를 벌금형으로 마무리한 사례', '벌금형', 'assets/images/success/additional/license-free-accident-fine.webp', '/columns/criminal-unlicensed-accident-probation-fine', '사고 경위와 피해 회복, 생활 여건을 함께 정리해 변론했습니다.'],
+  ['형사병합', '대법원 결정으로 여러 형사재판을 병합 심리한 사례', '병합심리', 'assets/images/success/additional/supreme-court-merge.webp', '/columns/criminal-trials-merge-supreme-court', '관련 사건을 하나의 재판에서 판단받을 수 있도록 절차를 정리했습니다.'],
+  ['모욕죄', '병원 리뷰로 모욕죄 고소를 당했지만 불송치된 사례', '불송치', 'assets/images/success/additional/insult-non-prosecution.webp', '/columns/hospital-review-insult-non-prosecution', '게시글의 맥락과 표현의 의미를 분석해 범죄가 성립하지 않음을 소명했습니다.'],
+  ['음주운전', '3번째 음주운전 실형 위기를 집행유예로 마무리한 사례', '집행유예', 'assets/images/success/additional/drunk-driving-3rd-probation.webp', '/columns/dui-repeat-third-probation', '재범 방지 조치와 생활환경, 양형자료를 사건 단계에 맞춰 준비했습니다.'],
+].map(([category, title, result, image, href, summary]) => ({
+  category, title, result, image, href, summary, imageAlt: `${title} 자료`,
+}));
+
 
 const COLUMN_CATEGORIES = [
   { key: 'criminal', label: '형사', test: /형사/ },
@@ -720,13 +744,17 @@ function listingPage(type, items, cases) {
   const eyebrow = isCase ? 'Success Cases' : 'Legal Column';
   const h1 = isCase ? '강성수 변호사의 성공사례' : '강성수 변호사의 법률 칼럼';
   const lead = isCase
-    ? '실제 결과를 중심으로 사건의 쟁점과 대응 방향을 정리합니다.'
+    ? '형사·민사·가사 사건의 실제 결과 19건을 한곳에 정리했습니다.'
     : '형사·민사 사건에서 의뢰인들이 자주 묻는 질문을 분야별로 정리했습니다. 키워드로 검색하거나 분야를 선택해 보세요.';
 
   if (isCase) {
-    const cards = items.map((item) => `<article class="result-card">
-                    <a href="${item.slug}">
-                        <div class="result-media"><img src="../${escapeHtml(item.image || 'assets/images/lawyer-direct-consultation.webp')}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div>
+    const allCases = [
+      ...items.map((item) => ({ ...item, href: `/cases/${item.slug}` })),
+      ...CASE_LIST_EXTRAS,
+    ];
+    const cards = allCases.map((item) => `<article class="result-card">
+                    <a href="${escapeHtml(item.href)}">
+                        <div class="result-media"><img src="../${escapeHtml(item.image || 'assets/images/lawyer-direct-consultation.webp')}" alt="${escapeHtml(item.imageAlt || item.title)}" loading="lazy" decoding="async" width="966" height="966"><span class="result-stamp">${escapeHtml(item.result || '성공')}</span></div>
                         <div class="result-body"><span class="result-type">${escapeHtml(item.category || '성공사례')}</span><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.summary || item.description || '')}</p></div>
                     </a>
                 </article>`).join('\n');
@@ -737,7 +765,10 @@ function listingPage(type, items, cases) {
       url: `${SITE_URL}/${type}/`,
       publisher: { '@type': 'LegalService', name: '울산변호사 강성수' },
     };
-    return `${pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })}
+    const caseHead = pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })
+      .replace('style.css?v=20260914-3', 'style.css?v=20261016-cases-full')
+      .replace(/^[ \t]+$/gm, '');
+    return `${caseHead}
 <body class="columns-page">
     ${siteHeader('cases')}
     <main>
