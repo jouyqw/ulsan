@@ -5222,3 +5222,175 @@ body.case-popup-open { overflow: hidden; }
     .case-popup-actions { align-items: stretch; }
     .case-popup-actions button, .case-popup-actions a { flex: 1; padding: 12px 8px; text-align: center; font-size: 13px; }
 }
+
+/* ===== 메인 페이지 최종 통합 팔레트 (2026-10-16) ===== */
+body {
+    --site-bg: #0c0d0f;
+    --site-surface: #131518;
+    --site-surface-soft: #181a1e;
+    --site-border: rgba(255, 255, 255, .1);
+    --site-text: #f5f3ee;
+    --site-muted: rgba(245, 243, 238, .68);
+    --site-gold: #d3a34f;
+    background: var(--site-bg);
+}
+
+.trust-strip,
+.lawyer-letter,
+.criminal-focus-section,
+.lawyer-profile-section,
+.practice-seo-section,
+.live-consult-section,
+.success-cases,
+.success-proof,
+.principles,
+.features,
+.column-preview,
+.press-section,
+.blog-link,
+.reviews,
+.location {
+    color: var(--site-text);
+    border-color: var(--site-border);
+}
+
+.trust-strip,
+.criminal-focus-section,
+.practice-seo-section,
+.success-cases,
+.principles,
+.column-preview,
+.blog-link,
+.location {
+    background: var(--site-bg);
+}
+
+.lawyer-letter,
+.lawyer-profile-section,
+.live-consult-section,
+.success-proof,
+.features,
+.press-section,
+.reviews {
+    background: var(--site-surface);
+}
+
+.lawyer-letter {
+    border-top: 1px solid var(--site-border);
+    border-bottom: 1px solid var(--site-border);
+}
+
+.lawyer-letter-eyebrow,
+.lawyer-letter-copy h2 span,
+.lawyer-letter-gift > span,
+.lawyer-letter-gift li::before,
+.criminal-focus-head > span,
+.criminal-focus-more {
+    color: var(--site-gold);
+}
+
+.lawyer-letter-copy h2,
+.criminal-focus-head h2,
+.lawyer-profile-content h2,
+.practice-seo-section .section-title {
+    color: var(--site-text);
+}
+
+.lawyer-letter-copy > p,
+.lawyer-letter-copy .lawyer-letter-intro,
+.criminal-focus-head p,
+.criminal-focus-grid span,
+.lawyer-profile-content > p,
+.practice-seo-section .section-subtitle {
+    color: var(--site-muted);
+}
+
+.lawyer-letter-copy .lawyer-letter-direct {
+    color: var(--site-text);
+    border-left-color: var(--site-gold);
+}
+
+.lawyer-letter-gift {
+    border-color: var(--site-border);
+    background: rgba(255, 255, 255, .045);
+}
+
+.lawyer-letter-gift li {
+    background: rgba(255, 255, 255, .075);
+    color: rgba(255, 255, 255, .86);
+    box-shadow: none;
+}
+
+.lawyer-letter-copy .lawyer-letter-closing { color: rgba(255, 255, 255, .9); }
+.lawyer-letter-sign { color: rgba(255, 255, 255, .55); }
+.lawyer-letter-portrait { background: var(--site-surface); }
+.lawyer-letter-portrait::before {
+    width: 28%;
+    background: linear-gradient(90deg, var(--site-surface) 0%, rgba(19, 21, 24, .9) 25%, rgba(19, 21, 24, .35) 68%, transparent 100%);
+}
+.lawyer-letter-portrait::after {
+    background: linear-gradient(180deg, transparent 55%, rgba(19,21,24,.08) 72%, rgba(12,13,15,.78) 100%);
+}
+
+.criminal-focus-grid a,
+.practice-seo-grid a,
+.live-consult-section .consult-dashboard,
+.case-item,
+.result-card,
+.principle-item,
+.feature-card,
+.column-card a,
+.press-card,
+.review-card,
+.location-card {
+    border-color: var(--site-border);
+    background: var(--site-surface-soft);
+    color: var(--site-text);
+    box-shadow: none;
+}
+
+.criminal-focus-grid a:hover,
+.practice-seo-grid a:hover,
+.column-card a:hover,
+.result-card:hover {
+    border-color: rgba(211, 163, 79, .58);
+    background: #1c1f23;
+}
+
+.section-title,
+.features-title,
+.reviews-heading h2,
+.location .section-title,
+.column-preview-head h2,
+.success-proof-head h2,
+.press-section .section-title {
+    color: var(--site-text);
+}
+
+.section-subtitle,
+.features-lead,
+.features-company,
+.reviews-heading p,
+.location .section-subtitle,
+.column-preview-head p,
+.success-proof-head p,
+.press-section .section-subtitle {
+    color: var(--site-muted);
+}
+
+.column-eyebrow,
+.highlight-number,
+.principle-number,
+.result-type,
+.press-category {
+    color: var(--site-gold);
+}
+
+@media (max-width: 768px) {
+    .lawyer-letter-portrait::before {
+        inset: 0 0 auto;
+        width: 100%;
+        height: 18%;
+        background: linear-gradient(180deg, var(--site-surface) 0%, rgba(19,21,24,.82) 25%, transparent 100%);
+    }
+}
