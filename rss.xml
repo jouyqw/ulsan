@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지</title>
+      <link>https://ulsanlawyer.kr/columns/industrial-accident-appeal</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/industrial-accident-appeal</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+      <category>산재 칼럼</category>
+      <description>산재 불승인 통지를 받은 뒤 밟게 되는 심사청구와 재심사청구, 행정소송의 순서를 정리했습니다. 각 단계의 90일 기한과 결정까지 걸리는 기간, 단계를 건너뛸 수 있는 경우, 뒤집히는 사건과 그대로 유지되는 사건이 갈리는 지점을 함께 짚었습니다.</description>
+    </item>
+    <item>
+      <title>울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까</title>
+      <link>https://ulsanlawyer.kr/columns/industrial-accident-recognition</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/industrial-accident-recognition</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+      <category>산재 칼럼</category>
+      <description>사고 산재와 질병 산재에서 인정 기준이 어떻게 달라지는지, 출퇴근 재해가 인정되는 경로와 방법의 범위, 불승인 통지가 나오는 실제 이유와 이의 절차를 순서대로 정리했습니다.</description>
+    </item>
     <item>
       <title>울산상속변호사 상속재산분할협의, 깨지는 지점과 심판청구 기준</title>
       <link>https://ulsanlawyer.kr/columns/inheritance-division-agreement</link>
@@ -230,22 +246,6 @@
       <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
       <category>이혼소송 칼럼</category>
       <description>이혼이 끝난 뒤에도 재산분할을 청구할 수 있지만 기간이 정해져 있습니다. 2년을 어디서부터 세는지, 소멸시효와 무엇이 다른지, 기간 안에 무엇을 해 두어야 하는지, 넘겼을 때 남는 방법까지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산음주운전변호사 음주운전 차량 몰수, 어떤 경우에 검토될까</title>
-      <link>https://ulsanlawyer.kr/columns/dui-vehicle-confiscation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/dui-vehicle-confiscation</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
-      <category>음주운전 칼럼</category>
-      <description>차량 몰수가 거론되는 사건의 특징, 수사 단계의 압수와 판결 단계의 몰수가 어떻게 다른지, 명의와 할부·리스 관계에서 결과가 갈리는 이유, 그리고 다툴 때 준비할 자료를 순서대로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산성범죄전문변호사 피해자 국선변호사 합의, 연락은 어디로 해야 할까</title>
-      <link>https://ulsanlawyer.kr/columns/sex-crime-victim-counsel-settlement</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/sex-crime-victim-counsel-settlement</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
-      <category>성범죄 칼럼</category>
-      <description>피해자에게 국선변호사가 선정되면 합의 창구가 그쪽으로 고정됩니다. 의사를 전달하는 정식 경로, 직접 연락이 금지되는 이유, 거절당했을 때 남는 선택지와 합의서에 담아야 할 문구를 정리했습니다.</description>
     </item>
   </channel>
 </rss>
