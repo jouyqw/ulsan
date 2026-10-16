@@ -151,7 +151,7 @@
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"></noscript>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="assets/css/style.css?v=20261016-letter-portrait">
+    <link rel="stylesheet" href="assets/css/style.css?v=20261016-color-review-toast">
     <link rel="stylesheet" href="assets/css/practice.css?v=20260914-3">
 </head>
 <body>
@@ -234,6 +234,18 @@
             </div>
         </div>
     </section>
+
+    <!-- Scroll Review Toast -->
+    <aside class="review-toast" id="reviewToast" aria-live="polite" aria-atomic="true" hidden>
+        <div class="review-toast-mark" aria-hidden="true">★</div>
+        <div class="review-toast-copy">
+            <span class="review-toast-label">의뢰인 리뷰</span>
+            <strong data-review-title>변호사 직접 상담</strong>
+            <p data-review-text>처음부터 변호사님과 바로 이야기할 수 있어 신뢰가 갔습니다.</p>
+            <small data-review-meta>형사사건 의뢰인 · 오**</small>
+        </div>
+        <button type="button" class="review-toast-close" aria-label="의뢰인 리뷰 알림 닫기">&times;</button>
+    </aside>
 
     <!-- Lawyer Letter -->
     <section class="lawyer-letter" aria-labelledby="lawyer-letter-title">
@@ -1258,6 +1270,6 @@
     </footer>
 
     <!-- JavaScript -->
-    <script src="assets/js/main.js?v=20261016-letter-popup"></script>
+    <script src="assets/js/main.js?v=20261016-color-review-toast"></script>
 </body>
 </html>

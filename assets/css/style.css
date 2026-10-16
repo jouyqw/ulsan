@@ -5125,9 +5125,10 @@ body {
 .lawyer-letter-gift li::before { content: "✓"; margin-right: 5px; color: #a56f1c; }
 .lawyer-letter-copy .lawyer-letter-closing { color: #242321; font-weight: 650; }
 .lawyer-letter-sign { margin-top: 25px; color: #6f685e; font-family: serif; font-size: 18px; text-align: right; }
-.lawyer-letter-portrait { position: relative; align-self: end; height: 100%; min-height: 760px; margin: 0; background: #bebebe; }
-.lawyer-letter-portrait::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 58%, rgba(0,0,0,.68)); pointer-events: none; }
-.lawyer-letter-portrait img { width: 100%; height: 100%; object-fit: cover; object-position: center top; filter: grayscale(1) contrast(1.06); }
+.lawyer-letter-portrait { position: relative; align-self: end; height: 100%; min-height: 760px; margin: 0; background: #eeece8; isolation: isolate; }
+.lawyer-letter-portrait::before { content: ""; position: absolute; z-index: 1; inset: 0 auto 0 0; width: 22%; background: linear-gradient(90deg, #eeece8 0%, rgba(238,236,232,.78) 28%, transparent 100%); pointer-events: none; }
+.lawyer-letter-portrait::after { content: ""; position: absolute; z-index: 1; inset: 0; background: linear-gradient(180deg, transparent 62%, rgba(36,34,31,.08) 78%, rgba(20,19,18,.64) 100%); pointer-events: none; }
+.lawyer-letter-portrait img { width: 100%; height: 100%; object-fit: cover; object-position: center top; filter: none; }
 .lawyer-letter-portrait figcaption { position: absolute; z-index: 1; right: 28px; bottom: 28px; left: 28px; color: #fff; }
 .lawyer-letter-portrait figcaption strong { display: block; margin-bottom: 5px; font-size: 21px; }
 .lawyer-letter-portrait figcaption span { color: rgba(255,255,255,.72); font-size: 13px; }
@@ -5155,6 +5156,39 @@ body {
 .case-popup-notice { margin: 17px 0 0; color: rgba(255,255,255,.38); font-size: 11px; text-align: center; }
 body.case-popup-open { overflow: hidden; }
 
+.review-toast[hidden] { display: none; }
+.review-toast {
+    box-sizing: border-box;
+    position: fixed;
+    z-index: 5200;
+    left: 24px;
+    bottom: 24px;
+    display: grid;
+    grid-template-columns: 42px minmax(0, 1fr) 28px;
+    gap: 13px;
+    align-items: start;
+    width: min(390px, calc(100vw - 48px));
+    padding: 17px 14px 16px;
+    border: 1px solid rgba(183,122,27,.3);
+    border-radius: 15px;
+    background: rgba(17,19,24,.96);
+    color: #fff;
+    box-shadow: 0 18px 50px rgba(0,0,0,.28);
+    backdrop-filter: blur(12px);
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity .28s ease, transform .32s ease;
+    pointer-events: none;
+}
+.review-toast.is-visible { opacity: 1; transform: translateY(0); pointer-events: auto; }
+.review-toast-mark { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 50%; background: #d99a35; color: #171717; font-size: 18px; }
+.review-toast-copy { min-width: 0; }
+.review-toast-label { display: block; margin-bottom: 4px; color: #e8b65e; font-size: 10px; font-weight: 850; letter-spacing: .12em; }
+.review-toast-copy strong { display: block; overflow: hidden; margin-bottom: 5px; font-size: 15px; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
+.review-toast-copy p { display: -webkit-box; overflow: hidden; margin: 0 0 6px; color: rgba(255,255,255,.78); font-size: 13px; line-height: 1.5; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+.review-toast-copy small { color: rgba(255,255,255,.42); font-size: 10px; }
+.review-toast-close { width: 28px; height: 28px; border: 0; background: transparent; color: rgba(255,255,255,.55); font-size: 21px; line-height: 1; cursor: pointer; }
+
 @media (max-width: 768px) {
     .lawyer-letter { padding: 0; }
     .lawyer-letter-wrap { display: flex; flex-direction: column; gap: 0; }
@@ -5170,7 +5204,12 @@ body.case-popup-open { overflow: hidden; }
     .lawyer-letter-gift li { font-size: 12px; }
     .lawyer-letter-portrait { width: 100%; min-height: 0; height: 490px; }
     .lawyer-letter-portrait img { object-position: center 14%; }
+    .lawyer-letter-portrait::before { width: 12%; }
     .lawyer-letter-portrait figcaption { right: 20px; bottom: 21px; left: 20px; }
+    .review-toast { left: 12px; bottom: 82px; grid-template-columns: 36px minmax(0, 1fr) 24px; gap: 10px; width: calc(100vw - 24px); padding: 14px 11px; border-radius: 13px; }
+    .review-toast-mark { width: 36px; height: 36px; font-size: 15px; }
+    .review-toast-copy strong { font-size: 14px; }
+    .review-toast-copy p { font-size: 12px; }
     .case-popup { padding: 12px; align-items: end; }
     .case-popup-panel { max-height: calc(100dvh - 24px); padding: 28px 18px 22px; border-radius: 20px 20px 12px 12px; }
     .case-popup-head h2 { font-size: 27px; }

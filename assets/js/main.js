@@ -873,6 +873,62 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // ===================================
+// Scroll-triggered Client Review Toast
+// ===================================
+document.addEventListener('DOMContentLoaded', function() {
+  const toast = document.getElementById('reviewToast');
+  if (!toast) return;
+
+  const reviews = [
+    { title: '변호사 직접 상담', text: '처음부터 변호사님과 바로 이야기할 수 있어 신뢰가 갔습니다.', meta: '형사사건 의뢰인 · 오**' },
+    { title: '막막했던 마음이 정리됐습니다', text: '가능성과 준비할 자료를 구체적으로 설명해 주셔서 대응 방향을 잡을 수 있었습니다.', meta: '경찰조사 상담 · 김**' },
+    { title: '과장 없이 솔직한 설명', text: '좋은 점만 말하지 않고 불리한 부분까지 알려주셔서 현실적으로 준비할 수 있었습니다.', meta: '민사사건 의뢰인 · 박**' },
+    { title: '필요한 자료를 하나씩 안내', text: '흩어져 있던 자료를 순서대로 정리해 주셔서 무엇부터 해야 할지 알게 됐습니다.', meta: '이혼 상담 · 이**' }
+  ];
+  const title = toast.querySelector('[data-review-title]');
+  const text = toast.querySelector('[data-review-text]');
+  const meta = toast.querySelector('[data-review-meta]');
+  const close = toast.querySelector('.review-toast-close');
+  let reviewIndex = 0;
+  let lastShownAt = window.scrollY;
+  let hideTimer = null;
+  let closedUntilScroll = false;
+
+  function hideReviewToast() {
+    toast.classList.remove('is-visible');
+    window.setTimeout(function() { toast.hidden = true; }, 320);
+  }
+
+  function showReviewToast() {
+    const review = reviews[reviewIndex % reviews.length];
+    reviewIndex += 1;
+    title.textContent = review.title;
+    text.textContent = review.text;
+    meta.textContent = review.meta;
+    toast.hidden = false;
+    window.requestAnimationFrame(function() { toast.classList.add('is-visible'); });
+    window.clearTimeout(hideTimer);
+    hideTimer = window.setTimeout(hideReviewToast, 5200);
+  }
+
+  close.addEventListener('click', function() {
+    closedUntilScroll = true;
+    hideReviewToast();
+  });
+
+  window.addEventListener('scroll', function() {
+    const distance = Math.abs(window.scrollY - lastShownAt);
+    if (distance < 520 || window.scrollY < 360) return;
+    lastShownAt = window.scrollY;
+    if (closedUntilScroll) {
+      closedUntilScroll = false;
+      return;
+    }
+    showReviewToast();
+  }, { passive: true });
+});
+
+// ===================================
 // Mobile Menu Toggle
 // ===================================
 function toggleMobileMenu() {
