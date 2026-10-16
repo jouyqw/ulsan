@@ -828,6 +828,51 @@ window.addEventListener('scroll', function() {
 });
 
 // ===================================
+// Recent Case Popup
+// ===================================
+document.addEventListener('DOMContentLoaded', function() {
+  const popup = document.getElementById('casePopup');
+  if (!popup) return;
+
+  const storageKey = 'ulsanRecentCasePopupDismissedUntil';
+  const dismissedUntil = Number(localStorage.getItem(storageKey) || 0);
+
+  function closeCasePopup() {
+    popup.hidden = true;
+    document.body.classList.remove('case-popup-open');
+  }
+
+  function openCasePopup() {
+    popup.hidden = false;
+    document.body.classList.add('case-popup-open');
+    const closeButton = popup.querySelector('.case-popup-close');
+    if (closeButton) closeButton.focus({ preventScroll: true });
+  }
+
+  popup.querySelectorAll('[data-case-popup-close]').forEach(function(element) {
+    element.addEventListener('click', closeCasePopup);
+  });
+
+  const todayButton = popup.querySelector('[data-case-popup-today]');
+  if (todayButton) {
+    todayButton.addEventListener('click', function() {
+      const endOfToday = new Date();
+      endOfToday.setHours(23, 59, 59, 999);
+      localStorage.setItem(storageKey, String(endOfToday.getTime()));
+      closeCasePopup();
+    });
+  }
+
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape' && !popup.hidden) closeCasePopup();
+  });
+
+  if (Date.now() > dismissedUntil) {
+    window.setTimeout(openCasePopup, 850);
+  }
+});
+
+// ===================================
 // Mobile Menu Toggle
 // ===================================
 function toggleMobileMenu() {
