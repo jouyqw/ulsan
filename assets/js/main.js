@@ -52,7 +52,7 @@ function validateAndSanitizeFormData(data) {
 // ===================================
 function scrollToConsult() {
   window.open(
-    "https://naver.me/F0zsrR8L",
+    "https://open.kakao.com/o/se2trwfh",
     "_blank",
     "noopener,noreferrer"
   );

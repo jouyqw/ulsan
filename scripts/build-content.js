@@ -515,7 +515,6 @@ function bottomBar(rootPrefix = '../') {
   return `<div class="bottom-consult-bar" aria-label="빠른 상담 메뉴">
         <a href="tel:010-7219-9112"><span>전화상담</span></a>
         <a href="https://open.kakao.com/o/se2trwfh" target="_blank" rel="noopener noreferrer"><span>카카오톡</span></a>
-        <a href="https://naver.me/F0zsrR8L" target="_blank" rel="noopener noreferrer"><span>네이버예약</span></a>
     </div>`;
 }
 
@@ -1123,7 +1122,7 @@ function replaceHomepageSections(columns, cases) {
     `$1\n                ${homepageCaseCards(cases)}\n            $3`
   );
 
-  html = html.replace(/href="\.\.\/#consult"/g, 'href="https://naver.me/F0zsrR8L" target="_blank" rel="noopener noreferrer"');
+  html = html.replace(/href="\.\.\/#consult"/g, 'href="https://open.kakao.com/o/se2trwfh" target="_blank" rel="noopener noreferrer"');
   fs.writeFileSync(indexPath, html, 'utf8');
 }
 
