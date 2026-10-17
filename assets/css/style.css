@@ -4067,7 +4067,7 @@ body {
         bottom: 0;
         z-index: 3000;
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         background: rgba(10, 10, 10, 0.96);
         border-top: 1px solid rgba(245, 166, 35, 0.35);
         box-shadow: 0 -8px 28px rgba(0, 0, 0, 0.35);
@@ -5191,8 +5191,8 @@ body.case-popup-open { overflow: hidden; }
 
 @media (max-width: 768px) {
     .lawyer-letter { padding: 0; }
-    .lawyer-letter-wrap { display: flex; flex-direction: column; gap: 0; }
-    .lawyer-letter-copy { padding: 68px 20px 48px; }
+    .lawyer-letter-wrap { display: flex; flex-direction: column; gap: 0; width: 100%; min-width: 0; }
+    .lawyer-letter-copy { width: 100%; min-width: 0; padding: 68px 20px 48px; }
     .lawyer-letter-copy h2 { max-width: 100%; margin-bottom: 20px; font-size: 29px; line-height: 1.32; word-break: keep-all; overflow-wrap: break-word; }
     .letter-mobile-break { display: inline; }
     .lawyer-letter-copy > p { font-size: 15px; line-height: 1.8; }
@@ -5202,8 +5202,8 @@ body.case-popup-open { overflow: hidden; }
     .lawyer-letter-gift { padding: 19px 17px; }
     .lawyer-letter-gift ul { gap: 7px; }
     .lawyer-letter-gift li { font-size: 12px; }
-    .lawyer-letter-portrait { width: 100%; min-height: 0; height: auto; }
-    .lawyer-letter-portrait img { height: auto; object-position: center; }
+    .lawyer-letter-portrait { width: 100%; min-width: 0; min-height: 0; height: auto; overflow: hidden; }
+    .lawyer-letter-portrait img { display: block; width: 100%; max-width: 100%; height: auto; object-position: center; }
     .lawyer-letter-portrait::before { width: 12%; }
     .lawyer-letter-portrait figcaption { right: auto; bottom: auto; left: auto; padding: 16px 18px 18px; }
     .review-toast { left: 12px; bottom: 82px; grid-template-columns: 36px minmax(0, 1fr) 24px; gap: 10px; width: calc(100vw - 24px); padding: 14px 11px; border-radius: 13px; }
@@ -5221,6 +5221,8 @@ body.case-popup-open { overflow: hidden; }
     .case-popup-copy em { margin-top: 7px; }
     .case-popup-actions { align-items: stretch; }
     .case-popup-actions button, .case-popup-actions a { flex: 1; padding: 12px 8px; text-align: center; font-size: 13px; }
+    .hero-proof-list { width: 100%; max-width: 360px; justify-content: center; }
+    .hero-proof-list span { flex: 0 1 auto; padding: 0 11px; font-size: 12px; }
 }
 
 /* ===== 메인 페이지 최종 통합 팔레트 (2026-10-16) ===== */
