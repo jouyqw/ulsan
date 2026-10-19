@@ -489,7 +489,7 @@ function pageHead({
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet"></noscript>
-    <link rel="stylesheet" href="${rootPrefix}assets/css/style.css?v=20260914-3">
+    <link rel="stylesheet" href="${rootPrefix}assets/css/style.css?v=20261019-responsive">
     ${schema ? `<script type="application/ld+json">\n${JSON.stringify(schema, null, 2)}\n    </script>` : ''}
 </head>`;
 }
@@ -765,7 +765,7 @@ function listingPage(type, items, cases) {
       publisher: { '@type': 'LegalService', name: '울산변호사 강성수' },
     };
     const caseHead = pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })
-      .replace('style.css?v=20260914-3', 'style.css?v=20261016-cases-full')
+      .replace('style.css?v=20261019-responsive', 'style.css?v=20261019-cases-full')
       .replace(/^[ \t]+$/gm, '');
     return `${caseHead}
 <body class="columns-page">
