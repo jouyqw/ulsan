@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산부동산변호사 명도소송 순서, 차임 연체부터 인도집행까지</title>
+      <link>https://ulsanlawyer.kr/columns/eviction-lawsuit-order</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/eviction-lawsuit-order</guid>
+      <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
+      <category>부동산 칼럼</category>
+      <description>차임이 밀렸을 때 계약 해지 통보에서 점유이전금지가처분, 명도소송, 인도집행까지 이어지는 순서와 각 단계에서 놓치면 처음부터 다시 해야 하는 지점을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까</title>
+      <link>https://ulsanlawyer.kr/columns/industrial-accident-vs-damages</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/industrial-accident-vs-damages</guid>
+      <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
+      <category>산재 칼럼</category>
+      <description>산재보험 급여를 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와 그 요건, 휴업급여·장해급여처럼 공제되는 항목과 위자료처럼 남는 항목, 과실상계와 공제의 순서를 정리했습니다.</description>
+    </item>
     <item>
       <title>울산교통사고전문변호사 찾을 때, 선임 전 확인할 7가지</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-traffic-accident-specialist-lawyer-checklist</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
       <category>형사사건 칼럼</category>
       <description>휴대폰을 압수당했을 때 참여권을 실제로 어떤 순서로 행사하는지, 현장에서 참여 포기 각서에 서명하기 전 확인할 것, 선별 단계에서 기간과 검색어를 한정해 압수 범위를 좁히는 요구 방법과 상세목록 대조까지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 즉결심판과 약식명령, 불복 방법은 어떻게 갈릴까</title>
-      <link>https://ulsanlawyer.kr/columns/criminal-summary-judgment-vs-order</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/criminal-summary-judgment-vs-order</guid>
-      <pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>경찰서장이 청구하는 즉결심판과 검사가 청구하는 약식명령은 대상 사건과 선고할 수 있는 형이 다릅니다. 두 절차의 심리 방식, 정식재판 청구서를 내는 곳과 7일의 기산점, 형이 더 무거워질 수 있는지까지 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산민사변호사 부동산 명의신탁, 돌려받을 수 있는 경우와 처벌되는 경우</title>
-      <link>https://ulsanlawyer.kr/columns/civil-title-trust-recovery</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/civil-title-trust-recovery</guid>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-      <category>민사소송 칼럼</category>
-      <description>명의신탁 등기가 무효인데도 부동산을 되찾지 못하는 사건이 있습니다. 양자간·중간생략·계약명의신탁에서 청구의 상대와 방법이 달라지는 이유, 수탁자가 처분했을 때의 한계, 과징금과 형사처벌까지 순서대로 정리했습니다.</description>
     </item>
   </channel>
 </rss>
