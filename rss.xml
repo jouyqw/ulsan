@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산변호사 학교폭력대책심의위원회, 처분 종류와 불복 절차</title>
+      <link>https://ulsanlawyer.kr/columns/school-violence-committee</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/school-violence-committee</guid>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>신고 접수부터 사안조사, 교육지원청 심의위원회 개최까지의 순서와 가해학생 조치 1호부터 9호까지의 차이, 행정심판·행정소송으로 다투는 기간, 가해로 지목된 쪽과 피해 쪽이 각각 준비할 자료를 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산노동변호사 부당해고 구제신청, 3개월과 권고사직의 경계</title>
+      <link>https://ulsanlawyer.kr/columns/unfair-dismissal-remedy</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/unfair-dismissal-remedy</guid>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
+      <category>노동 칼럼</category>
+      <description>해고를 다투는 노동위원회 구제신청의 순서와 3개월 기한, 사직서를 낸 경우에도 해고로 볼 수 있는지, 원직복직과 금전보상 중 무엇을 구할지 판단하는 기준을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산부동산변호사 전세사기 대응, 임차권등기·경매·형사고소의 순서</title>
       <link>https://ulsanlawyer.kr/columns/jeonse-fraud-response</link>
@@ -230,22 +246,6 @@
       <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
       <category>사기</category>
       <description>보이스피싱 현금수거, 전달, 통장·카드 대여 혐의를 받았을 때 고의 판단 자료와 휴대전화·계좌 기록 보존 방법을 설명합니다.</description>
-    </item>
-    <item>
-      <title>울산상간소송변호사 상간자 구상금, 배우자에게 청구할 수 있을까</title>
-      <link>https://ulsanlawyer.kr/columns/affair-reimbursement-claim</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/affair-reimbursement-claim</guid>
-      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
-      <category>상간자소송 칼럼</category>
-      <description>위자료를 전부 지급한 상간자가 부정행위를 함께 한 배우자에게 구상금을 청구할 수 있는 근거와, 부담 부분을 나누는 기준, 조정으로 끝낸 사건에서 생기는 문구 문제, 청구 전에 확보해야 할 자료를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산마약변호사 마약 자수, 감경으로 이어지는 조건과 준비할 것</title>
-      <link>https://ulsanlawyer.kr/columns/drug-methamphetamine-self-report</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/drug-methamphetamine-self-report</guid>
-      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
-      <category>마약사건 칼럼</category>
-      <description>자수가 어디까지 인정되고 언제 감경 재료가 되는지, 반대로 효과를 잃는 경우는 무엇인지, 그리고 자수서를 내기 전에 투약 시기와 치료·자료를 어떻게 정리해 두어야 하는지를 순서대로 정리했습니다.</description>
     </item>
   </channel>
 </rss>
