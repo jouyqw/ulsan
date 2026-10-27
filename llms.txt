@@ -30,24 +30,10 @@
 
 ## 분야별 칼럼
 
-### 상간소송
-
-- [울산상간소송변호사 증거 수집의 한계, 위치추적·녹음·열람의 경계](https://ulsanlawyer.kr/columns/affair-lawsuit-evidence-limit) (2026-10-26): 증거로 쓸 수 있는 자료와 모으다 처벌되는 방법은 다른 축입니다. 위치추적·녹음·열람의 경계를 정리했습니다.
-- [울산상간소송변호사 상간소송 방어, 파탄을 몰랐다는 주장은 어디까지 통할까](https://ulsanlawyer.kr/columns/affair-lawsuit-defense-scope) (2026-10-23): 이미 파탄된 혼인이었다는 방어가 통하는 범위와, 책임이 인정된 뒤에도 청구 금액을 줄이는 사정을 정리했습니다.
-- [울산상간소송변호사 상간자 구상금, 배우자에게 청구할 수 있을까](https://ulsanlawyer.kr/columns/affair-reimbursement-claim) (2026-10-03): 위자료를 다 낸 사람은 상간자인데 정작 배우자는 한 푼도 내지 않은 경우, 되받을 수 있는지와 그 한계를 정리했습니다.
-- [울산상간소송변호사 이혼소송과 상간자 소송을 함께 할 때의 순서](https://ulsanlawyer.kr/columns/affair-joint-suit-with-divorce) (2026-09-23): 이혼소송과 상간자 소송을 같이 진행할 때 순서를 정하는 기준과, 병행하면서 자주 놓치는 지점을 정리했습니다.
-- [울산상간소송변호사 기혼 사실 몰랐다는 주장, 법원은 무엇을 볼까](https://ulsanlawyer.kr/columns/affair-unaware-of-marriage-defense) (2026-09-20): 배우자 있는 사실을 몰랐다는 주장이 어떤 자료로 판단되는지, 인정되는 경우와 받아들여지기 어려운 경우를 나누어 정리했습니다.
-- [울산상간소송변호사 배우자가 용서했다면 상간자 위자료는 어떻게 될까](https://ulsanlawyer.kr/columns/affair-spouse-forgiveness-effect) (2026-09-18): 용서했다는 사정이 상간자 위자료 청구를 없애는지, 금액에서만 고려되는지 기준을 나누어 정리했습니다.
-- [울산상간녀변호사·울산상간남변호사 상간소송 증거, 어디까지 필요할까](https://ulsanlawyer.kr/columns/ulsan-affair-woman-man-lawsuit-evidence) (2026-09-14): 상간녀·상간남 소송은 부정행위 자체뿐 아니라 혼인 사실을 알았는지, 증거가 적법한지, 감액 사유가 있는지가 중요합니다.
-- [울산상간소송변호사 배우자 휴대폰 몰래 보기, 증거일까 범죄일까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-phone-evidence-risk) (2026-08-14): 민사에서 증거로 쓰이는 것과 형사 문제가 되지 않는 것은 다릅니다. 선을 정리했습니다.
-- [울산상간소송변호사 상간자 소송 시효 3년, 언제부터 계산할까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-statute-limitation) (2026-08-12): 3년이라는 기간은 알고 나면 짧습니다. 시효가 언제부터 시작되는지 정확히 알아야 합니다.
-- [울산상간소송변호사 상간자 소송을 당했다면, 감액 방어 전략](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-defense-reduction) (2026-08-10): 소장을 받고 무시하면 그대로 확정됩니다. 감액이 인정되는 사정과 답변서 작성 방향을 정리했습니다.
-- [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
-- [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
-- [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
-
 ### 이혼
 
+- [울산이혼전문변호사 사업체 재산분할, 기여도와 평가는 어떻게 정해질까](https://ulsanlawyer.kr/columns/divorce-property-division-business) (2026-10-27): 사업체는 명의가 한쪽이어도 분할 대상이 됩니다. 무엇을 올리고 어떻게 평가하는지, 기여도를 무엇으로 보는지 정리했습니다.
+- [울산이혼전문변호사 재산분할 빚도 나누는가, 공동채무와 개인채무의 경계](https://ulsanlawyer.kr/columns/divorce-property-division-debt) (2026-10-27): 재산분할에서는 재산만 나누지 않습니다. 어떤 빚이 분할 대상에 들어가고 어떤 빚이 빠지는지 기준을 정리했습니다.
 - [울산이혼전문변호사 재산분할 재산 은닉, 재산명시·조회와 사실조회의 순서](https://ulsanlawyer.kr/columns/divorce-property-division-hidden) (2026-10-26): 상대가 재산을 숨겼다고 의심될 때, 재산명시에서 재산조회와 사실조회로 넘어가는 순서를 정리했습니다.
 - [울산이혼변호사 이혼 후 재산분할 2년, 놓치면 되돌릴 수 없습니다](https://ulsanlawyer.kr/columns/divorce-property-division-two-year-limit) (2026-10-01): 이혼 후 재산분할 청구에는 2년이라는 기간이 있습니다. 중단도 연장도 되지 않는 기간이라 시작 시점부터 확인해야 합니다.
 - [울산이혼변호사 혼인취소 사유, 이혼과 무엇이 달라질까](https://ulsanlawyer.kr/columns/divorce-marriage-annulment) (2026-09-28): 혼인취소는 이혼과 다르고 혼인무효와도 다릅니다. 사유와 기간이 정해져 있고, 취소되어도 과거가 없던 일이 되지는 않습니다.
@@ -64,6 +50,22 @@
 - [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
 - [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
 - [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
+
+### 상간소송
+
+- [울산상간소송변호사 증거 수집의 한계, 위치추적·녹음·열람의 경계](https://ulsanlawyer.kr/columns/affair-lawsuit-evidence-limit) (2026-10-26): 증거로 쓸 수 있는 자료와 모으다 처벌되는 방법은 다른 축입니다. 위치추적·녹음·열람의 경계를 정리했습니다.
+- [울산상간소송변호사 상간소송 방어, 파탄을 몰랐다는 주장은 어디까지 통할까](https://ulsanlawyer.kr/columns/affair-lawsuit-defense-scope) (2026-10-23): 이미 파탄된 혼인이었다는 방어가 통하는 범위와, 책임이 인정된 뒤에도 청구 금액을 줄이는 사정을 정리했습니다.
+- [울산상간소송변호사 상간자 구상금, 배우자에게 청구할 수 있을까](https://ulsanlawyer.kr/columns/affair-reimbursement-claim) (2026-10-03): 위자료를 다 낸 사람은 상간자인데 정작 배우자는 한 푼도 내지 않은 경우, 되받을 수 있는지와 그 한계를 정리했습니다.
+- [울산상간소송변호사 이혼소송과 상간자 소송을 함께 할 때의 순서](https://ulsanlawyer.kr/columns/affair-joint-suit-with-divorce) (2026-09-23): 이혼소송과 상간자 소송을 같이 진행할 때 순서를 정하는 기준과, 병행하면서 자주 놓치는 지점을 정리했습니다.
+- [울산상간소송변호사 기혼 사실 몰랐다는 주장, 법원은 무엇을 볼까](https://ulsanlawyer.kr/columns/affair-unaware-of-marriage-defense) (2026-09-20): 배우자 있는 사실을 몰랐다는 주장이 어떤 자료로 판단되는지, 인정되는 경우와 받아들여지기 어려운 경우를 나누어 정리했습니다.
+- [울산상간소송변호사 배우자가 용서했다면 상간자 위자료는 어떻게 될까](https://ulsanlawyer.kr/columns/affair-spouse-forgiveness-effect) (2026-09-18): 용서했다는 사정이 상간자 위자료 청구를 없애는지, 금액에서만 고려되는지 기준을 나누어 정리했습니다.
+- [울산상간녀변호사·울산상간남변호사 상간소송 증거, 어디까지 필요할까](https://ulsanlawyer.kr/columns/ulsan-affair-woman-man-lawsuit-evidence) (2026-09-14): 상간녀·상간남 소송은 부정행위 자체뿐 아니라 혼인 사실을 알았는지, 증거가 적법한지, 감액 사유가 있는지가 중요합니다.
+- [울산상간소송변호사 배우자 휴대폰 몰래 보기, 증거일까 범죄일까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-phone-evidence-risk) (2026-08-14): 민사에서 증거로 쓰이는 것과 형사 문제가 되지 않는 것은 다릅니다. 선을 정리했습니다.
+- [울산상간소송변호사 상간자 소송 시효 3년, 언제부터 계산할까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-statute-limitation) (2026-08-12): 3년이라는 기간은 알고 나면 짧습니다. 시효가 언제부터 시작되는지 정확히 알아야 합니다.
+- [울산상간소송변호사 상간자 소송을 당했다면, 감액 방어 전략](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-defense-reduction) (2026-08-10): 소장을 받고 무시하면 그대로 확정됩니다. 감액이 인정되는 사정과 답변서 작성 방향을 정리했습니다.
+- [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
+- [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
+- [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
 
 ### 기타
 
