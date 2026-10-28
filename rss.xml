@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산부동산변호사 보증금 우선변제, 대항력이 생기는 시점부터 배당까지</title>
+      <link>https://ulsanlawyer.kr/columns/real-estate-deposit-priority</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/real-estate-deposit-priority</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
+      <category>부동산 칼럼</category>
+      <description>전입신고와 확정일자로 대항력·우선변제권이 언제 생기는지, 경매가 들어왔을 때 배당이 이루어지는 순서, 선순위 임차인의 선택과 전세사기 피해자 지원제도까지 날짜 기준으로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산부동산변호사 계약갱신요구권 거절 사유와 실거주 주장을 다투는 기준</title>
+      <link>https://ulsanlawyer.kr/columns/real-estate-lease-renewal</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/real-estate-lease-renewal</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
+      <category>부동산 칼럼</category>
+      <description>주택과 상가에서 갱신요구권의 행사 기간과 거절 사유가 어떻게 다른지, 임대인이 실거주를 이유로 갱신을 거절했을 때 무엇으로 다투는지, 거절 후 다른 사람에게 임대했을 때의 손해배상까지 양쪽 기준으로 정리했습니다.</description>
+    </item>
     <item>
       <title>울산이혼전문변호사 사업체 재산분할, 기여도와 평가는 어떻게 정해질까</title>
       <link>https://ulsanlawyer.kr/columns/divorce-property-division-business</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
       <category>개인회생 칼럼</category>
       <description>개인회생을 신청할 수 있는 조건과 막히는 경우를 정리하고, 일용직·프리랜서처럼 소득이 들쭉날쭉할 때와 사업소득일 때 월 변제금이 어떤 기준으로 잡히는지 설명했습니다.</description>
-    </item>
-    <item>
-      <title>울산개인회생과 파산, 소득·재산·채무로 갈리는 선택 기준</title>
-      <link>https://ulsanlawyer.kr/columns/rehab-vs-bankruptcy</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/rehab-vs-bankruptcy</guid>
-      <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
-      <category>개인회생 칼럼</category>
-      <description>갚을 여력이 남아 있는지, 처분해야 할 재산이 있는지, 빚이 담보채무인지에 따라 회생과 파산의 선택이 어떻게 달라지는지 정리하고 중간에 절차를 바꾸는 경우까지 설명했습니다.</description>
-    </item>
-    <item>
-      <title>동종 음주운전 전력에 사고까지 발생했지만 집행유예로 방어한 사례</title>
-      <link>https://ulsanlawyer.kr/cases/dui-repeat-accident-probation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/cases/dui-repeat-accident-probation</guid>
-      <pubDate>Tue, 06 Oct 2026 15:00:00 GMT</pubDate>
-      <category>음주운전·교통사고</category>
-      <description>동종 음주운전 전력이 있는 상태에서 다시 음주운전을 하고 사고까지 발생해 실형 위험이 높았던 사건에서, 징역 1년·집행유예 2년을 선고받은 성공사례입니다.</description>
     </item>
   </channel>
 </rss>
