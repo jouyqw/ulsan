@@ -71,7 +71,12 @@ const COLUMN_CATEGORIES = [
   { key: 'affair', label: '상간소송', test: /상간|부정행위/ },
   { key: 'divorce', label: '이혼', test: /이혼|재산분할|양육권|위자료|혼인/ },
   { key: 'inheritance', label: '상속', test: /상속|유류분|상속재산|유언|기여분/ },
-  { key: 'civil', label: '민사·임대차', test: /민사|임대차|부동산|보증금|대여금/ },
+  { key: 'realestate', label: '부동산', test: /부동산|전세|임대차|보증금|명도|매매계약/ },
+  { key: 'rehab', label: '개인회생·파산', test: /개인회생|개인파산|면책|금지명령|변제기간/ },
+  { key: 'industrial', label: '산재', test: /산재|산업재해|장해급여/ },
+  { key: 'school', label: '학교폭력', test: /학교폭력|학폭/ },
+  { key: 'labor', label: '노동', test: /노동|부당해고|임금체불/ },
+  { key: 'civil', label: '민사', test: /민사|대여금|손해배상|가압류|압류|채권/ },
   { key: 'info', label: '상담·안내', test: /상담|안내/ },
 ];
 
@@ -95,6 +100,12 @@ const PRACTICE_LINKS = {
   divorce: { url: '../divorce/', label: '울산 이혼 변호사' },
   inheritance: { url: '../inheritance/', label: '울산 상속 변호사' },
   civil: { url: '../civil/', label: '울산 민사소송 변호사' },
+  realestate: { url: '../real-estate/', label: '울산 부동산 변호사' },
+  rehab: { url: '../civil/', label: '울산 개인회생 상담' },
+  industrial: { url: '../civil/', label: '울산 산재 상담' },
+  school: { url: '../criminal/', label: '울산 학교폭력 변호사' },
+  labor: { url: '../civil/', label: '울산 노동 변호사' },
+  info: { url: '../lawyer/', label: '울산 법률상담' },
 };
 
 // 분야 그룹 -> 실제 상담 페이지 디렉터리 (분야별 랜딩 페이지에서 사용)
@@ -109,6 +120,12 @@ const PRACTICE_DIR = {
   divorce: 'divorce',
   inheritance: 'inheritance',
   civil: 'civil',
+  realestate: 'real-estate',
+  rehab: 'civil',
+  industrial: 'civil',
+  school: 'criminal',
+  labor: 'civil',
+  info: 'lawyer',
 };
 
 // 분야별 칼럼 랜딩 페이지 (독립 URL로 색인, "울산○○변호사 칼럼" 키워드 타깃)
@@ -122,7 +139,13 @@ const CATEGORY_PAGES = {
   affair: { label: '상간소송', kw: '울산상간소송변호사', h1: '울산 상간소송 변호사 칼럼', desc: '울산 상간자 소송·부정행위 손해배상 사건의 청구와 감액 전략을 강성수 변호사가 실제 사례 중심으로 정리한 상간소송 칼럼 모음입니다.' },
   divorce: { label: '이혼', kw: '울산이혼변호사', h1: '울산 이혼 변호사 칼럼', desc: '울산 이혼소송·재산분할·양육권·위자료 사건의 준비 절차와 쟁점별 대응 전략을 강성수 변호사가 실제 상담 경험을 바탕으로 정리한 이혼 칼럼 모음입니다.' },
   inheritance: { label: '상속', kw: '울산상속변호사', h1: '울산 상속 변호사 칼럼', desc: '울산 상속재산분할, 유류분, 특별수익, 기여분, 유언 분쟁에서 먼저 확인할 자료와 조정 전략을 강성수 변호사가 사례 중심으로 정리한 상속 칼럼 모음입니다.' },
-  civil: { label: '민사·임대차', kw: '울산민사변호사', h1: '울산 민사·임대차 변호사 칼럼', desc: '울산 민사소송·임대차보증금·손해배상·가압류 사건의 쟁점과 회수 전략을 강성수 변호사가 정리한 민사 칼럼 모음입니다.' },
+  civil: { label: '민사', kw: '울산민사변호사', h1: '울산 민사 변호사 칼럼', desc: '울산 민사소송, 대여금, 손해배상, 가압류와 강제집행 사건의 증거 준비와 회수 전략을 강성수 변호사가 정리한 민사 칼럼 모음입니다.' },
+  realestate: { label: '부동산', kw: '울산부동산변호사', h1: '울산 부동산 변호사 칼럼', desc: '울산 전세보증금, 임대차, 명도, 매매계약과 전세사기 분쟁에서 확인할 계약서와 대응 절차를 강성수 변호사가 정리한 부동산 칼럼 모음입니다.' },
+  rehab: { label: '개인회생·파산', kw: '울산개인회생변호사', h1: '울산 개인회생·파산 변호사 칼럼', desc: '울산 개인회생 신청자격, 금지명령, 변제기간, 개인파산과 면책 절차에서 준비할 자료를 쉽게 정리한 칼럼 모음입니다.' },
+  industrial: { label: '산재', kw: '울산산재변호사', h1: '울산 산재 변호사 칼럼', desc: '울산 산업재해 인정, 장해급여, 불승인 이의제기와 손해배상에서 확인할 증거와 절차를 정리한 산재 칼럼 모음입니다.' },
+  school: { label: '학교폭력', kw: '울산학교폭력변호사', h1: '울산 학교폭력 변호사 칼럼', desc: '울산 학교폭력대책심의위원회, 증거 확보, 처분 불복과 형사사건 전환에 필요한 대응을 정리한 학교폭력 칼럼 모음입니다.' },
+  labor: { label: '노동', kw: '울산노동변호사', h1: '울산 노동 변호사 칼럼', desc: '울산 부당해고 구제신청, 임금체불과 퇴직금 분쟁에서 필요한 증거와 진행 절차를 정리한 노동 칼럼 모음입니다.' },
+  info: { label: '법률상담', kw: '울산법률상담', h1: '울산 법률상담 준비 칼럼', desc: '울산 변호사사무실과 법률상담을 찾을 때 담당 변호사, 상담 자료, 비용과 진행 범위를 확인하는 방법을 정리한 상담 안내 칼럼 모음입니다.' },
 };
 
 function relatedColumns(item, all) {
@@ -736,15 +759,15 @@ const COLUMN_FILTER_SCRIPT = `(function(){
 
 function listingPage(type, items, cases) {
   const isCase = type === 'cases';
-  const title = isCase ? '성공사례 | 울산변호사 강성수' : '법률 칼럼 | 울산변호사 강성수';
+  const title = isCase ? '성공사례 | 울산변호사 강성수' : '울산변호사 법률칼럼 | 형사·이혼·민사·교통사고 상담';
   const description = isCase
     ? '울산변호사 강성수 변호사가 직접 수행한 형사·민사·가사 사건의 쟁점, 대응 과정과 결과를 성공사례로 정리했습니다.'
-    : '울산 형사·성범죄·마약·음주운전·사기·민사 사건을 강성수 변호사가 쉽게 정리한 법률 칼럼입니다. 검색과 분야별 분류로 원하는 칼럼을 빠르게 찾아보세요.';
+    : '울산변호사 강성수가 형사·성범죄·이혼·민사·교통사고·음주운전·상속 사건의 대응 절차와 자주 묻는 질문을 정리한 법률상담 칼럼입니다.';
   const eyebrow = isCase ? 'Success Cases' : 'Legal Column';
-  const h1 = isCase ? '강성수 변호사의 성공사례' : '강성수 변호사의 법률 칼럼';
+  const h1 = isCase ? '강성수 변호사의 성공사례' : '울산변호사 강성수의 법률 칼럼';
   const lead = isCase
     ? '형사·민사·가사 사건의 실제 결과 19건을 한곳에 정리했습니다.'
-    : '형사·민사 사건에서 의뢰인들이 자주 묻는 질문을 분야별로 정리했습니다. 키워드로 검색하거나 분야를 선택해 보세요.';
+    : '울산 형사·성범죄·이혼·민사·교통사고·음주운전·상속 상담에서 자주 묻는 질문을 사건별로 정리했습니다.';
 
   if (isCase) {
     const allCases = [
@@ -878,8 +901,49 @@ function listingPage(type, items, cases) {
           { '@type': 'ListItem', position: 2, name: '법률 칼럼', item: `${SITE_URL}/columns/` },
         ],
       },
+      {
+        '@type': 'FAQPage',
+        mainEntity: [
+          ['울산변호사 상담 전 어떤 자료를 준비해야 하나요?', '사건 경위를 날짜순으로 정리하고 계약서, 고소장, 소장, 문자, 카카오톡, 녹취와 입금내역처럼 사실관계를 확인할 자료를 준비하면 좋습니다.'],
+          ['형사사건은 언제 변호사와 상담하는 것이 좋나요?', '첫 경찰조사에서 남긴 진술이 이후 수사와 재판의 기준이 될 수 있으므로 출석 전에 사실관계와 증거를 점검하는 것이 좋습니다.'],
+          ['전화상담과 방문상담 중 무엇이 좋나요?', '간단한 절차 확인은 전화로 가능하지만 기록이 많거나 쟁점이 복잡한 사건은 자료를 함께 보는 방문상담이 더 정확할 수 있습니다.'],
+        ].map(([name, text]) => ({
+          '@type': 'Question',
+          name,
+          acceptedAnswer: { '@type': 'Answer', text },
+        })),
+      },
     ],
   };
+
+  const seoIntro = `<section class="columns-seo-intro" aria-labelledby="columnsGuideTitle">
+            <div class="columns-seo-intro-inner">
+                <span class="column-eyebrow">Ulsan Legal Guide</span>
+                <h2 id="columnsGuideTitle">사건 분야별 울산 법률상담 안내</h2>
+                <p>법률문제는 같은 사건명이라도 현재 단계와 증거에 따라 대응 순서가 달라집니다. 아래 분야별 칼럼에서 경찰조사, 소송 준비, 합의와 증거 확보 방법을 먼저 확인할 수 있습니다.</p>
+                <div class="columns-guide-links">
+                    <a href="../criminal/"><strong>울산형사변호사</strong><span>경찰조사·구속·사기 사건</span></a>
+                    <a href="../sex-crime/"><strong>울산성범죄변호사</strong><span>강제추행·준강간·카촬죄</span></a>
+                    <a href="../divorce/"><strong>울산이혼변호사</strong><span>재산분할·양육권·위자료</span></a>
+                    <a href="../traffic-accident/"><strong>울산교통사고변호사</strong><span>형사합의·중상해·사망사고</span></a>
+                    <a href="../dui/"><strong>울산음주운전변호사</strong><span>재범·측정거부·면허취소</span></a>
+                    <a href="../civil/"><strong>울산민사변호사</strong><span>대여금·손해배상·강제집행</span></a>
+                    <a href="../inheritance/"><strong>울산상속변호사</strong><span>상속재산분할·유류분</span></a>
+                    <a href="../real-estate/"><strong>울산부동산변호사</strong><span>전세보증금·임대차·매매</span></a>
+                </div>
+            </div>
+        </section>`;
+
+  const faqSection = `<section class="columns-faq" aria-labelledby="columnsFaqTitle">
+            <div class="columns-faq-inner">
+                <span class="column-eyebrow">Frequently Asked Questions</span>
+                <h2 id="columnsFaqTitle">울산 법률상담 자주 묻는 질문</h2>
+                <details><summary>상담 전에 어떤 자료를 준비해야 하나요?</summary><p>사건 경위를 날짜순으로 정리하고 계약서, 고소장, 소장, 문자, 카카오톡, 녹취와 입금내역처럼 사실관계를 확인할 자료를 준비하면 좋습니다.</p></details>
+                <details><summary>형사사건은 언제 상담하는 것이 좋나요?</summary><p>첫 경찰조사에서 남긴 진술이 이후 절차의 기준이 될 수 있으므로 출석 전에 사실관계와 증거를 점검하는 것이 좋습니다.</p></details>
+                <details><summary>전화상담과 방문상담 중 무엇이 좋나요?</summary><p>간단한 절차 확인은 전화로 가능하지만 기록이 많거나 쟁점이 복잡한 사건은 자료를 함께 보는 방문상담이 더 정확할 수 있습니다.</p></details>
+                <a class="column-list-button" href="../lawyer/">강성수 변호사 직접 상담 안내</a>
+            </div>
+        </section>`;
 
   return `${pageHead({ title, description, canonical: `${SITE_URL}/${type}/`, schema })}
 <body class="columns-page">
@@ -892,8 +956,10 @@ function listingPage(type, items, cases) {
                 <p>${lead}</p>
             </div>
         </section>
+        ${seoIntro}
         ${successSection}
         <section class="columns-content">
+            ${catLinksNav}
             <div class="column-toolbar">
                 <div class="column-search">
                     <svg class="column-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20l-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -909,8 +975,8 @@ function listingPage(type, items, cases) {
                 ${cards || '<p class="empty-state">등록된 글이 없습니다.</p>'}
             </div>
             <p class="empty-state" id="columnEmpty" hidden>검색 결과가 없습니다. 다른 키워드로 검색하거나 분야를 바꿔보세요.</p>
-            ${catLinksNav}
         </section>
+        ${faqSection}
     </main>
     ${bottomBar()}
     <script src="../assets/js/main.js?v=20260623-auto"></script>
