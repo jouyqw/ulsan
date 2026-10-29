@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산산재변호사 장해등급 판정, 낮게 나왔을 때 다투는 순서</title>
+      <link>https://ulsanlawyer.kr/columns/industrial-accident-disability</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/industrial-accident-disability</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+      <category>산재 칼럼</category>
+      <description>장해등급이 어떤 자료로 정해지는지, 치유 시점과 측정 방법이 등급을 어떻게 가르는지 정리했습니다. 등급이 낮게 나왔을 때 밟는 불복 절차와 함께, 빠진 상병을 넣는 추가상병 신청과 종결 뒤 악화되었을 때의 재요양까지 순서대로 짚었습니다.</description>
+    </item>
+    <item>
+      <title>울산부동산변호사 매매계약 해제, 계약금 배액상환과 중도금 지급 후의 차이</title>
+      <link>https://ulsanlawyer.kr/columns/real-estate-sale-contract-breach</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/real-estate-sale-contract-breach</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+      <category>부동산 칼럼</category>
+      <description>계약금만 주고받은 단계에서 쓸 수 있는 해약금 해제와 중도금이 들어간 뒤의 채무불이행 해제가 어떻게 달라지는지, 잔금일을 어겼을 때 실제로 해제가 인정되는 조건을 순서대로 정리했습니다.</description>
+    </item>
     <item>
       <title>울산부동산변호사 보증금 우선변제, 대항력이 생기는 시점부터 배당까지</title>
       <link>https://ulsanlawyer.kr/columns/real-estate-deposit-priority</link>
@@ -230,22 +246,6 @@
       <pubDate>Fri, 09 Oct 2026 15:00:00 GMT</pubDate>
       <category>개인회생 칼럼</category>
       <description>신청 직후 추심을 멈추는 금지명령과 이미 진행 중인 집행을 멈추는 중지명령의 차이, 신청 시점을 놓치면 생기는 문제, 급여 압류가 이미 들어온 경우의 대응 순서를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산개인회생 변제기간 3년과 5년, 변제금은 어떻게 정해질까</title>
-      <link>https://ulsanlawyer.kr/columns/rehab-repayment-period</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/rehab-repayment-period</guid>
-      <pubDate>Fri, 09 Oct 2026 15:00:00 GMT</pubDate>
-      <category>개인회생 칼럼</category>
-      <description>변제기간이 3년에서 멈추는 사건과 5년까지 늘어나는 사건의 차이, 생계비로 공제되는 범위와 추가로 인정받을 수 있는 항목, 인가 후 소득이 줄었을 때의 변제계획 변경을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산개인회생 신청 자격, 소득이 불규칙해도 될까</title>
-      <link>https://ulsanlawyer.kr/columns/rehab-eligibility-check</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/rehab-eligibility-check</guid>
-      <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
-      <category>개인회생 칼럼</category>
-      <description>개인회생을 신청할 수 있는 조건과 막히는 경우를 정리하고, 일용직·프리랜서처럼 소득이 들쭉날쭉할 때와 사업소득일 때 월 변제금이 어떤 기준으로 잡히는지 설명했습니다.</description>
     </item>
   </channel>
 </rss>

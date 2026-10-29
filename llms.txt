@@ -30,8 +30,26 @@
 
 ## 분야별 칼럼
 
+### 기타
+
+- [울산산재변호사 장해등급 판정, 낮게 나왔을 때 다투는 순서](https://ulsanlawyer.kr/columns/industrial-accident-disability) (2026-10-29): 장해등급이 정해지는 기준과 낮게 나왔을 때 다투는 방법, 그리고 추가상병과 재요양 신청의 순서를 정리했습니다.
+- [울산학교폭력변호사 학폭이 형사사건이 될 때, 촉법소년과 소년보호사건](https://ulsanlawyer.kr/columns/school-violence-to-criminal) (2026-10-23): 학교 절차가 끝나도 수사는 따로 남습니다. 나이에서 갈리는 분기점과 소년보호사건의 무게를 정리했습니다.
+- [울산학교폭력변호사 학폭 처분 불복, 생활기록부 기재와 90일 기한](https://ulsanlawyer.kr/columns/school-violence-appeal) (2026-10-22): 학폭 처분에 불복할지 정하는 기준은 호수 자체가 아니라 기록에 남는 방식과 남은 날짜입니다.
+- [울산학교폭력변호사 학폭 증거 정리, 심의위원회에 무엇을 낼까](https://ulsanlawyer.kr/columns/school-violence-evidence) (2026-10-22): 학폭 자료는 양이 아니라 날짜와 출처에서 힘이 생깁니다. 모으는 순서와 정리 방법을 정리했습니다.
+- [울산노동변호사 부당해고 구제신청, 3개월과 권고사직의 경계](https://ulsanlawyer.kr/columns/unfair-dismissal-remedy) (2026-10-21): 부당해고를 다투는 절차와 3개월 기한, 그리고 권고사직과 해고가 갈리는 지점을 정리했습니다.
+- [울산노동변호사 체불임금 받는 순서, 노동청 진정과 민사소송](https://ulsanlawyer.kr/columns/unpaid-wage-recovery) (2026-10-20): 체불임금을 받는 절차를 노동청 진정, 민사소송, 대지급금 순서로 나누어 무엇을 먼저 해야 하는지 정리했습니다.
+- [울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까](https://ulsanlawyer.kr/columns/industrial-accident-vs-damages) (2026-10-19): 산재 승인을 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와, 보험급여와 겹쳐 공제되는 항목을 정리했습니다.
+- [울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지](https://ulsanlawyer.kr/columns/industrial-accident-appeal) (2026-10-16): 산재 불승인 통지를 받은 뒤의 심사청구·재심사청구·행정소송 순서와 각 단계에서 놓치면 안 되는 기한을 정리했습니다.
+- [울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까](https://ulsanlawyer.kr/columns/industrial-accident-recognition) (2026-10-16): 업무상 재해로 인정되는 범위와 불승인이 나오는 이유, 그리고 출퇴근 재해와 질병 산재가 어디서 갈리는지 정리했습니다.
+- [울산파산 면책불허가 사유, 재산 처분과 도박 이력은 어떻게 다툴까](https://ulsanlawyer.kr/columns/bankruptcy-discharge-denial) (2026-10-12): 파산 면책이 거절되는 사유를 유형별로 정리하고, 재산을 처분했거나 도박 이력이 있는 사건에서 소명의 방향을 설명했습니다.
+- [울산개인회생 금지명령과 중지명령, 추심은 언제 멈출까](https://ulsanlawyer.kr/columns/rehab-inhibition-order) (2026-10-10): 개인회생 신청과 함께 쓰는 금지명령과 중지명령의 차이, 신청 시점, 급여 압류가 이미 들어왔을 때의 대응을 정리했습니다.
+- [울산개인회생 변제기간 3년과 5년, 변제금은 어떻게 정해질까](https://ulsanlawyer.kr/columns/rehab-repayment-period) (2026-10-10): 개인회생 변제기간이 3년과 5년으로 갈리는 기준, 생계비 공제 범위, 변제금이 줄어드는 사정을 순서대로 정리했습니다.
+- [울산개인회생 신청 자격, 소득이 불규칙해도 될까](https://ulsanlawyer.kr/columns/rehab-eligibility-check) (2026-10-09): 개인회생을 신청할 수 있는 조건과 못 하는 경우, 소득이 불규칙하거나 사업소득일 때 변제금이 잡히는 기준을 정리했습니다.
+- [울산개인회생과 파산, 소득·재산·채무로 갈리는 선택 기준](https://ulsanlawyer.kr/columns/rehab-vs-bankruptcy) (2026-10-09): 개인회생과 파산 중 무엇을 고를지 가르는 기준을 소득·재산·채무 구조 세 축으로 나누어 정리했습니다.
+
 ### 민사·임대차
 
+- [울산부동산변호사 매매계약 해제, 계약금 배액상환과 중도금 지급 후의 차이](https://ulsanlawyer.kr/columns/real-estate-sale-contract-breach) (2026-10-29): 계약금 배액상환으로 끝낼 수 있는 단계와 중도금 이후의 해제, 잔금일을 어겼을 때 필요한 절차를 정리했습니다.
 - [울산부동산변호사 보증금 우선변제, 대항력이 생기는 시점부터 배당까지](https://ulsanlawyer.kr/columns/real-estate-deposit-priority) (2026-10-28): 대항력과 우선변제권이 생기는 시점, 경매가 들어왔을 때 보증금을 지키는 순서를 날짜 기준으로 정리했습니다.
 - [울산부동산변호사 계약갱신요구권 거절 사유와 실거주 주장을 다투는 기준](https://ulsanlawyer.kr/columns/real-estate-lease-renewal) (2026-10-28): 계약갱신요구권을 거절할 수 있는 사유와, 실거주를 이유로 든 경우 양쪽이 무엇을 준비해야 하는지 정리했습니다.
 - [울산부동산변호사 전세사기 대응, 임차권등기·경매·형사고소의 순서](https://ulsanlawyer.kr/columns/jeonse-fraud-response) (2026-10-20): 전세사기 의심 상황에서 임차권등기, 경매 배당, 형사고소를 어떤 순서로 가져가야 하는지 기준을 정리했습니다.
@@ -92,22 +110,6 @@
 - [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
 - [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
 - [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
-
-### 기타
-
-- [울산학교폭력변호사 학폭이 형사사건이 될 때, 촉법소년과 소년보호사건](https://ulsanlawyer.kr/columns/school-violence-to-criminal) (2026-10-23): 학교 절차가 끝나도 수사는 따로 남습니다. 나이에서 갈리는 분기점과 소년보호사건의 무게를 정리했습니다.
-- [울산학교폭력변호사 학폭 처분 불복, 생활기록부 기재와 90일 기한](https://ulsanlawyer.kr/columns/school-violence-appeal) (2026-10-22): 학폭 처분에 불복할지 정하는 기준은 호수 자체가 아니라 기록에 남는 방식과 남은 날짜입니다.
-- [울산학교폭력변호사 학폭 증거 정리, 심의위원회에 무엇을 낼까](https://ulsanlawyer.kr/columns/school-violence-evidence) (2026-10-22): 학폭 자료는 양이 아니라 날짜와 출처에서 힘이 생깁니다. 모으는 순서와 정리 방법을 정리했습니다.
-- [울산노동변호사 부당해고 구제신청, 3개월과 권고사직의 경계](https://ulsanlawyer.kr/columns/unfair-dismissal-remedy) (2026-10-21): 부당해고를 다투는 절차와 3개월 기한, 그리고 권고사직과 해고가 갈리는 지점을 정리했습니다.
-- [울산노동변호사 체불임금 받는 순서, 노동청 진정과 민사소송](https://ulsanlawyer.kr/columns/unpaid-wage-recovery) (2026-10-20): 체불임금을 받는 절차를 노동청 진정, 민사소송, 대지급금 순서로 나누어 무엇을 먼저 해야 하는지 정리했습니다.
-- [울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까](https://ulsanlawyer.kr/columns/industrial-accident-vs-damages) (2026-10-19): 산재 승인을 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와, 보험급여와 겹쳐 공제되는 항목을 정리했습니다.
-- [울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지](https://ulsanlawyer.kr/columns/industrial-accident-appeal) (2026-10-16): 산재 불승인 통지를 받은 뒤의 심사청구·재심사청구·행정소송 순서와 각 단계에서 놓치면 안 되는 기한을 정리했습니다.
-- [울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까](https://ulsanlawyer.kr/columns/industrial-accident-recognition) (2026-10-16): 업무상 재해로 인정되는 범위와 불승인이 나오는 이유, 그리고 출퇴근 재해와 질병 산재가 어디서 갈리는지 정리했습니다.
-- [울산파산 면책불허가 사유, 재산 처분과 도박 이력은 어떻게 다툴까](https://ulsanlawyer.kr/columns/bankruptcy-discharge-denial) (2026-10-12): 파산 면책이 거절되는 사유를 유형별로 정리하고, 재산을 처분했거나 도박 이력이 있는 사건에서 소명의 방향을 설명했습니다.
-- [울산개인회생 금지명령과 중지명령, 추심은 언제 멈출까](https://ulsanlawyer.kr/columns/rehab-inhibition-order) (2026-10-10): 개인회생 신청과 함께 쓰는 금지명령과 중지명령의 차이, 신청 시점, 급여 압류가 이미 들어왔을 때의 대응을 정리했습니다.
-- [울산개인회생 변제기간 3년과 5년, 변제금은 어떻게 정해질까](https://ulsanlawyer.kr/columns/rehab-repayment-period) (2026-10-10): 개인회생 변제기간이 3년과 5년으로 갈리는 기준, 생계비 공제 범위, 변제금이 줄어드는 사정을 순서대로 정리했습니다.
-- [울산개인회생 신청 자격, 소득이 불규칙해도 될까](https://ulsanlawyer.kr/columns/rehab-eligibility-check) (2026-10-09): 개인회생을 신청할 수 있는 조건과 못 하는 경우, 소득이 불규칙하거나 사업소득일 때 변제금이 잡히는 기준을 정리했습니다.
-- [울산개인회생과 파산, 소득·재산·채무로 갈리는 선택 기준](https://ulsanlawyer.kr/columns/rehab-vs-bankruptcy) (2026-10-09): 개인회생과 파산 중 무엇을 고를지 가르는 기준을 소득·재산·채무 구조 세 축으로 나누어 정리했습니다.
 
 ### 형사
 
