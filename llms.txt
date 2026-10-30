@@ -32,10 +32,19 @@
 
 ### 산재
 
+- [울산산재변호사 업무상 사망 유족급여, 과로사와 직업병은 어떻게 입증할까](https://ulsanlawyer.kr/columns/industrial-accident-death) (2026-10-30): 업무상 사망으로 인정되는 범위와 유족급여·장의비 청구 절차, 과로사와 직업병에서 입증이 갈리는 지점을 정리했습니다.
 - [울산산재변호사 장해등급 판정, 낮게 나왔을 때 다투는 순서](https://ulsanlawyer.kr/columns/industrial-accident-disability) (2026-10-29): 장해등급이 정해지는 기준과 낮게 나왔을 때 다투는 방법, 그리고 추가상병과 재요양 신청의 순서를 정리했습니다.
 - [울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까](https://ulsanlawyer.kr/columns/industrial-accident-vs-damages) (2026-10-19): 산재 승인을 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와, 보험급여와 겹쳐 공제되는 항목을 정리했습니다.
 - [울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지](https://ulsanlawyer.kr/columns/industrial-accident-appeal) (2026-10-16): 산재 불승인 통지를 받은 뒤의 심사청구·재심사청구·행정소송 순서와 각 단계에서 놓치면 안 되는 기한을 정리했습니다.
 - [울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까](https://ulsanlawyer.kr/columns/industrial-accident-recognition) (2026-10-16): 업무상 재해로 인정되는 범위와 불승인이 나오는 이유, 그리고 출퇴근 재해와 질병 산재가 어디서 갈리는지 정리했습니다.
+
+### 상담·안내
+
+- [울산변호사상담 처음 상담 예약 전에 정리해 둘 세 가지](https://ulsanlawyer.kr/columns/ulsan-lawyer-consultation-how) (2026-10-30): 처음 상담 예약 전에 시간순 정리와 자료 목록, 질문 세 가지를 준비해 두면 같은 한 시간에서 받아 갈 수 있는 답이 달라집니다.
+- [울산변호사사무실 상담, 비용보다 먼저 확인해야 할 진행 방식](https://ulsanlawyer.kr/columns/ulsan-law-office-consultation-cost-process) (2026-10-05): 변호사사무실을 고를 때에는 비용만 비교하기보다 누가 직접 사건을 맡는지, 업무 범위와 추가 비용, 연락 방식을 구체적으로 확인해야 합니다.
+- [울산변호사사무실 선택 전, 직접 상담인지 확인해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-law-office-direct-consultation) (2026-09-14): 변호사사무실 선택에서는 누가 상담하고, 누가 기록을 보고, 누가 사건을 진행하는지가 중요합니다. 직접 상담 여부를 먼저 확인해야 합니다.
+- [울산법률상담 처음 받을 때, 변호사사무실 방문 전 준비할 것](https://ulsanlawyer.kr/columns/ulsan-legal-consultation-first-visit) (2026-09-14): 법률상담은 자료가 정리될수록 정확해집니다. 방문 전 사건 경위, 증거, 원하는 결과를 나누어 준비하면 상담의 밀도가 달라집니다.
+- [사무장·상담실장 없는 직접 상담이 중요한 이유](https://ulsanlawyer.kr/columns/direct-consultation) (2026-06-23): 초기 법률 판단을 누가 하느냐에 따라 대응 방향이 달라질 수 있습니다.
 
 ### 부동산
 
@@ -220,13 +229,6 @@
 - [울산보이스피싱전문변호사 상담, 현금수거책·통장대여 혐의 대응](https://ulsanlawyer.kr/columns/ulsan-voice-phishing-lawyer-cash-collector) (2026-10-05): 단순 아르바이트인 줄 알았다는 말만으로는 부족할 수 있습니다. 채용 경위와 지시 내용, 대가, 이동과 전달 과정을 객관적 기록으로 설명해야 합니다.
 - [사기 혐의 부인하다 실형 위기, 집행유예로 끝난 사건](https://ulsanlawyer.kr/columns/fraud-denial-probation) (2026-06-24): 사기 혐의를 계속 부인하다 실형 위험이 커진 사건에서, 증거 구조를 분석하고 피해 회복과 합의를 진행해 집행유예로 마무리한 사례입니다.
 - [전세계약서 위조 대출사기, 사기·사문서위조 혐의에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/lease-contract-forgery-loan-fraud-probation) (2026-06-24): 가짜 전세계약서를 이용한 대출사기 사건에서 사기, 사문서위조, 위조사문서행사 혐의가 함께 적용되었지만 집행유예를 이끌어낸 사례입니다.
-
-### 상담·안내
-
-- [울산변호사사무실 상담, 비용보다 먼저 확인해야 할 진행 방식](https://ulsanlawyer.kr/columns/ulsan-law-office-consultation-cost-process) (2026-10-05): 변호사사무실을 고를 때에는 비용만 비교하기보다 누가 직접 사건을 맡는지, 업무 범위와 추가 비용, 연락 방식을 구체적으로 확인해야 합니다.
-- [울산변호사사무실 선택 전, 직접 상담인지 확인해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-law-office-direct-consultation) (2026-09-14): 변호사사무실 선택에서는 누가 상담하고, 누가 기록을 보고, 누가 사건을 진행하는지가 중요합니다. 직접 상담 여부를 먼저 확인해야 합니다.
-- [울산법률상담 처음 받을 때, 변호사사무실 방문 전 준비할 것](https://ulsanlawyer.kr/columns/ulsan-legal-consultation-first-visit) (2026-09-14): 법률상담은 자료가 정리될수록 정확해집니다. 방문 전 사건 경위, 증거, 원하는 결과를 나누어 준비하면 상담의 밀도가 달라집니다.
-- [사무장·상담실장 없는 직접 상담이 중요한 이유](https://ulsanlawyer.kr/columns/direct-consultation) (2026-06-23): 초기 법률 판단을 누가 하느냐에 따라 대응 방향이 달라질 수 있습니다.
 
 ### 마약
 
