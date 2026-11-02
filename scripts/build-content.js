@@ -1218,6 +1218,10 @@ function buildSitemap(columns, cases) {
     ['/areas/gyeongju/', '2026-11-02'],
     ['/areas/gijang/', '2026-11-02'],
     ['/areas/miryang/', '2026-11-02'],
+    ['/guides/', '2026-11-02'],
+    ['/guides/civil-litigation-lawyer/', '2026-11-02'],
+    ['/guides/real-estate-specialist-lawyer/', '2026-11-02'],
+    ['/guides/criminal-litigation-lawyer/', '2026-11-02'],
   ];
 
   const urls = staticUrls.map(([url, lastmod]) => ({ loc: `${SITE_URL}${url}`, lastmod }));

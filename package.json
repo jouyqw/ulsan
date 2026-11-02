@@ -5,6 +5,7 @@
   "scripts": {
     "build": "node scripts/build-content.js && node scripts/normalize-html.js && node scripts/check-seo.js",
     "build:areas": "node scripts/build-area-pages.js && node scripts/normalize-html.js && node scripts/check-seo.js",
+    "build:guides": "node scripts/build-keyword-pages.js && node scripts/normalize-html.js && node scripts/check-seo.js",
     "check:seo": "node scripts/check-seo.js",
     "new:column": "node scripts/create-column.js"
   }
