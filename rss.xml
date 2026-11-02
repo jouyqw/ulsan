@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산사기변호사 돈의 흐름 입증, 투자 손실과 사기는 어디서 갈릴까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-fraud-lawyer-money-flow</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-fraud-lawyer-money-flow</guid>
+      <pubDate>Sun, 01 Nov 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>빌린 돈을 못 갚았다는 사실만으로 사기가 되지는 않습니다. 계좌 거래내역과 메신저 기록으로 돈을 받을 당시의 변제 의사와 능력을 다투는 순서, 투자 실패와 편취의 고의가 갈리는 기준을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산법무법인과 개인 사무실, 내 사건은 누가 직접 보는가</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-law-firm-vs-solo</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-law-firm-vs-solo</guid>
+      <pubDate>Sun, 01 Nov 2026 15:00:00 GMT</pubDate>
+      <category>법률상담 칼럼</category>
+      <description>법인과 개인 사무실의 구조가 실제로 어디에서 갈리는지, 담당 변호사가 정해지는 과정과 확인하는 방법, 수임계약서에 적어 두어야 할 항목을 의뢰인 입장에서 정리했습니다.</description>
+    </item>
     <item>
       <title>강간 혐의 송치 후 혐의없음(증거불충분) 처분을 받은 사례</title>
       <link>https://ulsanlawyer.kr/cases/rape-insufficient-evidence-transfer-defense</link>
@@ -230,22 +246,6 @@
       <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
       <category>상속 칼럼</category>
       <description>상속포기를 하면 채무가 다음 순위 상속인에게 이동합니다. 자녀에서 손자녀, 부모, 형제자매로 번지는 경로와 배우자만 남는 경우의 처리, 가족이 한 번에 정리할 때의 조합과 순서를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산상속변호사 한정승인 절차, 빚이 얼마인지 모를 때</title>
-      <link>https://ulsanlawyer.kr/columns/inheritance-limited-acceptance</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/inheritance-limited-acceptance</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
-      <category>상속 칼럼</category>
-      <description>상속채무 규모를 모르는 상태에서 쓰는 한정승인의 3개월 기산점과 기간 연장, 특별한정승인이 인정되는 조건, 신고 수리 후 공고·채권신고·배당변제로 이어지는 청산 절차를 순서대로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산교통사고변호사 뺑소니 성립 기준, 현장을 떠났다면 모두 해당될까</title>
-      <link>https://ulsanlawyer.kr/columns/traffic-hit-and-run-criteria</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/traffic-hit-and-run-criteria</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
-      <category>교통사고 칼럼</category>
-      <description>사고 후 현장을 벗어난 사정이 곧바로 도주로 평가되지는 않습니다. 구호조치 의무의 범위, 도주 고의를 판단하는 기준, 사고후미조치와 도주치상이 갈리는 지점을 조사 준비 순서에 맞춰 정리했습니다.</description>
     </item>
   </channel>
 </rss>
