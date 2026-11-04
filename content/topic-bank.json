@@ -3,6 +3,69 @@
   "_categoryNote": "category 값은 build-content.js 의 COLUMN_CATEGORIES 정규식에 걸려야 분야 페이지·내부링크가 붙는다. 기존 글에서 가장 많이 쓰인 표기로 통일했다.",
   "topics": [
     {
+      "slug": "gyeongju-lawyer-case-entrust",
+      "category": "법률상담 칼럼",
+      "prefix": "경주변호사",
+      "keyword": "경주변호사 4,510",
+      "angle": "경주에서 사건이 생겼을 때 어디로 가는지 — 대구지방법원 경주지원 관할과 울산에서 상담받는 경우. 사건은 시 경계를 안 따른다"
+    },
+    {
+      "slug": "gyeongju-criminal-investigation",
+      "category": "형사사건 칼럼",
+      "prefix": "경주변호사",
+      "keyword": "경주변호사 4,510",
+      "angle": "경주 사건의 경찰 조사 대응 순서와 관할 경찰서·검찰청 흐름"
+    },
+    {
+      "slug": "gyeongju-divorce-procedure",
+      "category": "이혼소송 칼럼",
+      "prefix": "경주이혼변호사",
+      "keyword": "경주이혼변호사 465",
+      "angle": "경주 이혼 사건이 어느 법원으로 가는지와 재산분할 준비"
+    },
+    {
+      "slug": "gyeongju-sex-crime-response",
+      "category": "성범죄 칼럼",
+      "prefix": "경주변호사",
+      "keyword": "경주변호사 4,510",
+      "angle": "경주 성범죄 사건의 초기 조사 대응과 울산에서 상담받는 경우"
+    },
+    {
+      "slug": "yangsan-lawyer-case-entrust",
+      "category": "법률상담 칼럼",
+      "prefix": "양산변호사",
+      "keyword": "양산변호사 970",
+      "angle": "양산 사건의 관할과 상담 — 울산 생활권인데 법원은 다른 곳으로 간다"
+    },
+    {
+      "slug": "yangsan-divorce-procedure",
+      "category": "이혼소송 칼럼",
+      "prefix": "양산이혼변호사",
+      "keyword": "양산이혼변호사 420",
+      "angle": "양산 이혼 사건의 관할 법원과 조정 절차"
+    },
+    {
+      "slug": "yangsan-criminal-investigation",
+      "category": "형사사건 칼럼",
+      "prefix": "양산변호사",
+      "keyword": "양산변호사 970",
+      "angle": "양산 형사 사건의 조사 대응과 울산 사무소에서 맡는 범위"
+    },
+    {
+      "slug": "miryang-lawyer-case-entrust",
+      "category": "법률상담 칼럼",
+      "prefix": "밀양변호사",
+      "keyword": "밀양변호사 880",
+      "angle": "밀양 사건의 관할과 먼 거리 상담을 진행하는 방법"
+    },
+    {
+      "slug": "ulju-lawyer-guide",
+      "category": "법률상담 칼럼",
+      "prefix": "울주변호사",
+      "keyword": "울산변호사 4,940",
+      "angle": "울주군·언양 사건의 관할과 상담 — 같은 울산인데 거리가 멀다"
+    },
+    {
       "slug": "criminal-fine-labor-installment",
       "category": "형사사건 칼럼",
       "prefix": "울산형사전문변호사",

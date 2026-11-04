@@ -35,6 +35,21 @@ const LOG = path.join(ROOT, 'refill.log');
 const LOCK = path.join(ROOT, '.refill.lock');
 const DESK = path.join(process.env.USERPROFILE || '', 'Desktop', '울산_칼럼보충_실패.txt');
 
+/**
+ * 상담 권역. keywords 검사가 이 표를 본다 — 표를 늘리면 검사도 따라온다.
+ *
+ * 2026-11-02 주변지역을 넣었다. 사무소는 울산 남구인데 사건은 시 경계를 안 따른다.
+ * 네이버 검색광고 실측으로 주변 수요가 울산에 못지않다는 걸 확인했다.
+ *   울산변호사 4,940 · 경주변호사 4,510 · 양산변호사 970 · 밀양변호사 880
+ *   경주이혼변호사 465 · 양산이혼변호사 420 · 양산변호사사무실 410
+ *
+ * 경주가 울산과 거의 맞먹는데 글이 한 편도 없었다. 차로 사십 분 거리다.
+ * '지역+분야변호사' 는 백 회 미만으로 작다 — 사람들은 분야를 좁히기 전에
+ * 지역으로 먼저 찾는다. 그래서 분야 없는 형태를 먼저 노린다.
+ */
+const REGIONS = ['울산', '경주', '양산', '밀양', '울주', '언양'];
+const REGION_OK = new RegExp('(' + REGIONS.join('|') + ')');
+
 const PER_DAY = 2;            // 하루에 몇 편 발행하나. 같은 date 를 이 수만큼 배정한다
 const THRESHOLD = 10;         // 예약 잔량이 이 미만이면 채운다(= 5일치)
 const TARGET = 20;            // 채울 때는 여기까지(= 10일치)
@@ -152,7 +167,13 @@ function validate(topic, date, seenTitles, seenSlugs) {
   if (len(d.description) < 80 || len(d.description) > 160) e.push(`description 길이 ${len(d.description)}자 (80~160)`);
   if (len(d.summary) < 30 || len(d.summary) > 120) e.push(`summary 길이 ${len(d.summary)}자 (30~120)`);
   if (!Array.isArray(d.keywords) || d.keywords.length < 4) e.push('keywords 4개 미만');
-  else if (!d.keywords.some((k) => String(k).includes('울산'))) e.push('keywords 에 울산 지역 키워드가 없습니다');
+  // 2026-11-02 주변지역을 넣으면서 '울산' 고정 검사를 풀었다.
+  // 그대로 두면 경주·양산 글이 전부 "울산 지역 키워드가 없습니다" 로 반려된다.
+  // 사건은 시 경계를 안 따르고, 실측해 보니 경주변호사 4,510 이 울산변호사 4,940 과 맞먹는다.
+  // 다만 아무 지역이나 되면 안 되므로 상담 권역만 허용한다.
+  else if (!d.keywords.some((k) => REGION_OK.test(String(k)))) {
+    e.push(`keywords 에 상담 권역 지역명이 없습니다 (${REGIONS.join('·')} 중 하나)`);
+  }
 
   if (len(b) < 3000) e.push(`본문이 짧습니다 (${len(b)}자, 최소 3000)`);
   if (len(b) > 9000) e.push(`본문이 너무 깁니다 (${len(b)}자)`);
