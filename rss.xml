@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산음주운전변호사 면허 처분과 형사처벌은 따로 갑니다</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-dui-lawyer-license-first</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-dui-lawyer-license-first</guid>
+      <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+      <category>교통사고 칼럼</category>
+      <description>음주운전 면허 처분이 형사재판 결과를 기다려 주지 않는 이유와, 이의신청 60일·행정심판 90일 기한을 어떤 순서로 써야 하는지, 집행정지와 감경 제외 사정까지 통지받은 시점 기준으로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산부동산변호사 보증금 반환 순서, 임차권등기부터 경매까지 걸리는 기간</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-real-estate-lawyer-deposit-return</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-real-estate-lawyer-deposit-return</guid>
+      <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+      <category>부동산 칼럼</category>
+      <description>계약 종료 통지와 등기부 확인에서 임차권등기명령, 지급명령 또는 반환소송, 강제경매와 배당까지 각 단계가 실제로 어느 정도 걸리는지와 단계를 건너뛰었을 때 되돌아가는 지점을 정리했습니다.</description>
+    </item>
     <item>
       <title>울산마약변호사 치료조건부 기소유예 요건, 어떤 자료로 소명할까</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-treatment-condition</link>
@@ -230,22 +246,6 @@
       <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
       <category>부동산 칼럼</category>
       <description>차임이 밀렸을 때 계약 해지 통보에서 점유이전금지가처분, 명도소송, 인도집행까지 이어지는 순서와 각 단계에서 놓치면 처음부터 다시 해야 하는 지점을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까</title>
-      <link>https://ulsanlawyer.kr/columns/industrial-accident-vs-damages</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/industrial-accident-vs-damages</guid>
-      <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
-      <category>산재 칼럼</category>
-      <description>산재보험 급여를 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와 그 요건, 휴업급여·장해급여처럼 공제되는 항목과 위자료처럼 남는 항목, 과실상계와 공제의 순서를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산교통사고전문변호사 찾을 때, 선임 전 확인할 7가지</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-traffic-accident-specialist-lawyer-checklist</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-traffic-accident-specialist-lawyer-checklist</guid>
-      <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
-      <category>교통사고 칼럼</category>
-      <description>울산교통사고변호사 상담과 선임 전 확인할 기준을 정리했습니다. 사고 영상 검토, 형사·보험 절차 구분, 피해 회복, 직접 상담 여부와 준비자료를 안내합니다.</description>
     </item>
   </channel>
 </rss>

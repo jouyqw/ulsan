@@ -30,6 +30,28 @@
 
 ## 분야별 칼럼
 
+### 교통사고
+
+- [울산음주운전변호사 면허 처분과 형사처벌은 따로 갑니다](https://ulsanlawyer.kr/columns/ulsan-dui-lawyer-license-first) (2026-11-05): 면허 처분은 형사재판 결과를 기다려 주지 않습니다. 이의신청과 행정심판의 기한, 두 절차가 갈리는 지점을 정리했습니다.
+- [울산교통사고전문변호사 찾을 때, 선임 전 확인할 7가지](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-specialist-lawyer-checklist) (2026-10-16): 교통사고 변호사를 찾을 때 광고 문구보다 먼저 확인해야 할 사건 검토 방식, 직접 상담 여부, 형사·보험 절차와 준비자료를 7가지 기준으로 정리했습니다.
+- [울산교통사고변호사 뺑소니 성립 기준, 현장을 떠났다면 모두 해당될까](https://ulsanlawyer.kr/columns/traffic-hit-and-run-criteria) (2026-10-14): 현장을 떠났다는 사실만으로 뺑소니가 되는 것은 아닙니다. 구호조치를 어디까지 해야 하고 도주 고의가 어떻게 판단되는지 정리했습니다.
+- [울산교통사고변호사 과실비율, 뒤집을 수 있는 자료와 다투는 순서](https://ulsanlawyer.kr/columns/traffic-fault-ratio-dispute) (2026-10-13): 보험사가 알려 준 과실비율은 확정된 숫자가 아닙니다. 어떤 근거로 정해지고 무엇으로 조정할 수 있는지 정리했습니다.
+- [울산교통사고변호사 합의금 산정 기준, 치료비·휴업손해·위자료](https://ulsanlawyer.kr/columns/traffic-injury-settlement) (2026-10-13): 교통사고 합의금은 감으로 정해지지 않습니다. 치료비·휴업손해·위자료가 각각 어떻게 계산되고 어디서 보험사 제시액과 벌어지는지 정리했습니다.
+- [울산교통사고변호사 12대 중과실, 보험으로 끝나지 않는 사고](https://ulsanlawyer.kr/columns/traffic-12-exceptions) (2026-10-12): 종합보험에 들어 있어도 12대 중과실에 해당하면 형사절차가 따로 진행됩니다. 어디까지가 해당되고 무엇이 갈림길인지 정리했습니다.
+- [울산교통사고변호사 상담 전, 사고 직후 먼저 정리할 7가지](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-lawyer-first-response) (2026-10-05): 교통사고 사건은 사고 직후 확보한 영상과 진술, 피해 회복 순서가 중요합니다. 경찰 연락을 받은 뒤 무엇부터 준비해야 하는지 정리했습니다.
+- [울산교통사고변호사 사망 사고, 형사책임과 피해 회복을 함께 본 사례](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-death-victim-family-settlement) (2026-09-13): 교통사고 사망 사건은 형사책임만 보는 문제가 아닙니다. 사고 원인, 주의의무, 보험 처리, 유족과의 소통을 같은 순서 안에서 정리해야 합니다.
+
+### 부동산
+
+- [울산부동산변호사 보증금 반환 순서, 임차권등기부터 경매까지 걸리는 기간](https://ulsanlawyer.kr/columns/ulsan-real-estate-lawyer-deposit-return) (2026-11-05): 임차권등기, 지급명령, 강제경매로 이어지는 보증금 반환 순서와 단계마다 실제로 걸리는 기간을 정리했습니다.
+- [울산부동산변호사 매매계약 해제, 계약금 배액상환과 중도금 지급 후의 차이](https://ulsanlawyer.kr/columns/real-estate-sale-contract-breach) (2026-10-29): 계약금 배액상환으로 끝낼 수 있는 단계와 중도금 이후의 해제, 잔금일을 어겼을 때 필요한 절차를 정리했습니다.
+- [울산부동산변호사 보증금 우선변제, 대항력이 생기는 시점부터 배당까지](https://ulsanlawyer.kr/columns/real-estate-deposit-priority) (2026-10-28): 대항력과 우선변제권이 생기는 시점, 경매가 들어왔을 때 보증금을 지키는 순서를 날짜 기준으로 정리했습니다.
+- [울산부동산변호사 계약갱신요구권 거절 사유와 실거주 주장을 다투는 기준](https://ulsanlawyer.kr/columns/real-estate-lease-renewal) (2026-10-28): 계약갱신요구권을 거절할 수 있는 사유와, 실거주를 이유로 든 경우 양쪽이 무엇을 준비해야 하는지 정리했습니다.
+- [울산부동산변호사 전세사기 대응, 임차권등기·경매·형사고소의 순서](https://ulsanlawyer.kr/columns/jeonse-fraud-response) (2026-10-20): 전세사기 의심 상황에서 임차권등기, 경매 배당, 형사고소를 어떤 순서로 가져가야 하는지 기준을 정리했습니다.
+- [울산부동산변호사 명도소송 순서, 차임 연체부터 인도집행까지](https://ulsanlawyer.kr/columns/eviction-lawsuit-order) (2026-10-19): 차임 연체로 계약을 해지하고 명도소송에 들어가는 순서, 그리고 가처분을 소장보다 먼저 접수하는 이유를 정리했습니다.
+- [울산부동산변호사 전세보증금 반환, 임차권등기와 소송 순서](https://ulsanlawyer.kr/columns/ulsan-real-estate-lawyer-lease-deposit-order) (2026-09-14): 전세보증금 반환 사건은 이사, 임차권등기, 소송, 집행 순서가 중요합니다. 순서가 틀리면 권리 보전에 문제가 생길 수 있습니다.
+- [보증금을 돌려받지 못할 때 가능한 절차](https://ulsanlawyer.kr/columns/lease-deposit) (2026-06-23): 내용증명, 지급명령, 보증금 반환소송을 상황별로 나누어 설명합니다.
+
 ### 형사
 
 - [울산마약변호사 치료조건부 기소유예 요건, 어떤 자료로 소명할까](https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-treatment-condition) (2026-11-04): 요건을 갖췄다고 자동으로 나오는 처분이 아닙니다. 실제로 검토되는 기준과 자료를 정리하는 순서를 짚었습니다.
@@ -93,16 +115,6 @@
 - [울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지](https://ulsanlawyer.kr/columns/industrial-accident-appeal) (2026-10-16): 산재 불승인 통지를 받은 뒤의 심사청구·재심사청구·행정소송 순서와 각 단계에서 놓치면 안 되는 기한을 정리했습니다.
 - [울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까](https://ulsanlawyer.kr/columns/industrial-accident-recognition) (2026-10-16): 업무상 재해로 인정되는 범위와 불승인이 나오는 이유, 그리고 출퇴근 재해와 질병 산재가 어디서 갈리는지 정리했습니다.
 
-### 부동산
-
-- [울산부동산변호사 매매계약 해제, 계약금 배액상환과 중도금 지급 후의 차이](https://ulsanlawyer.kr/columns/real-estate-sale-contract-breach) (2026-10-29): 계약금 배액상환으로 끝낼 수 있는 단계와 중도금 이후의 해제, 잔금일을 어겼을 때 필요한 절차를 정리했습니다.
-- [울산부동산변호사 보증금 우선변제, 대항력이 생기는 시점부터 배당까지](https://ulsanlawyer.kr/columns/real-estate-deposit-priority) (2026-10-28): 대항력과 우선변제권이 생기는 시점, 경매가 들어왔을 때 보증금을 지키는 순서를 날짜 기준으로 정리했습니다.
-- [울산부동산변호사 계약갱신요구권 거절 사유와 실거주 주장을 다투는 기준](https://ulsanlawyer.kr/columns/real-estate-lease-renewal) (2026-10-28): 계약갱신요구권을 거절할 수 있는 사유와, 실거주를 이유로 든 경우 양쪽이 무엇을 준비해야 하는지 정리했습니다.
-- [울산부동산변호사 전세사기 대응, 임차권등기·경매·형사고소의 순서](https://ulsanlawyer.kr/columns/jeonse-fraud-response) (2026-10-20): 전세사기 의심 상황에서 임차권등기, 경매 배당, 형사고소를 어떤 순서로 가져가야 하는지 기준을 정리했습니다.
-- [울산부동산변호사 명도소송 순서, 차임 연체부터 인도집행까지](https://ulsanlawyer.kr/columns/eviction-lawsuit-order) (2026-10-19): 차임 연체로 계약을 해지하고 명도소송에 들어가는 순서, 그리고 가처분을 소장보다 먼저 접수하는 이유를 정리했습니다.
-- [울산부동산변호사 전세보증금 반환, 임차권등기와 소송 순서](https://ulsanlawyer.kr/columns/ulsan-real-estate-lawyer-lease-deposit-order) (2026-09-14): 전세보증금 반환 사건은 이사, 임차권등기, 소송, 집행 순서가 중요합니다. 순서가 틀리면 권리 보전에 문제가 생길 수 있습니다.
-- [보증금을 돌려받지 못할 때 가능한 절차](https://ulsanlawyer.kr/columns/lease-deposit) (2026-06-23): 내용증명, 지급명령, 보증금 반환소송을 상황별로 나누어 설명합니다.
-
 ### 이혼
 
 - [울산이혼전문변호사 사업체 재산분할, 기여도와 평가는 어떻게 정해질까](https://ulsanlawyer.kr/columns/divorce-property-division-business) (2026-10-27): 사업체는 명의가 한쪽이어도 분할 대상이 됩니다. 무엇을 올리고 어떻게 평가하는지, 기여도를 무엇으로 보는지 정리했습니다.
@@ -150,16 +162,6 @@
 
 - [울산노동변호사 부당해고 구제신청, 3개월과 권고사직의 경계](https://ulsanlawyer.kr/columns/unfair-dismissal-remedy) (2026-10-21): 부당해고를 다투는 절차와 3개월 기한, 그리고 권고사직과 해고가 갈리는 지점을 정리했습니다.
 - [울산노동변호사 체불임금 받는 순서, 노동청 진정과 민사소송](https://ulsanlawyer.kr/columns/unpaid-wage-recovery) (2026-10-20): 체불임금을 받는 절차를 노동청 진정, 민사소송, 대지급금 순서로 나누어 무엇을 먼저 해야 하는지 정리했습니다.
-
-### 교통사고
-
-- [울산교통사고전문변호사 찾을 때, 선임 전 확인할 7가지](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-specialist-lawyer-checklist) (2026-10-16): 교통사고 변호사를 찾을 때 광고 문구보다 먼저 확인해야 할 사건 검토 방식, 직접 상담 여부, 형사·보험 절차와 준비자료를 7가지 기준으로 정리했습니다.
-- [울산교통사고변호사 뺑소니 성립 기준, 현장을 떠났다면 모두 해당될까](https://ulsanlawyer.kr/columns/traffic-hit-and-run-criteria) (2026-10-14): 현장을 떠났다는 사실만으로 뺑소니가 되는 것은 아닙니다. 구호조치를 어디까지 해야 하고 도주 고의가 어떻게 판단되는지 정리했습니다.
-- [울산교통사고변호사 과실비율, 뒤집을 수 있는 자료와 다투는 순서](https://ulsanlawyer.kr/columns/traffic-fault-ratio-dispute) (2026-10-13): 보험사가 알려 준 과실비율은 확정된 숫자가 아닙니다. 어떤 근거로 정해지고 무엇으로 조정할 수 있는지 정리했습니다.
-- [울산교통사고변호사 합의금 산정 기준, 치료비·휴업손해·위자료](https://ulsanlawyer.kr/columns/traffic-injury-settlement) (2026-10-13): 교통사고 합의금은 감으로 정해지지 않습니다. 치료비·휴업손해·위자료가 각각 어떻게 계산되고 어디서 보험사 제시액과 벌어지는지 정리했습니다.
-- [울산교통사고변호사 12대 중과실, 보험으로 끝나지 않는 사고](https://ulsanlawyer.kr/columns/traffic-12-exceptions) (2026-10-12): 종합보험에 들어 있어도 12대 중과실에 해당하면 형사절차가 따로 진행됩니다. 어디까지가 해당되고 무엇이 갈림길인지 정리했습니다.
-- [울산교통사고변호사 상담 전, 사고 직후 먼저 정리할 7가지](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-lawyer-first-response) (2026-10-05): 교통사고 사건은 사고 직후 확보한 영상과 진술, 피해 회복 순서가 중요합니다. 경찰 연락을 받은 뒤 무엇부터 준비해야 하는지 정리했습니다.
-- [울산교통사고변호사 사망 사고, 형사책임과 피해 회복을 함께 본 사례](https://ulsanlawyer.kr/columns/ulsan-traffic-accident-death-victim-family-settlement) (2026-09-13): 교통사고 사망 사건은 형사책임만 보는 문제가 아닙니다. 사고 원인, 주의의무, 보험 처리, 유족과의 소통을 같은 순서 안에서 정리해야 합니다.
 
 ### 개인회생·파산
 
