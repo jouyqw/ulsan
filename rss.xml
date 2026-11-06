@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산형사전문변호사 첫 출석요구, 조사일까지 정리할 것과 진술 범위</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-first-summons</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-first-summons</guid>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>출석요구서에서 먼저 확인할 신분과 죄명, 조사 일정을 조율하는 방법, 받은 날부터 조사일까지 정리하는 자료의 순서와 다툴 부분·인정할 부분을 미리 나누어 진술 범위를 정하는 기준을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산교통사고변호사 보험으로 안 끝나는 때, 형사합의는 무엇이 다를까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-traffic-accident-lawyer-insurance-limit</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-traffic-accident-lawyer-insurance-limit</guid>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
+      <category>교통사고 칼럼</category>
+      <description>보험사가 하는 손해 합의와 피해자에게 받는 형사합의서는 쓰임이 다릅니다. 12대 중과실 사고에서 두 절차가 어디서 갈리는지, 합의금과 보험금의 관계와 합의서 문구, 연락이 닿지 않을 때의 공탁까지 순서대로 정리했습니다.</description>
+    </item>
     <item>
       <title>울산음주운전변호사 면허 처분과 형사처벌은 따로 갑니다</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-dui-lawyer-license-first</link>
@@ -230,22 +246,6 @@
       <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
       <category>부동산 칼럼</category>
       <description>보증금을 떼일 상황에서 먼저 확인할 등기부와 세금 체납, 임차권등기를 먼저 하는 이유, 경매 배당과 형사고소가 각각 어디까지 효과를 내는지 선후를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산노동변호사 체불임금 받는 순서, 노동청 진정과 민사소송</title>
-      <link>https://ulsanlawyer.kr/columns/unpaid-wage-recovery</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/unpaid-wage-recovery</guid>
-      <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
-      <category>노동 칼럼</category>
-      <description>임금을 못 받았을 때 노동청 진정으로 할 수 있는 일과 할 수 없는 일, 민사소송으로 넘어가는 시점, 사업주가 폐업한 경우 대지급금까지 받는 순서대로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산부동산변호사 명도소송 순서, 차임 연체부터 인도집행까지</title>
-      <link>https://ulsanlawyer.kr/columns/eviction-lawsuit-order</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/eviction-lawsuit-order</guid>
-      <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
-      <category>부동산 칼럼</category>
-      <description>차임이 밀렸을 때 계약 해지 통보에서 점유이전금지가처분, 명도소송, 인도집행까지 이어지는 순서와 각 단계에서 놓치면 처음부터 다시 해야 하는 지점을 정리했습니다.</description>
     </item>
   </channel>
 </rss>
