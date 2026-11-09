@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산형사전문변호사 형사합의 시점, 수사 단계와 재판 단계는 왜 다를까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-settlement-timing</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-settlement-timing</guid>
+      <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>같은 합의서라도 경찰·검찰 단계에서 내는 것과 재판 중에 내는 것은 작용하는 방식이 다릅니다. 단계별로 합의가 갖는 무게, 처벌불원 의사표시의 시한, 합의가 막혔을 때 형사공탁을 검토하는 기준과 공탁이 불리하게 읽히는 상황을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산형사전문변호사 체포적부심과 구속영장 심사, 무엇을 다툴까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-warrant-review</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-warrant-review</guid>
+      <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>체포된 상태에서 법원 판단을 받는 절차는 두 갈래로 나뉩니다. 체포의 적법성을 다투는 절차와 구속의 필요성을 다투는 절차가 어디서 갈리는지, 심문에서 법원이 확인하는 사정과 구속 사유별로 맞춰야 할 자료를 정리했습니다.</description>
+    </item>
     <item>
       <title>울산형사전문변호사 첫 출석요구, 조사일까지 정리할 것과 진술 범위</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-first-summons</link>
@@ -230,22 +246,6 @@
       <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
       <category>형사사건 칼럼</category>
       <description>신고 접수부터 사안조사, 교육지원청 심의위원회 개최까지의 순서와 가해학생 조치 1호부터 9호까지의 차이, 행정심판·행정소송으로 다투는 기간, 가해로 지목된 쪽과 피해 쪽이 각각 준비할 자료를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산노동변호사 부당해고 구제신청, 3개월과 권고사직의 경계</title>
-      <link>https://ulsanlawyer.kr/columns/unfair-dismissal-remedy</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/unfair-dismissal-remedy</guid>
-      <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
-      <category>노동 칼럼</category>
-      <description>해고를 다투는 노동위원회 구제신청의 순서와 3개월 기한, 사직서를 낸 경우에도 해고로 볼 수 있는지, 원직복직과 금전보상 중 무엇을 구할지 판단하는 기준을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산부동산변호사 전세사기 대응, 임차권등기·경매·형사고소의 순서</title>
-      <link>https://ulsanlawyer.kr/columns/jeonse-fraud-response</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/jeonse-fraud-response</guid>
-      <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
-      <category>부동산 칼럼</category>
-      <description>보증금을 떼일 상황에서 먼저 확인할 등기부와 세금 체납, 임차권등기를 먼저 하는 이유, 경매 배당과 형사고소가 각각 어디까지 효과를 내는지 선후를 정리했습니다.</description>
     </item>
   </channel>
 </rss>
