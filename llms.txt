@@ -32,6 +32,7 @@
 
 ### 이혼
 
+- [양산이혼변호사 이혼 관할은 울산지방법원, 조정절차는 어떻게 갈까](https://ulsanlawyer.kr/columns/yangsan-divorce-procedure) (2026-11-13): 양산 부부의 이혼은 울산지방법원에서 심리됩니다. 관할을 주소로 먼저 확인하고, 조정기일에 낼 조건부터 준비합니다.
 - [경주이혼변호사 이혼소송 관할과 재산분할 준비 순서](https://ulsanlawyer.kr/columns/gyeongju-divorce-procedure) (2026-11-12): 경주 거주 부부의 이혼은 대구지방법원 경주지원이 기준이 됩니다. 관할을 먼저 확인하고, 재산분할은 목록과 기준시점부터 정리합니다.
 - [울산이혼전문변호사 사업체 재산분할, 기여도와 평가는 어떻게 정해질까](https://ulsanlawyer.kr/columns/divorce-property-division-business) (2026-10-27): 사업체는 명의가 한쪽이어도 분할 대상이 됩니다. 무엇을 올리고 어떻게 평가하는지, 기여도를 무엇으로 보는지 정리했습니다.
 - [울산이혼전문변호사 재산분할 빚도 나누는가, 공동채무와 개인채무의 경계](https://ulsanlawyer.kr/columns/divorce-property-division-debt) (2026-10-27): 재산분할에서는 재산만 나누지 않습니다. 어떤 빚이 분할 대상에 들어가고 어떤 빚이 빠지는지 기준을 정리했습니다.
@@ -51,6 +52,17 @@
 - [울산이혼변호사 양육비 산정기준표 읽는 법과 증액·감액](https://ulsanlawyer.kr/columns/ulsan-divorce-child-support-calculation) (2026-08-08): 양육비는 감정으로 정하는 금액이 아닙니다. 기준표가 어떻게 작동하는지와, 받지 못할 때 쓸 수 있는 절차를 정리했습니다.
 - [울산이혼변호사 양육권 다툼, 법원이 실제로 보는 기준](https://ulsanlawyer.kr/columns/ulsan-divorce-child-custody-criteria) (2026-08-07): 돈을 더 버는 쪽이 양육권을 가져가는 것이 아닙니다. 법원이 실제로 확인하는 기준과 미리 준비해야 할 자료를 정리했습니다.
 - [울산이혼변호사 전업주부 재산분할, 기여도는 어떻게 정해질까](https://ulsanlawyer.kr/columns/ulsan-divorce-property-division-contribution) (2026-08-06): 전업주부라서 재산분할을 못 받는 것이 아닙니다. 법원이 기여도를 어떻게 계산하는지, 무엇을 자료로 남겨야 하는지 정리했습니다.
+
+### 상담·안내
+
+- [양산변호사 경찰은 양산 법원은 울산, 관할이 갈리는 이유](https://ulsanlawyer.kr/columns/yangsan-lawyer-case-entrust) (2026-11-13): 양산 사건의 재판은 울산지방법원에서 합니다. 그런데 조사는 경남 소속 양산경찰서에서 받습니다. 이 어긋남이 기한을 놓치게 만듭니다.
+- [경주변호사 경주지원 관할과 울산에서 상담받는 경우](https://ulsanlawyer.kr/columns/gyeongju-lawyer-case-entrust) (2026-11-11): 경주 사건은 대구지방법원 경주지원으로 갑니다. 다만 변호사를 어디서 선임하는지는 관할과 별개 문제입니다.
+- [울산법무법인과 개인 사무실, 내 사건은 누가 직접 보는가](https://ulsanlawyer.kr/columns/ulsan-law-firm-vs-solo) (2026-11-02): 법무법인과 개인 사무실의 차이는 규모가 아니라 내 사건을 누가 직접 보는지에서 갈립니다. 확인 방법과 계약서 항목을 정리했습니다.
+- [울산변호사상담 처음 상담 예약 전에 정리해 둘 세 가지](https://ulsanlawyer.kr/columns/ulsan-lawyer-consultation-how) (2026-10-30): 처음 상담 예약 전에 시간순 정리와 자료 목록, 질문 세 가지를 준비해 두면 같은 한 시간에서 받아 갈 수 있는 답이 달라집니다.
+- [울산변호사사무실 상담, 비용보다 먼저 확인해야 할 진행 방식](https://ulsanlawyer.kr/columns/ulsan-law-office-consultation-cost-process) (2026-10-05): 변호사사무실을 고를 때에는 비용만 비교하기보다 누가 직접 사건을 맡는지, 업무 범위와 추가 비용, 연락 방식을 구체적으로 확인해야 합니다.
+- [울산변호사사무실 선택 전, 직접 상담인지 확인해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-law-office-direct-consultation) (2026-09-14): 변호사사무실 선택에서는 누가 상담하고, 누가 기록을 보고, 누가 사건을 진행하는지가 중요합니다. 직접 상담 여부를 먼저 확인해야 합니다.
+- [울산법률상담 처음 받을 때, 변호사사무실 방문 전 준비할 것](https://ulsanlawyer.kr/columns/ulsan-legal-consultation-first-visit) (2026-09-14): 법률상담은 자료가 정리될수록 정확해집니다. 방문 전 사건 경위, 증거, 원하는 결과를 나누어 준비하면 상담의 밀도가 달라집니다.
+- [사무장·상담실장 없는 직접 상담이 중요한 이유](https://ulsanlawyer.kr/columns/direct-consultation) (2026-06-23): 초기 법률 판단을 누가 하느냐에 따라 대응 방향이 달라질 수 있습니다.
 
 ### 성범죄
 
@@ -115,16 +127,6 @@
 - [군대 외출증 위조·가혹행위, 다수 피해자 사건에서 집행유예를 받은 사례](https://ulsanlawyer.kr/columns/military-forgery-harassment-probation) (2026-06-24): 군 복무 중 외출증 위조와 다수 피해자에 대한 가혹행위가 문제 된 사건에서, 피해 회복 노력과 객관적 반성자료를 정리해 집행유예를 이끌어낸 사례입니다.
 - [특수공무집행방해 실형 위기, 벌금형으로 방어한 사례](https://ulsanlawyer.kr/columns/special-obstruction-police-fine) (2026-06-24): 경찰관과의 실랑이 중 물건이 얼굴에 맞아 특수공무집행방해 혐의를 받은 사건에서, 피해 회복과 진정성 있는 양형자료를 통해 벌금형으로 방어한 사례입니다.
 - [경찰 출석 요구를 받았다면 먼저 확인할 것](https://ulsanlawyer.kr/columns/police-investigation) (2026-06-23): 첫 조사 전 준비해야 할 자료, 진술 과정에서 주의할 점, 변호사 상담이 필요한 시점을 정리했습니다.
-
-### 상담·안내
-
-- [경주변호사 경주지원 관할과 울산에서 상담받는 경우](https://ulsanlawyer.kr/columns/gyeongju-lawyer-case-entrust) (2026-11-11): 경주 사건은 대구지방법원 경주지원으로 갑니다. 다만 변호사를 어디서 선임하는지는 관할과 별개 문제입니다.
-- [울산법무법인과 개인 사무실, 내 사건은 누가 직접 보는가](https://ulsanlawyer.kr/columns/ulsan-law-firm-vs-solo) (2026-11-02): 법무법인과 개인 사무실의 차이는 규모가 아니라 내 사건을 누가 직접 보는지에서 갈립니다. 확인 방법과 계약서 항목을 정리했습니다.
-- [울산변호사상담 처음 상담 예약 전에 정리해 둘 세 가지](https://ulsanlawyer.kr/columns/ulsan-lawyer-consultation-how) (2026-10-30): 처음 상담 예약 전에 시간순 정리와 자료 목록, 질문 세 가지를 준비해 두면 같은 한 시간에서 받아 갈 수 있는 답이 달라집니다.
-- [울산변호사사무실 상담, 비용보다 먼저 확인해야 할 진행 방식](https://ulsanlawyer.kr/columns/ulsan-law-office-consultation-cost-process) (2026-10-05): 변호사사무실을 고를 때에는 비용만 비교하기보다 누가 직접 사건을 맡는지, 업무 범위와 추가 비용, 연락 방식을 구체적으로 확인해야 합니다.
-- [울산변호사사무실 선택 전, 직접 상담인지 확인해야 하는 이유](https://ulsanlawyer.kr/columns/ulsan-law-office-direct-consultation) (2026-09-14): 변호사사무실 선택에서는 누가 상담하고, 누가 기록을 보고, 누가 사건을 진행하는지가 중요합니다. 직접 상담 여부를 먼저 확인해야 합니다.
-- [울산법률상담 처음 받을 때, 변호사사무실 방문 전 준비할 것](https://ulsanlawyer.kr/columns/ulsan-legal-consultation-first-visit) (2026-09-14): 법률상담은 자료가 정리될수록 정확해집니다. 방문 전 사건 경위, 증거, 원하는 결과를 나누어 준비하면 상담의 밀도가 달라집니다.
-- [사무장·상담실장 없는 직접 상담이 중요한 이유](https://ulsanlawyer.kr/columns/direct-consultation) (2026-06-23): 초기 법률 판단을 누가 하느냐에 따라 대응 방향이 달라질 수 있습니다.
 
 ### 음주운전
 

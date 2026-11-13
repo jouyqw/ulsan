@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>양산이혼변호사 이혼 관할은 울산지방법원, 조정절차는 어떻게 갈까</title>
+      <link>https://ulsanlawyer.kr/columns/yangsan-divorce-procedure</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/yangsan-divorce-procedure</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>양산 거주 부부의 가사사건이 왜 울산지방법원에서 심리되는지, 부부 주소에 따라 관할이 달라지는 순서를 정리했습니다. 조정을 먼저 거치는 이유와 조정기일 진행, 조정조서의 효력, 불성립 이후의 절차까지 순서대로 설명합니다.</description>
+    </item>
+    <item>
+      <title>양산변호사 경찰은 양산 법원은 울산, 관할이 갈리는 이유</title>
+      <link>https://ulsanlawyer.kr/columns/yangsan-lawyer-case-entrust</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/yangsan-lawyer-case-entrust</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
+      <category>법률상담 칼럼</category>
+      <description>양산 사건이 울산지방법원과 울산지방검찰청으로 오는 이유, 경찰과 행정처분만 경상남도로 갈리는 구조, 양산시법원에서 끝나는 사건과 본원으로 넘어가는 사건을 순서대로 정리했습니다.</description>
+    </item>
     <item>
       <title>경주이혼변호사 이혼소송 관할과 재산분할 준비 순서</title>
       <link>https://ulsanlawyer.kr/columns/gyeongju-divorce-procedure</link>
@@ -230,22 +246,6 @@
       <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
       <category>이혼소송 칼럼</category>
       <description>배우자가 사업체를 운영할 때 무엇이 분할 대상에 올라가는지 정리했습니다. 개인사업과 법인 지분의 차이, 순자산과 영업권 평가 방법, 사업장에서 함께 일한 기여와 가사 기여가 어떻게 반영되는지 설명합니다.</description>
-    </item>
-    <item>
-      <title>울산이혼전문변호사 재산분할 빚도 나누는가, 공동채무와 개인채무의 경계</title>
-      <link>https://ulsanlawyer.kr/columns/divorce-property-division-debt</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/divorce-property-division-debt</guid>
-      <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
-      <category>이혼소송 칼럼</category>
-      <description>이혼 재산분할에서 채무가 어떻게 처리되는지 정리했습니다. 분할 대상이 되는 빚과 한쪽이 혼자 지는 빚의 구분 기준, 순재산이 마이너스인 경우, 배우자가 몰래 진 채무와 부풀린 채무를 다투는 순서를 설명합니다.</description>
-    </item>
-    <item>
-      <title>울산상간소송변호사 증거 수집의 한계, 위치추적·녹음·열람의 경계</title>
-      <link>https://ulsanlawyer.kr/columns/affair-lawsuit-evidence-limit</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/affair-lawsuit-evidence-limit</guid>
-      <pubDate>Sun, 25 Oct 2026 15:00:00 GMT</pubDate>
-      <category>상간자소송 칼럼</category>
-      <description>자료를 모으다 오히려 고소를 당하는 지점이 어디인지, 차량 위치추적과 통화·대화 녹음, 배우자 휴대전화와 계정 열람이 각각 어떤 기준으로 갈리는지, 그리고 무리하지 않고 빈 곳을 채우는 절차를 순서대로 정리했습니다.</description>
     </item>
   </channel>
 </rss>
