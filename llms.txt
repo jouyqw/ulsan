@@ -30,8 +30,16 @@
 
 ## 분야별 칼럼
 
+### 학교폭력
+
+- [울산학폭변호사 학폭위 절차, 신고 접수부터 심의·처분까지](https://ulsanlawyer.kr/columns/school-violence-committee-procedure) (2026-11-17): 학폭 사안은 접수 직후 며칠 안에 학교에서 끝날지 심의위원회로 갈지가 갈립니다. 그 날짜 흐름을 정리했습니다.
+- [울산학교폭력변호사 학폭이 형사사건이 될 때, 촉법소년과 소년보호사건](https://ulsanlawyer.kr/columns/school-violence-to-criminal) (2026-10-23): 학교 절차가 끝나도 수사는 따로 남습니다. 나이에서 갈리는 분기점과 소년보호사건의 무게를 정리했습니다.
+- [울산학교폭력변호사 학폭 처분 불복, 생활기록부 기재와 90일 기한](https://ulsanlawyer.kr/columns/school-violence-appeal) (2026-10-22): 학폭 처분에 불복할지 정하는 기준은 호수 자체가 아니라 기록에 남는 방식과 남은 날짜입니다.
+- [울산학교폭력변호사 학폭 증거 정리, 심의위원회에 무엇을 낼까](https://ulsanlawyer.kr/columns/school-violence-evidence) (2026-10-22): 학폭 자료는 양이 아니라 날짜와 출처에서 힘이 생깁니다. 모으는 순서와 정리 방법을 정리했습니다.
+
 ### 상담·안내
 
+- [울주변호사 울주군·언양 사건의 관할과 상담 진행 방법](https://ulsanlawyer.kr/columns/ulju-lawyer-guide) (2026-11-17): 울주군 사건도 울산지방법원으로 갑니다. 다만 같은 울산 안에서도 이동 시간이 절차의 변수가 됩니다.
 - [밀양변호사 밀양지원 관할과 먼 거리 상담 진행 방법](https://ulsanlawyer.kr/columns/miryang-lawyer-case-entrust) (2026-11-16): 밀양 사건은 창원지방법원 밀양지원으로 갑니다. 거리가 먼 사건은 몇 번 움직여야 하는지를 먼저 계산해야 합니다.
 - [양산변호사 경찰은 양산 법원은 울산, 관할이 갈리는 이유](https://ulsanlawyer.kr/columns/yangsan-lawyer-case-entrust) (2026-11-13): 양산 사건의 재판은 울산지방법원에서 합니다. 그런데 조사는 경남 소속 양산경찰서에서 받습니다. 이 어긋남이 기한을 놓치게 만듭니다.
 - [경주변호사 경주지원 관할과 울산에서 상담받는 경우](https://ulsanlawyer.kr/columns/gyeongju-lawyer-case-entrust) (2026-11-11): 경주 사건은 대구지방법원 경주지원으로 갑니다. 다만 변호사를 어디서 선임하는지는 관할과 별개 문제입니다.
@@ -205,12 +213,6 @@
 - [울산상간소송변호사 상간자 위자료 액수는 무엇으로 정해질까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-damage-amount) (2026-08-08): 청구액이 곧 인용액은 아닙니다. 상간자 위자료가 실제로 어떤 요소로 조정되는지 정리했습니다.
 - [울산상간소송변호사 상간자 소송 증거, 어디까지 모아야 인정될까](https://ulsanlawyer.kr/columns/ulsan-affair-lawsuit-evidence-scope) (2026-08-06): 상간자 소송은 결정적 장면이 없어도 가능합니다. 어떤 자료가 부정행위로 평가되는지, 반대로 모으면 안 되는 자료는 무엇인지 정리했습니다.
 - [임신 중 부정행위 상간자 소송, 4천만 원 청구를 1천만 원으로 감액한 사례](https://ulsanlawyer.kr/columns/affair-pregnancy-damages-reduction) (2026-06-24): 임신 중 부정행위와 애정표현 문자라는 불리한 증거가 있었지만, 위자료 감액 사유를 정리해 4,000만 원 청구를 1,000만 원으로 줄인 사례입니다.
-
-### 학교폭력
-
-- [울산학교폭력변호사 학폭이 형사사건이 될 때, 촉법소년과 소년보호사건](https://ulsanlawyer.kr/columns/school-violence-to-criminal) (2026-10-23): 학교 절차가 끝나도 수사는 따로 남습니다. 나이에서 갈리는 분기점과 소년보호사건의 무게를 정리했습니다.
-- [울산학교폭력변호사 학폭 처분 불복, 생활기록부 기재와 90일 기한](https://ulsanlawyer.kr/columns/school-violence-appeal) (2026-10-22): 학폭 처분에 불복할지 정하는 기준은 호수 자체가 아니라 기록에 남는 방식과 남은 날짜입니다.
-- [울산학교폭력변호사 학폭 증거 정리, 심의위원회에 무엇을 낼까](https://ulsanlawyer.kr/columns/school-violence-evidence) (2026-10-22): 학폭 자료는 양이 아니라 날짜와 출처에서 힘이 생깁니다. 모으는 순서와 정리 방법을 정리했습니다.
 
 ### 노동
 

@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산학폭변호사 학폭위 절차, 신고 접수부터 심의·처분까지</title>
+      <link>https://ulsanlawyer.kr/columns/school-violence-committee-procedure</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/school-violence-committee-procedure</guid>
+      <pubDate>Mon, 16 Nov 2026 15:00:00 GMT</pubDate>
+      <category>학교폭력 칼럼</category>
+      <description>신고가 접수된 날부터 조치 통보까지 날짜가 어떻게 흘러가는지, 학교장 자체해결로 끝나는 선과 심의위원회로 올라가는 선은 무엇으로 갈리는지, 각 단계에서 보호자가 낼 수 있는 자료를 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울주변호사 울주군·언양 사건의 관할과 상담 진행 방법</title>
+      <link>https://ulsanlawyer.kr/columns/ulju-lawyer-guide</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulju-lawyer-guide</guid>
+      <pubDate>Mon, 16 Nov 2026 15:00:00 GMT</pubDate>
+      <category>법률상담 칼럼</category>
+      <description>울주군과 언양에서 생긴 사건이 어느 법원과 경찰서로 가는지, 같은 울산인데 이동 시간이 왜 절차에 영향을 주는지, 경계에 걸친 사건에서 관할이 갈리는 기준을 정리했습니다.</description>
+    </item>
     <item>
       <title>밀양변호사 밀양지원 관할과 먼 거리 상담 진행 방법</title>
       <link>https://ulsanlawyer.kr/columns/miryang-lawyer-case-entrust</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
       <category>산재 칼럼</category>
       <description>업무상 사망으로 인정되는 범위와 유족급여·장의비를 청구하는 순서를 정리했습니다. 연금과 일시금의 차이, 유족의 범위와 수급 순위, 과로사에서 따지는 업무시간과 직업병에서 요구되는 노출 이력까지 함께 짚었습니다.</description>
-    </item>
-    <item>
-      <title>울산변호사상담 처음 상담 예약 전에 정리해 둘 세 가지</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-lawyer-consultation-how</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-lawyer-consultation-how</guid>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
-      <category>법률상담 칼럼</category>
-      <description>처음 상담을 예약할 때 전화에서 말할 내용, 사실관계를 시간순으로 적는 방법, 가진 자료를 목록으로 만드는 기준, 그리고 변호사에게 반드시 물어 두어야 할 세 가지를 순서대로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산산재변호사 장해등급 판정, 낮게 나왔을 때 다투는 순서</title>
-      <link>https://ulsanlawyer.kr/columns/industrial-accident-disability</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/industrial-accident-disability</guid>
-      <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
-      <category>산재 칼럼</category>
-      <description>장해등급이 어떤 자료로 정해지는지, 치유 시점과 측정 방법이 등급을 어떻게 가르는지 정리했습니다. 등급이 낮게 나왔을 때 밟는 불복 절차와 함께, 빠진 상병을 넣는 추가상병 신청과 종결 뒤 악화되었을 때의 재요양까지 순서대로 짚었습니다.</description>
     </item>
   </channel>
 </rss>
