@@ -3,6 +3,27 @@
   "_categoryNote": "category 값은 build-content.js 의 COLUMN_CATEGORIES 정규식에 걸려야 분야 페이지·내부링크가 붙는다. 기존 글에서 가장 많이 쓰인 표기로 통일했다.",
   "topics": [
     {
+      "slug": "school-violence-committee-procedure",
+      "category": "학교폭력 칼럼",
+      "prefix": "울산학폭변호사",
+      "keyword": "학폭위절차 3,310 · 학폭위 1,640",
+      "angle": "신고 접수부터 심의·처분까지 날짜가 어떻게 흘러가는지. 학교장 자체해결로 끝나는 선과 심의위원회로 올라가는 선을 가른다. 보호자가 각 단계에서 낼 수 있는 자료도 함께"
+    },
+    {
+      "slug": "school-violence-report-first",
+      "category": "학교폭력 칼럼",
+      "prefix": "울산학폭변호사",
+      "keyword": "학폭신고 2,660 · 학폭위 1,640",
+      "angle": "신고가 들어갔다는 연락을 받은 날 보호자가 먼저 할 일. 아이에게 무엇을 묻고 무엇을 묻지 말아야 하는지, 상대 측과 직접 연락하면 어떻게 되는지"
+    },
+    {
+      "slug": "school-violence-measures-nine",
+      "category": "학교폭력 칼럼",
+      "prefix": "울산학폭변호사",
+      "keyword": "학교폭력심의위원회 1,550 · 학교폭력사례 2,740",
+      "angle": "1호부터 9호까지 조치가 실제로 어떻게 갈리는지. 생활기록부에 남는 것과 남지 않는 것, 졸업 후 삭제되는 조건"
+    },
+    {
       "slug": "gyeongju-lawyer-case-entrust",
       "category": "법률상담 칼럼",
       "prefix": "경주변호사",
@@ -680,6 +701,118 @@
       "prefix": "울산음주운전전문변호사",
       "keyword": "수치별 기준",
       "angle": "혈중알코올농도 구간별 처벌과 면허 처분. 측정 거부가 더 불리해지는 지점"
+    },
+    {
+      "slug": "ulsan-realestate-lawyer-jeonse-deposit",
+      "category": "부동산 칼럼",
+      "prefix": "울산부동산변호사",
+      "keyword": "울산부동산변호사 2,040",
+      "angle": "전세보증금을 못 받을 때 순서 — 내용증명부터 임차권등기, 보증금반환소송까지 걸리는 기간"
+    },
+    {
+      "slug": "ulsan-divorce-lawyer-property-share",
+      "category": "이혼소송 칼럼",
+      "prefix": "울산이혼변호사",
+      "keyword": "울산이혼변호사 1,750",
+      "angle": "재산분할에서 기여도를 다투는 자료가 어디서 나오나 — 통장·대출·부모 도움"
+    },
+    {
+      "slug": "ulsan-criminal-specialist-appeal-deadline",
+      "category": "형사사건 칼럼",
+      "prefix": "울산형사전문변호사",
+      "keyword": "울산형사전문변호사 1,900",
+      "angle": "1심 판결을 받은 뒤 항소까지 남은 날짜와 그 사이에 할 일"
+    },
+    {
+      "slug": "ulsan-sex-crime-lawyer-first-contact",
+      "category": "성범죄 칼럼",
+      "prefix": "울산성범죄변호사",
+      "keyword": "울산성범죄변호사 1,040",
+      "angle": "조사 연락을 받은 날 — 진술 범위를 어디까지 정해 두나"
+    },
+    {
+      "slug": "ulsan-traffic-lawyer-fault-ratio",
+      "category": "교통사고 칼럼",
+      "prefix": "울산교통사고변호사",
+      "keyword": "울산교통사고변호사 900",
+      "angle": "과실비율이 갈리는 자리와 블랙박스로 다툴 수 있는 범위"
+    },
+    {
+      "slug": "ulsan-dui-lawyer-license-revoke",
+      "category": "음주운전 칼럼",
+      "prefix": "울산음주운전변호사",
+      "keyword": "울산음주운전변호사 820",
+      "angle": "면허취소 구제와 형사 절차는 따로 간다 — 기한이 먼저인 쪽"
+    },
+    {
+      "slug": "ulsan-criminal-lawyer-summons-day",
+      "category": "형사사건 칼럼",
+      "prefix": "울산형사변호사",
+      "keyword": "울산형사변호사 850",
+      "angle": "출석요구서를 받은 날 정할 것 — 일정 조율과 동행 여부"
+    },
+    {
+      "slug": "ulsan-civil-lawyer-small-claim",
+      "category": "민사소송 칼럼",
+      "prefix": "울산민사변호사",
+      "keyword": "울산민사전문변호사 660",
+      "angle": "소액사건으로 갈 수 있는 범위와 직접 해도 되는 선"
+    },
+    {
+      "slug": "dui-penalty-standard-table",
+      "category": "음주운전 칼럼",
+      "prefix": "울산음주운전변호사",
+      "keyword": "음주운전벌금 16,860 · 음주운전 24,790",
+      "angle": "수치와 전력에 따라 벌금·면허·형이 어떻게 갈리는지 한 표로. 2회 이상일 때 달라지는 지점"
+    },
+    {
+      "slug": "license-revoke-relief-deadline",
+      "category": "음주운전 칼럼",
+      "prefix": "울산음주운전변호사",
+      "keyword": "면허취소구제 · 음주운전 24,790",
+      "angle": "이의신청과 행정심판은 기한이 다르다 — 먼저 오는 쪽을 놓치지 않는 법"
+    },
+    {
+      "slug": "industrial-accident-claim-steps",
+      "category": "산재 칼럼",
+      "prefix": "산재신청",
+      "keyword": "산재신청 4,200 · 산재처리방법 9,640 · 산재보험 29,300",
+      "angle": "요양급여 신청부터 승인까지의 순서와 회사가 반대할 때"
+    },
+    {
+      "slug": "serious-accident-act-scope",
+      "category": "산재 칼럼",
+      "prefix": "중대재해처벌법",
+      "keyword": "중대재해처벌법 14,530 · 산업안전보건법 34,990",
+      "angle": "중대재해처벌법이 적용되는 범위와 산안법과 겹치는 지점"
+    },
+    {
+      "slug": "industrial-accident-vs-civil-claim",
+      "category": "산재 칼럼",
+      "prefix": "산재처리방법",
+      "keyword": "산재처리방법 9,640 · 산재휴업급여 7,610",
+      "angle": "산재 승인과 별도로 회사에 손해배상을 청구할 수 있는 경우"
+    },
+    {
+      "slug": "jeonse-insurance-claim-refuse",
+      "category": "부동산 칼럼",
+      "prefix": "울산부동산변호사",
+      "keyword": "전세보증보험 18,840 · 전세사기",
+      "angle": "보증보험이 거절될 때 흔한 사유와 그다음 순서"
+    },
+    {
+      "slug": "lease-report-and-dispute",
+      "category": "부동산 칼럼",
+      "prefix": "울산부동산변호사",
+      "keyword": "임대차계약신고 13,620 · 임대차계약서 11,860",
+      "angle": "신고 의무와 계약서에서 다툼이 되는 줄"
+    },
+    {
+      "slug": "traffic-accident-criminal-line",
+      "category": "교통사고 칼럼",
+      "prefix": "울산교통사고변호사",
+      "keyword": "교통사고 33,660",
+      "angle": "보험으로 끝나는 사고와 형사가 따라붙는 사고의 경계"
     }
   ]
 }
