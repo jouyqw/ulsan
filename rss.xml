@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산이혼변호사 재산분할 기여도, 통장·대출·부모 도움은 어떻게 증명할까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-divorce-lawyer-property-share</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-divorce-lawyer-property-share</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+      <category>이혼소송 칼럼</category>
+      <description>재산분할에서 기여도를 다투는 자료가 어디서 나오는지 정리했습니다. 통장 거래내역을 뽑는 범위, 대출 상환 흐름이 비율에 미치는 영향, 부모가 보태 준 돈의 성격을 가르는 기준과 자료가 없을 때 쓰는 절차까지 설명합니다.</description>
+    </item>
+    <item>
+      <title>울산부동산변호사 전세보증금 못 받을 때, 내용증명부터 소송까지의 기간</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-realestate-lawyer-jeonse-deposit</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-realestate-lawyer-jeonse-deposit</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+      <category>부동산 칼럼</category>
+      <description>계약 종료 통지와 내용증명 작성에서 임차권등기명령, 보증금반환소송까지 각 단계가 실제로 몇 주 몇 달 걸리는지, 그리고 지연이자와 등기 비용을 누가 부담하는지 정리했습니다.</description>
+    </item>
     <item>
       <title>울산학폭변호사 학폭 1호부터 9호까지, 생활기록부에 남는 것과 삭제 조건</title>
       <link>https://ulsanlawyer.kr/columns/school-violence-measures-nine</link>
@@ -230,22 +246,6 @@
       <pubDate>Sun, 01 Nov 2026 15:00:00 GMT</pubDate>
       <category>형사사건 칼럼</category>
       <description>빌린 돈을 못 갚았다는 사실만으로 사기가 되지는 않습니다. 계좌 거래내역과 메신저 기록으로 돈을 받을 당시의 변제 의사와 능력을 다투는 순서, 투자 실패와 편취의 고의가 갈리는 기준을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산법무법인과 개인 사무실, 내 사건은 누가 직접 보는가</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-law-firm-vs-solo</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-law-firm-vs-solo</guid>
-      <pubDate>Sun, 01 Nov 2026 15:00:00 GMT</pubDate>
-      <category>법률상담 칼럼</category>
-      <description>법인과 개인 사무실의 구조가 실제로 어디에서 갈리는지, 담당 변호사가 정해지는 과정과 확인하는 방법, 수임계약서에 적어 두어야 할 항목을 의뢰인 입장에서 정리했습니다.</description>
-    </item>
-    <item>
-      <title>도박공간개설·국민체육진흥법위반 사건에서 집행유예를 받은 사례</title>
-      <link>https://ulsanlawyer.kr/cases/gambling-space-operation-probation</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/cases/gambling-space-operation-probation</guid>
-      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
-      <category>도박·형사</category>
-      <description>도박공간개설과 국민체육진흥법위반(도박개장등) 혐의로 재판받은 사건에서 가담 정도, 역할과 범죄수익 관련 자료 및 양형사정을 정리해 실형 구금을 피하고 집행유예를 받은 사례입니다.</description>
     </item>
   </channel>
 </rss>
