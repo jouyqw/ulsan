@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>울산민사변호사 소액사건 3천만 원, 직접 해도 되는 선은 어디까지일까</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-civil-lawyer-small-claim</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-civil-lawyer-small-claim</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+      <category>민사소송 칼럼</category>
+      <description>소액사건으로 처리되는 금액 범위와 이행권고결정·1회 변론 같은 절차의 특징, 본인이 직접 진행해도 무리가 없는 사건과 변호사를 붙여야 하는 사건이 갈리는 지점을 순서대로 정리했습니다.</description>
+    </item>
+    <item>
+      <title>울산형사변호사 출석요구서를 받은 날, 일정 조율과 동행 여부부터 정합니다</title>
+      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-lawyer-summons-day</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-lawyer-summons-day</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+      <category>형사사건 칼럼</category>
+      <description>출석 일시를 조정해 달라고 요청하는 방법과 받아들여지는 사유, 연기가 오히려 불리해지는 선, 혼자 가도 되는 사건과 변호인이 함께 가야 하는 사건의 구분, 참여 신청 시점과 가족 동석의 한계를 정리했습니다.</description>
+    </item>
     <item>
       <title>울산음주운전변호사 면허취소 구제와 형사절차, 어느 기한이 먼저 올까</title>
       <link>https://ulsanlawyer.kr/columns/ulsan-dui-lawyer-license-revoke</link>
@@ -230,22 +246,6 @@
       <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
       <category>교통사고 칼럼</category>
       <description>음주운전 면허 처분이 형사재판 결과를 기다려 주지 않는 이유와, 이의신청 60일·행정심판 90일 기한을 어떤 순서로 써야 하는지, 집행정지와 감경 제외 사정까지 통지받은 시점 기준으로 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산부동산변호사 보증금 반환 순서, 임차권등기부터 경매까지 걸리는 기간</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-real-estate-lawyer-deposit-return</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-real-estate-lawyer-deposit-return</guid>
-      <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
-      <category>부동산 칼럼</category>
-      <description>계약 종료 통지와 등기부 확인에서 임차권등기명령, 지급명령 또는 반환소송, 강제경매와 배당까지 각 단계가 실제로 어느 정도 걸리는지와 단계를 건너뛰었을 때 되돌아가는 지점을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산마약변호사 치료조건부 기소유예 요건, 어떤 자료로 소명할까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-treatment-condition</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-drug-lawyer-treatment-condition</guid>
-      <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>단순 투약 사건에서 치료·교육을 조건으로 한 기소유예가 검토되는 네 가지 축과, 치료보호 제도와의 차이, 검찰에 낼 진료·검사 기록과 가족 보호계획을 어떤 형태로 정리해야 읽히는지 순서대로 짚었습니다.</description>
     </item>
   </channel>
 </rss>
