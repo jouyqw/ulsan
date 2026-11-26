@@ -30,6 +30,16 @@
 
 ## 분야별 칼럼
 
+### 산재
+
+- [산재신청 요양급여 신청부터 승인까지, 회사가 반대할 때](https://ulsanlawyer.kr/columns/industrial-accident-claim-steps) (2026-11-26): 요양급여 신청서 제출부터 승인까지의 순서와 처리 기간, 회사가 산재에 반대하거나 공상 처리를 권할 때의 대응을 정리했습니다.
+- [중대재해처벌법 적용 범위, 산업안전보건법과 어디서 겹칠까](https://ulsanlawyer.kr/columns/serious-accident-act-scope) (2026-11-26): 중대재해처벌법이 적용되는 사업장과 중대산업재해의 기준, 산업안전보건법과 겹치는 지점과 갈리는 지점을 정리했습니다.
+- [울산산재변호사 업무상 사망 유족급여, 과로사와 직업병은 어떻게 입증할까](https://ulsanlawyer.kr/columns/industrial-accident-death) (2026-10-30): 업무상 사망으로 인정되는 범위와 유족급여·장의비 청구 절차, 과로사와 직업병에서 입증이 갈리는 지점을 정리했습니다.
+- [울산산재변호사 장해등급 판정, 낮게 나왔을 때 다투는 순서](https://ulsanlawyer.kr/columns/industrial-accident-disability) (2026-10-29): 장해등급이 정해지는 기준과 낮게 나왔을 때 다투는 방법, 그리고 추가상병과 재요양 신청의 순서를 정리했습니다.
+- [울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까](https://ulsanlawyer.kr/columns/industrial-accident-vs-damages) (2026-10-19): 산재 승인을 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와, 보험급여와 겹쳐 공제되는 항목을 정리했습니다.
+- [울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지](https://ulsanlawyer.kr/columns/industrial-accident-appeal) (2026-10-16): 산재 불승인 통지를 받은 뒤의 심사청구·재심사청구·행정소송 순서와 각 단계에서 놓치면 안 되는 기한을 정리했습니다.
+- [울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까](https://ulsanlawyer.kr/columns/industrial-accident-recognition) (2026-10-16): 업무상 재해로 인정되는 범위와 불승인이 나오는 이유, 그리고 출퇴근 재해와 질병 산재가 어디서 갈리는지 정리했습니다.
+
 ### 음주운전
 
 - [울산음주운전변호사 음주운전 처벌 기준표, 2회부터 무엇이 달라질까](https://ulsanlawyer.kr/columns/dui-penalty-standard-table) (2026-11-25): 수치와 전력이 만나는 자리에서 벌금·면허·형이 어떻게 갈리는지 한 표로 보고, 2회 이상일 때 달라지는 지점을 정리했습니다.
@@ -221,14 +231,6 @@
 - [울산상속변호사 상담 전, 가족 간 상속분쟁에서 먼저 확인할 자료](https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-family-dispute) (2026-10-05): 상속분쟁은 감정적인 주장보다 상속인, 재산, 채무, 생전 증여와 기여 자료를 먼저 확정해야 해결의 출발점을 잡을 수 있습니다.
 - [울산상속변호사 유류분 청구 기간, 놓치기 전에 확인할 것](https://ulsanlawyer.kr/columns/ulsan-inheritance-lawyer-reserved-portion-deadline) (2026-09-14): 유류분은 억울하다는 마음만으로 인정되지 않습니다. 기간 제한과 생전 증여 자료, 부족액 계산을 먼저 확인해야 합니다.
 - [울산상속변호사 상속재산분할과 유류분, 가족 다툼을 조정한 사례](https://ulsanlawyer.kr/columns/ulsan-inheritance-division-reserved-portion-case) (2026-09-13): 상속 분쟁은 가족 감정과 돈의 흐름이 함께 얽힙니다. 재산 목록, 증여 내역, 특별수익, 기여분을 자료로 나누어야 조정 가능성이 열립니다.
-
-### 산재
-
-- [울산산재변호사 업무상 사망 유족급여, 과로사와 직업병은 어떻게 입증할까](https://ulsanlawyer.kr/columns/industrial-accident-death) (2026-10-30): 업무상 사망으로 인정되는 범위와 유족급여·장의비 청구 절차, 과로사와 직업병에서 입증이 갈리는 지점을 정리했습니다.
-- [울산산재변호사 장해등급 판정, 낮게 나왔을 때 다투는 순서](https://ulsanlawyer.kr/columns/industrial-accident-disability) (2026-10-29): 장해등급이 정해지는 기준과 낮게 나왔을 때 다투는 방법, 그리고 추가상병과 재요양 신청의 순서를 정리했습니다.
-- [울산산재변호사 산재와 손해배상, 둘 다 받을 수 있을까](https://ulsanlawyer.kr/columns/industrial-accident-vs-damages) (2026-10-19): 산재 승인을 받은 뒤에도 회사에 손해배상을 청구할 수 있는 경우와, 보험급여와 겹쳐 공제되는 항목을 정리했습니다.
-- [울산산재변호사 산재 불승인 대응, 심사청구부터 행정소송까지](https://ulsanlawyer.kr/columns/industrial-accident-appeal) (2026-10-16): 산재 불승인 통지를 받은 뒤의 심사청구·재심사청구·행정소송 순서와 각 단계에서 놓치면 안 되는 기한을 정리했습니다.
-- [울산산재변호사 산재 인정 기준, 업무상 재해는 어디까지일까](https://ulsanlawyer.kr/columns/industrial-accident-recognition) (2026-10-16): 업무상 재해로 인정되는 범위와 불승인이 나오는 이유, 그리고 출퇴근 재해와 질병 산재가 어디서 갈리는지 정리했습니다.
 
 ### 상간소송
 

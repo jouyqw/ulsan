@@ -5,8 +5,24 @@
     <link>https://ulsanlawyer.kr/</link>
     <description>울산 형사·민사·이혼·성범죄·부동산 사건의 법률 칼럼과 성공사례</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ulsanlawyer.kr/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>산재신청 요양급여 신청부터 승인까지, 회사가 반대할 때</title>
+      <link>https://ulsanlawyer.kr/columns/industrial-accident-claim-steps</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/industrial-accident-claim-steps</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+      <category>산재 칼럼</category>
+      <description>요양급여 신청서를 어디에 내고 승인까지 어떤 순서로 진행되는지, 사고 재해와 질병의 처리 기간이 어떻게 다른지 정리했습니다. 사업주 날인 없이 신청하는 방법과 회사가 경위를 다르게 적어 냈을 때의 대응, 공상 처리 권유를 받았을 때 확인할 점도 함께 짚었습니다.</description>
+    </item>
+    <item>
+      <title>중대재해처벌법 적용 범위, 산업안전보건법과 어디서 겹칠까</title>
+      <link>https://ulsanlawyer.kr/columns/serious-accident-act-scope</link>
+      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/serious-accident-act-scope</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+      <category>산재 칼럼</category>
+      <description>중대재해처벌법이 적용되는 사업장과 중대산업재해로 보는 기준, 경영책임자에게 요구되는 안전보건 확보의무를 정리했습니다. 산업안전보건법과 처벌 대상·의무 내용이 어디서 갈리고 어디서 겹치는지, 도급 구조에서 책임이 어디까지 올라가는지 함께 짚었습니다.</description>
+    </item>
     <item>
       <title>울산음주운전변호사 음주운전 처벌 기준표, 2회부터 무엇이 달라질까</title>
       <link>https://ulsanlawyer.kr/columns/dui-penalty-standard-table</link>
@@ -230,22 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
       <category>형사사건 칼럼</category>
       <description>같은 합의서라도 경찰·검찰 단계에서 내는 것과 재판 중에 내는 것은 작용하는 방식이 다릅니다. 단계별로 합의가 갖는 무게, 처벌불원 의사표시의 시한, 합의가 막혔을 때 형사공탁을 검토하는 기준과 공탁이 불리하게 읽히는 상황을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 체포적부심과 구속영장 심사, 무엇을 다툴까</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-warrant-review</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-warrant-review</guid>
-      <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>체포된 상태에서 법원 판단을 받는 절차는 두 갈래로 나뉩니다. 체포의 적법성을 다투는 절차와 구속의 필요성을 다투는 절차가 어디서 갈리는지, 심문에서 법원이 확인하는 사정과 구속 사유별로 맞춰야 할 자료를 정리했습니다.</description>
-    </item>
-    <item>
-      <title>울산형사전문변호사 첫 출석요구, 조사일까지 정리할 것과 진술 범위</title>
-      <link>https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-first-summons</link>
-      <guid isPermaLink="true">https://ulsanlawyer.kr/columns/ulsan-criminal-specialist-first-summons</guid>
-      <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
-      <category>형사사건 칼럼</category>
-      <description>출석요구서에서 먼저 확인할 신분과 죄명, 조사 일정을 조율하는 방법, 받은 날부터 조사일까지 정리하는 자료의 순서와 다툴 부분·인정할 부분을 미리 나누어 진술 범위를 정하는 기준을 정리했습니다.</description>
     </item>
   </channel>
 </rss>
